@@ -1,0 +1,151 @@
+---
+archive_id: techtunes-492724
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 492724
+title: ফ্যাশনে নতুন আকর্ষণ স্টাইলিশ মানিব্যাগ!!
+slug: sponsored-tune-492724
+language: bn
+status: publish
+published_at: '2017-05-16T05:33:00+00:00'
+modified_at: '2017-05-16T05:33:00+00:00'
+original_url: https://www.techtunes.io/sponsored-tune/tune-id/492724
+author: আজকের ডিল ডট কম
+author_url: https://www.techtunes.io/tuner/ajkerdeal
+categories:
+- স্পন্সরড টিউন
+tags:
+- আজকের ডিল
+- টেকটিউনস এ
+content_hash: 66190b661e050bf0e831c8dc85e6430020bf759e721e43fd7579b196b5b068b2
+archived_at: '2026-11-12T12:52:57.739310+00:00'
+---
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/u25_281570_376118.jpg)](https://ajkerdeal.com/Category/Belt-Wallet-Wallet?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Category/Belt-Wallet-Wallet?src=frombeshto)
+
+ফ্যাশন কি শুধু নতুন ডিজাইনের পোশাক-আশাকেই? না ফ্যাশন এখন আর পোশাক আশাকে সীমাবদ্ধনেই। ফ্যাশনের গণ্ডি এখন পোশাক-আশাক ছাড়িয়ে পৌঁছে গেছে হাতের ব্রেসলেট, চোখের চশমা, গলার বিশেষ মালা, এমনকি পকেটের মানিব্যাগ পর্যন্ত। বিশেষ করে মানিব্যাগের ফ্যাশন বর্তমান সময়ে জমে উঠেছে দারুণভাবে। মানিব্যাগের ফ্যাশনে মজেনি এমন তরুণ-তরুণী এখন খুঁজে পাওয়া দুষ্কর। এখন আর শুধু টাকা রাখার জন্যই মানিব্যাগ ব্যবহার করা হয় না। সুন্দর ও আধুনিক একটি মানিব্যাগ ব্যক্তিকে যেমন ফ্যাশনেবল করে তোলে, তেমনি প্রকাশ করে মর্যাদাপূর্ণ আভিজাত্য। সেই সঙ্গে সহজে বহনযোগ্য মানিব্যাগে টাকা-পয়সা নিরাপদ তো থাকেই, সঙ্গে রাখা যায় প্রয়োজনীয় ভিজিটিং এবং ডেবিট ও ক্রেডিট কার্ডও।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1.jpg)](https://ajkerdeal.com/Product/409989/Apple-Synthetic-Leather-Wallet?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/409989/Apple-Synthetic-Leather-Wallet?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-1.jpg)](https://ajkerdeal.com/Product/175413/Levi?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/175413/Levi?src=frombeshto)
+
+তরুণ কিংবা বয়স্ক সবাইকে এখন নানা প্রকৃতির মানিব্যাগ ব্যবহার করতে দেখা যায়। মানিব্যাগগুলোর মডেল নির্ধারিত হয় ডিজাইন, রঙ ও কাঁচামালের ভিন্নতায়। বেশির ভাগ মানিব্যাগ তৈরি হয় চামড়া দিয়ে। সেই সঙ্গে রেকসিনের সুনিপুণ ব্যবহারও থাকে। বাজারে আরও পাওয়া যায় বিভিন্ন প্রাণীর চামড়া, আর্টিফিশিয়াল লেদার ও খাঁটি চামড়ার মানিব্যাগ। এছাড়া কিছু মানিব্যাগে আজকাল নামি ব্র্যান্ডের ধাতব, বিভিন্ন লোগোও সংযুক্ত করতে দেখা যায়, যার মাধ্যমে মানিব্যাগগুলো দেখতে দৃষ্টিন্দন হয়ে ওঠে। সুন্দর ও আকর্ষণীয় মানিব্যাগ এখন অনেকটাই শিল্পের মতো।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage2.jpg)](https://ajkerdeal.com/Product/381427/Regular-Shaped-Wallet?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/381427/Regular-Shaped-Wallet?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-2.jpg)](https://ajkerdeal.com/Product/433062/Credit-card-wallet-?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/433062/Credit-card-wallet-?src=frombeshto)
+
+ছেলে ও মেয়েদের জন্য ভিন্ন ভিন্ন মডেলের মানিব্যাগ পাওয়া যায়। যেমন ছোট, মাঝারি, বড় ও লম্বাটে মানিব্যাগ। ব্র্যান্ডভেদে এগুলোর আকার আলাদা আলাদা। ছোট ব্যাগগুলো সাধারণত ছেলেরাই ব্যবহার করে। দুই স্তরবিশিষ্ট ব্যাগগুলোতে অল্প কাগজের নোট, ছবি ও ভিজিটিং কার্ড রাখা সুবিধাজনক।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-3.jpg)](https://ajkerdeal.com/Product/406661/Stylish-Gents-Wallet?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/406661/Stylish-Gents-Wallet?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-4.jpg)](https://ajkerdeal.com/Product/434970/Bogesi-Long-Shaped-Gents-Wallet-(Copy)?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/434970/Bogesi-Long-Shaped-Gents-Wallet-(Copy)?src=frombeshto)
+
+তুলনামূলক অনেক চেম্বারবিশিষ্ট মানিব্যাগের প্রচলন বেশি। এটাকে বলা হয় ফোল্ডিং মানিব্যাগ। বাজারে ট্রাই ফোল্ডিং মানিব্যাগও আছে। আকারে খুব বড় না হলেও এগুলো তিনটি ভাঁজ করা যায়। মানুষের নানারকম চাহিদার উপর ভিত্তি করে বিভিন্ন রঙের মানিব্যাগ দেখা যায়। সবচেয়ে জনপ্রিয় হল কালো ও কফি রঙেরগুলো। সেই সঙ্গে লালচে, গ্রে ও গাঢ় অফহোয়াইট রঙের মানিব্যাগও প্রচুর বিক্রি হয়। ছেলেদের মানিব্যাগ দুই-তিনটি রঙের হলেও মেয়েদের মানিব্যাগে রঙের বৈচিত্র্য লক্ষ করা যায়। ফলে বাজার ঘুরে দেখেশুনে বাছাই করে সুন্দর একটি মানিব্যাগ আজই কিনে ফেলুন। নান্দনিক ডিজাইনের অভিজাত মানিব্যাগে বাড়িয়ে নিন নিজের ব্যক্তিত্ব!
+
+## পাবেন কোথায় ও দরদাম :
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-5.jpg)](https://ajkerdeal.com/Product/446707/Dollar-printed-regular-shaped-wallet-for-men-?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/446707/Dollar-printed-regular-shaped-wallet-for-men-?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorvi/492724/smallImage1-6.jpg)](https://ajkerdeal.com/Product/425341/jlw-long-shaped-leather-wallet-30-discount?src=frombeshto)
+
+[কিনতে ক্লিক করুন।](https://ajkerdeal.com/Product/425341/jlw-long-shaped-leather-wallet-30-discount?src=frombeshto)
+
+ব্র্যান্ড ও নন-ব্র্যান্ড দুই রকম মানিব্যাগই পাওয়া যায় বাজারে। ব্র্যান্ডের মানিব্যাগের জন্য যে কোনো শপিংমলে যেতে পারেন। বড় ফ্যাশন হাউসগুলোও এখন নিজেদের সংগ্রহে মানিব্যাগ রাখছে। চাইলে সেখান থেকেও বেছে নিতে পারেন নিজের পছন্দের মানিব্যাগ। দেশী ব্র্যান্ডের মানিব্যাগগুলোর দাম পড়বে ৩০০ থেকে ২০০০ টাকা পর্যন্ত। আর বিদেশী ব্র্যান্ডের মানিব্যাগের দাম পড়বে ৫০০ থেকে ৪০০০ টাকা পর্যন্ত। অনলাইন প্লাটফর্ম থেকেও মানিব্যাগ কিনতে পারেন। অনলাইনে ঘরে বসে মানিব্যাগ কিনতে **[এখানে ক্লিক করুন](https://ajkerdeal.com/Category/Belt-Wallet-Wallet?src=frombeshto)**।
+
+-
+
+-
+
+-  
+ ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/476582/0000.png)
+
+**কৃতজ্ঞতা স্বীকার**: আমাদের চারদিকে ঘটছে অনেক কিছু। আমাদের সবার মনেই আছে অনেক কথা নানা জিজ্ঞাসা নিজস্ব মতামত। অনেক কিছু আমরা জানতে চাই আবার জানাতেও চাই। নিজের চেনা জানার বাইরেও আছে আরেকটি জগত যারা হয়ত আমাদের মতই ভাবছে চিন্তা করছে। তোমাকে তোমার নিজের মত করে প্রকাশ করার একটি নতুন জায়গা - বেশতো ! চল ঘুরে আসি।
+
+-  
+ -  
+ -
+
+## কেন আজকের ডিল ?
+
+ঢাকার বাইরের ক্রেতাদের কথা বিবেচনা করে দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম দিচ্ছে ৪৮ ঘণ্টার মধ্যে দেশের ৪৫ টি জেলায় পণ্য ডেলিভারী সুবিধা। এখন থেকে আপনার কাঙ্ক্ষিত পণ্যটি গ্রহণ করতে পারবেন আপনার নিকটস্থ এস,এ পরিবহনের শাখা অফিস থেকে। এস,এ পরিবহন শাখা অফিসে মূল্য পরিশোধ করে গ্রহণ করুন আপনার কাঙ্ক্ষিত পণ্য।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/site-home-page.jpg)
+
+## ঘরে বসে অর্ডার দিন, পণ্য বুঝে মূল্য দিন
+
+- **Cash on Delivery (Free for Maximum Deals) :**ঘরে বসেই পেয়ে যাবেন আপনার ক্রয় করা পণ্যটি আর ক্যাশ পেমেন্ট করতে পারবেন ঘরে বসেই।
+- **Lowest Price in Market :**আজকের ডিলের মূল উদ্দশ্যই সুলভ মূল্য আর বাজারের মূল থেকেও কম দামে পণ্য আর সার্ভিস আপনাকে পৌঁছে দেওয়া।
+- **Online Payment Facility :**আপনি আপনার ডেবিড কার্ড, ক্রেডিট কার্ড, ভিসা, মাস্টার কার্ড এমন কী বিকাশ থেকে অনলাইনে পেমেন্ট করে ডিল ক্রয় করতে পারবেন।
+- **Delivery within shortest period of time :**আজকের ডিল টিম, যথা সম্ভব কম আর দ্রুত সময়ের মধ্যে আপনার কাছে পণ্য পৌঁছিয়ে দিবে।
+
+## 24 ঘণ্টা 7 দিন এখন পণ্য কিনুন আজকের ডিল থেকেঃ
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/electrical_24-7helpline.jpg)
+
+সপ্তাহে ৭ দিন এবং ২৪ ঘন্টা পণ্য কিনতে পারবেন আজকের ডিল থেকে। ২৪ ঘন্টা কাস্টোমার সাপোর্ট থাকছে সেই সাথেই। ছুটি কিংবা হরতাল এখন আর নো চিন্তা, কেনাকাটার জন্য সব সময় প্রস্তুত আজকের ডিল।
+
+## পরিশোধ নিয়ে দুশ্চিন্তার কোন কারন নেই ? আজকের ডিলে পাচ্ছেন সব ধরনের পেমেন্ট সুবিধা।
+
+আজকের ডিল ডট কম ক্রেতাদের মূল্য পরিশোধ করার জন্য করেছে সবচেয়ে সহজ ও সুবিধাজনক পদ্ধতি। ক্রেতারা অনলাইনে ক্রেডিট কার্ডের সাহায্যে মূল্য পরিশোধ করতে পারবে। বিকাশ করে মূল্য পরিশোধ করতে পারবে। পণ্য বুঝে পাবার পর মূল্য পরিশোধ করতে পারবে। এছাড়াও সরাসরি আজকের ডিল ডট কম অফিস থেকে পণ্য সংগ্রহ করে মূল্য পরিশোধ করতে পারবে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/image004.png)
+
+## সরাসরি ফোনে অর্ডার করে পণ্য ক্রয় করতে পারেন আজকের ডিল থেকে
+
+আজকের ডিল আপনাদের জন্য নিয়ে এল সরাসরি ফোনে অর্ডার করে পণ্য কেনার সুবিধা। সরাসরি ফোন করে এখন থেকে আপনি আপনার পছন্দের পণ্য  কিনতে পারবেন আজকের ডিল থেকে। আপনার অর্ডার করতে ডায়াল করুন এ ০৯৬১২ ০০৭ ০০৭  নাম্বারে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/order_Genfx-phone.png)
+
+## আজকের ডিল কাস্টমার কেয়ার বিভাগঃ
+
+আজকের ডিল ডট কম, সুমনা গনি ট্রেড সেন্টার, প্লট নং - ০২, লেভেল-০৫,পান্থপথ, কাওরান বাজার, ঢাকা-১২১৫।
+
+এছাড়া যেকোন তথ্য জানার জন্য ফোন করতে পারেন এই নং এ –০১৮৩৩৩২৮৪৯৪, ০১৮৪৭০২৭৫১৩, ০১৭৫৫৫৮২৫৭০
+
+## নতুন নতুন অফার আর আকর্ষণীয় ডিসকাউন্ট পেতে চোখ রাখুন আজকের ডিল এর ফেসবুক পেজে।
+
+**<https://www.facebook.com/ajkercrazydeal/>**
+
+আমরা প্রতিনিয়ত আমাদের ফানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/adeal-cover-photo-image.jpg)
+
+আমরা প্রতিনিয়ত আমাদের ফ্যানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+ছাড়াও আমাদেরকে ই-মেইল করতে পারেন। [[email protected]](/cdn-cgi/l/email-protection#e1888f878ea1808b8a84938584808dcf828e8c) এ ঠিকানায়। সোশ্যাল মাধ্যম গুলোতে আমাদের সাথে যোগাযোগ রাখতে নিচের সাইট গুলো অনুসরণ করুন -
+
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image006.png)   <https://www.facebook.com/ajkercrazydeal/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/451769/YouTube-Logo.png)  <https://www.youtube.com/channel/UCTqiISg5IgkqC9P_mPE0kRQ>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image007.png)  <https://twitter.com/AjkerDeal>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image008.png)   <https://www.linkedin.com/company/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image009.png)](https://plus.google.com/u/0/107046995651584979780/posts)    <https://plus.google.com/117781436459932043678/posts>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image010.png)](https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal)  <https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842954_Instagram.png)](https://www.instagram.com/ajkerdeal.com.ltd/)  <https://www.instagram.com/ajkerdeal.com.ltd/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842964_pinterest.png)  <https://www.pinterest.com/ajkerdeal2011/>
+
+আপনাদের সন্তুষ্টি, আমাদের অর্জন
+
+আমাদের ১ লক্ষ+ রকমারি পণ্য থেকে বেছে নিতে পারেন আপনার প্রয়োজনীয় পণ্যটি। সারা দেশে ক্যাশ অন ডেলিভারী সহ পাচ্ছেন ৪৮ ঘণ্টার মধ্যে নিশ্চিত ডেলিভারী। তাহলে আর দেরী কেন, অর্ডার দিন এখনি আর ঝটপট নিয়ে নিন ডেলিভারী!
+
+### "দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম এর সাথে থাকার জন্য আপনাকে আন্তরিক ভাবে ধন্যবাদ"
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)

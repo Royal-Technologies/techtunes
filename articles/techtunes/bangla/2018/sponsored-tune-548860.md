@@ -1,0 +1,166 @@
+---
+archive_id: techtunes-548860
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 548860
+title: ভালোবাসা দিবসের সেরা কিছু গিফট আইডিয়া
+slug: sponsored-tune-548860
+language: bn
+status: publish
+published_at: '2018-02-06T10:59:00+00:00'
+modified_at: '2018-02-07T07:37:00+00:00'
+original_url: https://www.techtunes.io/sponsored-tune/tune-id/548860
+author: আজকের ডিল ডট কম
+author_url: https://www.techtunes.io/tuner/ajkerdeal
+categories:
+- স্পন্সরড টিউন
+tags:
+- আজকের ডিল ডট কম
+- টেকটিউনস স্পন্সরড টিউন
+- ভালবাসা
+content_hash: 0d73dfbf8141647837d2cf8152bc9b36bb6ba9610294dc96353fca1485ec0a57
+archived_at: '2026-11-12T12:33:23.865558+00:00'
+---
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে 'আজকের ডিল ডট কম'  
+ Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপণ দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)
+
+অন্তহীন ভালোবাসার মানুষটিকে ভালবেসে নতুন কিছু উপহার দেবার দিন প্রায় চলে এসেছে। প্রতি বছর বিশ্ব ভালোবাসা দিবসে নিজের পছন্দের মানুষটির জন্য দারুন কিছু উপহার কিনে দেবার জন্য আপনার মনটিও নিশ্চয় আনচান করে। ভালবেসে প্রিয় মানুষটির জন্য যে সকল আপু ও ভাইয়ারা নতুন কিছু উপহার দিতে চান তাদের জন্য রইলো দারুন কিছু গিফট আইডিয়া।
+
+**একগুচ্ছ ফুল:**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_209931_433476.jpg)](https://ajkerdeal.com/category/fresh-flower)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/category/fresh-flower)
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_450191_668757.jpg)](https://ajkerdeal.com/product/596643/lighting-flowers?src=frombeshto)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/596643/lighting-flowers?src=frombeshto)
+
+ফুলকে ভালবাসেন না এমন মানুষ খুব কমই আছে এই পৃথিবীতে। সবাই কমবেশী ফুলকে ভালবাসে। আর এই ফুল দুজনের ভালবাসার মাঝে আরো সুগন্ধী আরও বাড়িয়ে দেয়। যাকে ভালবাসেন আপনি তাকে এই ফুলের মাঝেই বরণ করে নিন এই ভালবাসা দিবসে। ফুল যেন পবিত্র ভালোবাসাকে আরো পবিত্র করে তোলে। তাছাড়া স্মার্ট এই যুগে প্রিয় মানষটিকে দিতে পারেন লাইটিং ফ্লাওয়ার্স।
+
+**৪ পিসের কম্বোঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_686235_244835.jpg)](https://ajkerdeal.com/product/612176/valentine-gift-4-pieces-combo-offer-for-men?src=frombeshto)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/612176/valentine-gift-4-pieces-combo-offer-for-men?src=frombeshto)
+
+ভালোবাসা দিবসে আপনার মনের মানুষটিকে কি উপহার দিবেন সেটি নিয়ে কি চিন্তিত? সব মার্কেট হন্য হয়ে খুঁজেও মিলছে না মনের মত উপহার? তাহলে, এই দুর্দান্ত কম্বো অফারটি আপনারই জন্য! ৪ পিসের কম্বো অফারে রয়েছে। মেনজ স্টাইলিশ সানগ্লাস, আর্টিফিসিয়াল লেদার ক্যাজুয়াল বেল্ট, লেদার ওয়ালেট, Xenlex মেনজ ওয়াচ।
+
+**লাভ পিলোঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_445082_556999.jpg)](https://ajkerdeal.com/product/602157/valentine-gift-box-with-pillow?src=frombeshto) [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/602157/valentine-gift-box-with-pillow?src=frombeshto)
+
+![](https://ajkerdeal-a.akamaihd.net/Images/Deals/168532401131243/smallImage1.jpg)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/602157/valentine-gift-box-with-pillow?src=frombeshto)
+
+লাভ শেপড পিলো ভালোবাসা দিবসের অন্যতম একটি আকর্ষণ। আপনারা যদি স্বামী-স্ত্রী হয়ে থাকেন তাহলে নিজেদের ঘরের জন্য এক জোড়া লাভ পিলো নিয়ে নিতে পারেন। প্রেমিক প্রেমিকা হলে একজন অপর জনকে লাভ পিলো গিফট করতে পারেন।
+
+**Surprise ভ্যালেন্টাইন গিফট বক্সঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_483553_229513.jpg)](https://ajkerdeal.com/product/605625/valentines-i-love-you-surprise-gift-box?src=frombeshto)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/605625/valentines-i-love-you-surprise-gift-box?src=frombeshto)
+
+আপনি কি আপনার ভালোবাসার মানুষটিকে এই ভালবাসা দিবসে চমকপ্রদ কিছু উপহার দিতে চান অথবা মনের মানুষটিকে অন্যভাবে নিজের ভালোবাসার কথা জানাতে চান? তাহলে আপনার জন্যই এই Surprise ভ্যালেন্টাইন গিফট বক্সটি! এই বক্সটি খোলার সাথে সাথে ভিতর থেকে " I Love You" বলে একটি কিউট কণ্ঠস্বর আপনার প্রিয়জনকে চমকে দিবে এই বক্সটি যে শুধু আপনার প্রিয়জনকে চমকে দিবে তাই না, এটির আকর্ষণীয় ডিজাইন আপনার ভালোবাসার মানুষটিকে মুগ্ধ করবে ভালোবাসা দিবসের জন্য একটি পারফেক্ট উপহার!
+
+**গহনাঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_974019_705296.jpg)](https://ajkerdeal.com/category/womens-fashion-jewellery)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/category/womens-fashion-jewellery)
+
+কম দামী হোক আর বেশি দামের হোক ওই দিন ভালবাসার মানুষকে গহনা জাতীয় কিছু উপহার দিতে পারেন। গলার অথবা কানের গহনা অথবা হাতের ব্রেসলেট দিতে পারেন। তবে কিনার সময় অবশ্যই আপনার ভালবাসার মানুষটির সাথে যাতে মানানসই হয় তা ভেবে কিনবেন আর এই ক্ষেত্রে আপনাকে আপনার কল্পনা শক্তি ব্যবহার করতে হবে।
+
+**টেডি বিয়ার ও ডলঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_957891_991698.jpg)](https://ajkerdeal.com/product/607535/heart-%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/607535/heart-%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-)
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_732172_281093.jpg)](https://ajkerdeal.com/product/610841/i-love-you-panda-doll?src=frombeshto)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/610841/i-love-you-panda-doll?src=frombeshto)
+
+আপনার ভালবাসার মানুষের পছন্দের তালিকায় যদি থাকে পুতুল, তবে এবার নারী দিবসে তাকে সুন্দর একটি টেডি বিয়ার উপহার দিয়ে চমকে দিন। সে নির্দ্বিধায় পছন্দ করতে বাধ্য, জানেন তো, বিশ্বের সবচেয়ে দামি ৫টি উপহারের মধ্যে চতুর্থ নাম্বারে আছে বিশ্বের সবচেয়ে দামি টেডি বিয়ার।
+
+**ভ্যালেন্টাইন মগঃ**
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_283876_163434.jpg)](https://ajkerdeal.com/product/603278/ceramic-mug)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/603278/ceramic-mug)
+
+বর্তমানে কাস্টমাইজড মগ উপহার হিসেবে সবচেয়ে বেশি জনপ্রিয় হয়ে উঠেছে। আজকের ডিলের মত দেশের জনপ্রিয ই-কমার্স সাইটে বিভিন্ন দামের মগ কিনতে পাওয়া যায়। ভ্যালেনটাইন’স স্পেশাল কাপল মগ ও উপহার হিসেবে দিতে পারেন।
+
+[![](https://ajkerdeal-a.akamaihd.net/Images/Deals/50902801105114/smallImage1.jpg)](https://ajkerdeal.com/category/couple-offer)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/category/couple-offer)  
+ [![](https://ajkerdeal-a.akamaihd.net/Images/Deals/145732801120023/smallImage3.jpg)](https://ajkerdeal.com/product/407839/combo-offer-for-couple)  
+ [➡ কিনতে ক্লিক করুন](https://ajkerdeal.com/product/407839/combo-offer-for-couple)
+
+এগুলো ছাড়াও পছন্দের তালিকায় রাখতে পারেন, যুগলবন্দী পোশাক, টিশার্ট, শাড়ি, স্মার্টফোন ও যেকোন গ্যাজেট আইটেম। আসছে ভালোবাসা দিবসে আপনার যারা প্রিয় জনের জন্য কিছু কিনতে চান তাদের জন্য আজকের ডিল ডটকম নিয়ে এসেছে নতুন নতুন সব উপহার। আপনারা আজকের ডিল ডট কম থেকে অনলাইনে অর্ডার করে আপনার পছন্দের পণ্যটি কিনতে পারেন। চাইলে প্রিয় জনের ঠিকানায় গিফট হিসেবে পৌঁছে দিতে পারবেন। অনলাইনে কিনতে ও কালেকশন দেখতে **[এখানে ক্লিক করুন](https://ajkerdeal.com/en/category/valentine-carnival-gift-item)।**
+
+-  
+ -  
+ -  
+ ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/476582/0000.png)  
+ কৃতজ্ঞতা স্বীকার: আমাদের চারদিকে ঘটছে অনেক কিছু। আমাদের সবার মনেই আছে অনেক কথা নানা জিজ্ঞাসা নিজস্ব মতামত। অনেক কিছু আমরা জানতে চাই আবার জানাতেও চাই। নিজের চেনা জানার বাইরেও আছে আরেকটি জগত যারা হয়ত আমাদের মতই ভাবছে চিন্তা করছে। তোমাকে তোমার নিজের মত করে প্রকাশ করার একটি নতুন জায়গা - বেশতো! চল ঘুরে আসি।  
+ -  
+ -  
+ -
+
+## কেন আজকের ডিল?
+
+ঢাকার বাইরের ক্রেতাদের কথা বিবেচনা করে দেশের সবচেয়ে বড় অনলাইন মার্কেট প্লেস আজকের ডিল ডট কম দিচ্ছে ২-৫ দিনের মধ্যে ঢাকায় এবং ৪-৭ দিনের মধ্যে সারা দেশে পণ্য ডেলিভারী সুবিধা। এখন থেকে আপনার কাঙ্ক্ষিত পণ্যটি গ্রহণ করতে পারবেন আপনার নিকটস্থ এস, এ পরিবহনের শাখা অফিস থেকে কিংবা সুন্দরবন কুরিয়ার থেকে। এস, এ পরিবহন শাখা অফিসে মূল্য পরিশোধ করে গ্রহণ করুন আপনার কাঙ্ক্ষিত পণ্য।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/site-home-page.jpg)
+
+## ঘরে বসে অর্ডার দিন, পণ্য বুঝে মূল্য দিন!
+
+- **Cash on Delivery (Free for Maximum Deals) :**ঘরে বসেই পেয়ে যাবেন আপনার ক্রয় করা পণ্যটি আর ক্যাশ পেমেন্ট করতে পারবেন ঘরে বসেই।
+- **Lowest Price in Market :**আজকের ডিলের মূল উদ্দশ্যই সুলভ মূল্য আর বাজারের মূল থেকেও কম দামে পণ্য আর সার্ভিস আপনাকে পৌঁছে দেওয়া।
+- **Online Payment Facility :**আপনি আপনার ডেবিড কার্ড, ক্রেডিট কার্ড, ভিসা, মাস্টার কার্ড এমন কী বিকাশ থেকে অনলাইনে পেমেন্ট করে ডিল ক্রয় করতে পারবেন।
+- **Delivery within shortest period of time :**আজকের ডিল টিম, যথা সম্ভব কম আর দ্রুত সময়ের মধ্যে আপনার কাছে পণ্য পৌঁছিয়ে দিবে।
+
+## 24 ঘণ্টা 7 দিন এখন পণ্য কিনুন আজকের ডিল থেকেঃ
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/electrical_24-7helpline.jpg)
+
+সপ্তাহে ৭ দিন এবং ২৪ ঘন্টা পণ্য কিনতে পারবেন আজকের ডিল থেকে। ২৪ ঘন্টা কাস্টোমার সাপোর্ট থাকছে সেই সাথেই। ছুটি কিংবা হরতাল এখন আর নো চিন্তা, কেনাকাটার জন্য সব সময় প্রস্তুত আজকের ডিল।
+
+## পরিশোধ নিয়ে দুশ্চিন্তার কোন কারন নেই? আজকের ডিলে পাচ্ছেন সব ধরনের পেমেন্ট সুবিধা।
+
+আজকের ডিল ডট কম ক্রেতাদের মূল্য পরিশোধ করার জন্য করেছে সবচেয়ে সহজ ও সুবিধাজনক পদ্ধতি। ক্রেতারা অনলাইনে ক্রেডিট কার্ডের সাহায্যে মূল্য পরিশোধ করতে পারবে। বিকাশ করে মূল্য পরিশোধ করতে পারবে। পণ্য বুঝে পাবার পর মূল্য পরিশোধ করতে পারবে। ই এম আই এর মাধ্যমেও পণ্য কিনতে পারবে। এছাড়াও সরাসরি আজকের ডিল ডট কম অফিস থেকে পণ্য সংগ্রহ করে মূল্য পরিশোধ করতে পারবে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/image004.png)
+
+## সরাসরি ফোনে অর্ডার করে পণ্য ক্রয় করতে পারেন আজকের ডিল থেকে
+
+আজকের ডিল আপনাদের জন্য নিয়ে এল সরাসরি ফোনে অর্ডার করে পণ্য কেনার সুবিধা। সরাসরি ফোন করে এখন থেকে আপনি আপনার পছন্দের পণ্য  কিনতে পারবেন আজকের ডিল থেকে। আপনার অর্ডার করতে ডায়াল করুন এ ০৯৬১২ ০০৭ ০০৭  নাম্বারে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/order_Genfx-phone.png)
+
+## আজকের ডিল কাস্টমার কেয়ার বিভাগঃ
+
+আজকের ডিল ডট কম,  সুমনা গনি ট্রেড সেন্টার,  প্লট নং - ০২,  লেভেল-০৫, পান্থপথ,  কাওরান বাজার,  ঢাকা-১২১৫।
+
+এছাড়া যেকোন তথ্য জানার জন্য ফোন করতে পারেন এই নং এ –০১৮৩৩৩২৮৪৯৪,  ০১৮৪৭০২৭৫১৩,  ০১৭৫৫৫৮২৫৭০
+
+## নতুন নতুন অফার আর আকর্ষণীয় ডিসকাউন্ট পেতে চোখ রাখুন আজকের ডিল এর ফেসবুক পেজে।
+
+<https://www.facebook.com/ajkercrazydeal/>  
+ আমরা প্রতিনিয়ত আমাদের ফ্যান পেজে এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/502568/ajkerdeal.jpg)
+
+আমরা প্রতিনিয়ত আমাদের ফ্যানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+- ছাড়াও আমাদেরকে ই-মেইল করতে পারেন। [[email protected]](/cdn-cgi/l/email-protection#92fbfcf4fdd2f3f8f9f7e0f6f7f3febcf1fdff) এ ঠিকানায়। সোশ্যাল মাধ্যম গুলোতে আমাদের সাথে যোগাযোগ রাখতে নিচের সাইট গুলো অনুসরণ করুন –
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image006.png) <https://www.facebook.com/ajkercrazydeal/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/533033/YouTube-Logo.png) <https://www.youtube.com/channel/UCTqiISg5IgkqC9P_mPE0kRQ>
+- ![](https://www.techtunes.io/sponsored-tune/tune-id/image/gif;base64, %20%20%20%20%20%20%20%20%20R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=)  <https://twitter.com/AjkerDeal>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image008.png) <https://www.linkedin.com/company/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image009.png)](https://plus.google.com/u/0/107046995651584979780/posts) <https://plus.google.com/117781436459932043678/posts>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image010.png)](https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal) <https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842954_Instagram.png)](https://www.instagram.com/ajkerdeal.com.ltd/)  <https://www.instagram.com/ajkerdeal.com.ltd/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842964_pinterest.png)  <https://www.pinterest.com/ajkerdeal2011/>
+
+আপনাদের সন্তুষ্টি, আমাদের অর্জন
+
+আমাদের ১ লক্ষ+ রকমারি পণ্য থেকে বেছে নিতে পারেন আপনার প্রয়োজনীয় পণ্যটি। সারা দেশে ক্যাশ অন ডেলিভারী সহ পাচ্ছেন ৪৮ ঘণ্টার মধ্যে নিশ্চিত ডেলিভারী। তাহলে আর দেরী কেন, অর্ডার দিন এখনি আর ঝটপট নিয়ে নিন ডেলিভারী!
+
+### "দেশের সবচেয়ে বড় অনালাইন শপিং মল আজকের ডিল ডট কম এর সাথে থাকার জন্য আপনাকে আন্তরিক ভাবে ধন্যবাদ"
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে 'আজকের ডিল ডট কম'  
+ Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপণ দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)

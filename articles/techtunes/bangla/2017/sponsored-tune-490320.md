@@ -1,0 +1,151 @@
+---
+archive_id: techtunes-490320
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 490320
+title: লো প্রাইসে বেস্ট স্মার্টওয়াচ এর বেটার কালেকশন!
+slug: sponsored-tune-490320
+language: bn
+status: publish
+published_at: '2017-05-03T09:47:00+00:00'
+modified_at: '2017-05-03T09:47:00+00:00'
+original_url: https://www.techtunes.io/sponsored-tune/tune-id/490320
+author: আজকের ডিল ডট কম
+author_url: https://www.techtunes.io/tuner/ajkerdeal
+categories:
+- স্পন্সরড টিউন
+tags:
+- আজকের ডিল ডট কম
+- স্মার্টওয়াচ
+content_hash: 3bbc44d79b871802972dc8a7f87c408ca35ce0a14c617cafdfd1750520fa9391
+archived_at: '2026-11-12T12:54:30.579649+00:00'
+---
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/1.jpg)](https://ajkerdeal.com/en/Category/Watches-Clock-Smart-Watch?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/en/Category/Watches-Clock-Smart-Watch?src=frombeshto)
+
+হাতঘড়ি দিয়ে আগে মানুষ সময় দেখত! আর এখন হাতঘড়িতে এত্তোসব আকর্ষণীয় ফিচার যুক্ত হয়েছে যা আপনি হয়তাবা এখনো জানেন না। এখন আর কষ্ট করে পকেটের স্মার্টফোন বারবার বের করার প্রয়োজন হয় না। একটি স্মার্ট ওয়াচ হাতে থাকলে যথেষ্ঠ। যদিও এটি একটি ঘড়ি তারপরেও এর এক্সট্রা সুবিধা হলো এটার মধ্যে পুরো একটি অপারেটিং সিস্টেম লোড করা আছে। এটি স্মার্ট মোবাইলের এক্সট্রা গিয়ার হিসেবে কাজ করবে এবং চাইলে এতে সিম ভরে মোবাইল হিসেবেও ব্যবহার করতে পারবেন।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/2.jpg)](https://ajkerdeal.com/Product/392085/g9-smart-watch-mobile-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/392085/g9-smart-watch-mobile-sim-supported?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/3.jpg)](https://ajkerdeal.com/Product/454227/g9-smart-watch-mobile-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/454227/g9-smart-watch-mobile-sim-supported?src=frombeshto)
+
+ঘড়ির টাইম ঠিক থাক আর না থাক স্টাইলিশ ফ্যাশনের জন্য হাতে ঘড়ি থাকা চাই-ই-চাই। আপনার হাতেও যদি একটি স্টাইলিশ ঘড়ি থাকে তাহলে আপনার মন ভাল থাকবে আর ফ্যাশেনের মুড হবে একটু অন্য রকম। আপনাদের ফ্যাশনে অন্যরকম ভাব দিতে আপনাদের পছন্দকে প্রাধান্য দিয়ে দেশের সবচেয়ে বড় অনলাইন শপিংমল আজকেরডিল নিয়ে এসেছে বিভিন্ন ব্র্যান্ডের বেস্ট স্মার্টওয়াচ এর বেটার কালেকশন। স্টাইলিশ সব স্মার্টওয়াচ গুলোর কালেকশন দেখতে আজেরডিলের স্মার্টওয়াচের **[এই পেজটিতে](https://ajkerdeal.com/en/Category/Watches-Clock-Smart-Watch?src=frombeshto)** ক্লিক করুন।
+
+## **যে কারণে স্মার্টওয়াচ কিনবেনঃ**
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/4.jpg)](https://ajkerdeal.com/Product/452351/smart-watch-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/452351/smart-watch-sim-supported?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/5.jpg)](https://ajkerdeal.com/Product/450568/dz09-smart-watch-sim-supported?src=frombeshtohttps://ajkerdeal.com/Product/450568/dz09-smart-watch-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/450568/dz09-smart-watch-sim-supported?src=frombeshtohttps://ajkerdeal.com/Product/450568/dz09-smart-watch-sim-supported?src=frombeshto)
+
+ধরুন আপনি অফিসে কোন গুরুত্বপূর্ণ মিটিং এ ব্যস্ত, এমন সময় আপনার বাসা থেকে কোন জরুরী বার্তা (Message) এল। মিটিং চলাকালীন তো আর মুঠোফোন বের করে মেসেজের রিপ্লাই দেয়া যায় না। আবার মেসেজের রিপ্লাই দেয়াটাও হয়তো খুব জরুরী হতে পারে। অগত্যা আপনার কিছু করার নেই। আবার ধরুন, নিজেই গাড়ি চালাচ্ছেন এমন সময় বেজে উঠলো ফোন। ব্যস্ত রাস্তায় গাড়ি চালাতে চালাতে তো আর পকেট থেকে মোবাইল বের করে কল রিসিভ করা যায় না। হয়তো বেশ ভীড়ের মাঝে আছেন, এমন সময় যদি বেরসিক ফোনখানা বেজে ওঠে তবে ভীড়ের মাঝে পকেট বা ভ্যানিটি ব্যাগ থেকে মোবাইল বের করে কল রিসিভ করাটা রীতিমতো দুঃসাধ্য ব্যপার। এমন সব মুহূর্তে বেশ অস্বস্তিকর অবস্থার মধ্যে পড়তে হয়। আপনি না পারেন মোবাইলের বিড়ম্বনা এড়াতে, না পারেন চলমান কাজে মনোযোগ দিতে। আধুনিক যুগে প্রায় প্রত্যেকেরই স্মার্ট ফোন রয়েছে। কল রিসিভ অথবা মেসেজ চেক করার জন্য প্রত্যেককেই পকেট কিংবা পার্স থেকে ফোন বের করতে হয়। কিন্তু এমন বিড়ম্বনায় পড়লে, প্রায়ই গুরুত্বপূর্ণ কল রিসিভ বা ম্যাসেজের রিপ্লাই দেয়া প্রায়ই সম্ভব হয় না। এসব ক্ষেত্রে সমাধান হতে পারে আপনার হাতের স্মার্টওয়াচটি। একটি স্মার্ট ওয়াচ আপনি আপনার হাতে পড়ে এমন সব বিড়ম্বনা খুব সহজেই এড়াতে পারেন।
+
+## **যা কিছু করতে পারবেন স্মার্ট ওয়াচ দিয়েঃ**
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/6.jpg)](https://ajkerdeal.com/Product/432242/gt08s-smart-watch-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/432242/gt08s-smart-watch-sim-supported?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/7.jpg)](https://ajkerdeal.com/Product/444946/g9-smart-watch-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/444946/g9-smart-watch-sim-supported?src=frombeshto)
+
+আপনার ফোন পকেটে আছে হেডফোন কানে লাগিয়ে গান শুনছেন, গান চেঞ্জ করবেন ঘড়ির মিউজিক অ্যাপটা ওপেন করেন তারপর গান চেঞ্জ করেন, ভলিউম বাড়ান কমান, প্লে পজ করেন। নতুন ম্যাসেজ আসছে কিন্তু মোবাইল পকেট থেকে বের করতে ইচ্ছা করছে না সমস্যা নেই ম্যাসেজিং অ্যাপ দিয়ে ঘড়িতেই পড়ে ফেলতে পারবেন ম্যাসেজটি। এমনকি প্রিডিফাইন্ড রিপ্লাই বা কল ব্যাক ও করতে পারবেন যাস্ট টাচ করেই। যার অর্থ এইটা একটা ঘড়ি হলেও আপনার মোবাইলের রিমোট কন্ট্রোল হিসাবে কাজ করবে। আর চাইলে আপনি অনেক স্মার্ট ওয়াচে সিমও লাগিয়ে নিতে পারবেন। অ্যালার্ম দিয়ে রাখতে পারবেন, ক্যালেন্ডার ও ক্যালকুলেটর সুবিধা পাবেন। ছবি উঠাতে পারবেন, ভিডিও রেকর্ড করতে পারবেন। অডিও রেকর্ড করতে পারবেন। ইমেজ ভিউ ও ভিডিও প্লেয়ার হিসেবে ব্যবহার করতে পারবেন।
+
+## **কোথা থেকে কিনবেন**
+
+[![](https://dnc.techtunes.io/tDrive/tuner/tmentorv/490320/8.jpg)](https://ajkerdeal.com/Product/454550/smart-watch-sim-supported?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/454550/smart-watch-sim-supported?src=frombeshto)
+
+বর্তমান বাজারে দেশের বিভিন্ন ইলেকট্রিক এক্সেসরিজ, কম্পিউটারশপ গুলোতেই স্মার্ট ওয়াচ কিনতে পারবেন। তবে বিশ্বস্থতার সাথে ঘরে বসে ভাল মানের স্মার্টওয়াচ কিনতে চাইলে ভরসা রাখতে পারেন দেশের সবচেয়ে বড় অনলাইন শপিংমল আজকের ডিল এর উপর। আজকের ডিলে বিভিন্ন ব্র্যান্ডের অনেকগুলো স্মার্টওয়াচের কালেকশন রয়েছে। দেশের যেকোন প্রান্ত থেকে অনলাইনে অর্ডার করে আপনি আপনার পছন্দমত স্মার্টওয়াচ কিনে নিতে পারবেন। আজকের ডিল কর্তৃপক্ষ আপনার অর্ডারকৃত পণ্যটি দ্রুত আপনার ঠিকানা বরাবার পৌঁছে দেবে। আজকের ডিল থেকে স্মার্ট ওয়াচ কিনতে **[এখানে ক্লিক করুন](https://ajkerdeal.com/en/Category/Watches-Clock-Smart-Watch?src=frombeshto)**।
+
+-
+
+-
+
+-  
+ ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/476582/0000.png)
+
+**কৃতজ্ঞতা স্বীকার**: আমাদের চারদিকে ঘটছে অনেক কিছু। আমাদের সবার মনেই আছে অনেক কথা নানা জিজ্ঞাসা নিজস্ব মতামত। অনেক কিছু আমরা জানতে চাই আবার জানাতেও চাই। নিজের চেনা জানার বাইরেও আছে আরেকটি জগত যারা হয়ত আমাদের মতই ভাবছে চিন্তা করছে। তোমাকে তোমার নিজের মত করে প্রকাশ করার একটি নতুন জায়গা - বেশতো ! চল ঘুরে আসি।
+
+-  
+ -  
+ -
+
+## কেন আজকের ডিল ?
+
+ঢাকার বাইরের ক্রেতাদের কথা বিবেচনা করে দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম দিচ্ছে ৪৮ ঘণ্টার মধ্যে দেশের ৪৫ টি জেলায় পণ্য ডেলিভারী সুবিধা। এখন থেকে আপনার কাঙ্ক্ষিত পণ্যটি গ্রহণ করতে পারবেন আপনার নিকটস্থ এস,এ পরিবহনের শাখা অফিস থেকে। এস,এ পরিবহন শাখা অফিসে মূল্য পরিশোধ করে গ্রহণ করুন আপনার কাঙ্ক্ষিত পণ্য।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/site-home-page.jpg)
+
+## ঘরে বসে অর্ডার দিন, পণ্য বুঝে মূল্য দিন
+
+- **Cash on Delivery (Free for Maximum Deals) :**ঘরে বসেই পেয়ে যাবেন আপনার ক্রয় করা পণ্যটি আর ক্যাশ পেমেন্ট করতে পারবেন ঘরে বসেই।
+- **Lowest Price in Market :**আজকের ডিলের মূল উদ্দশ্যই সুলভ মূল্য আর বাজারের মূল থেকেও কম দামে পণ্য আর সার্ভিস আপনাকে পৌঁছে দেওয়া।
+- **Online Payment Facility :**আপনি আপনার ডেবিড কার্ড, ক্রেডিট কার্ড, ভিসা, মাস্টার কার্ড এমন কী বিকাশ থেকে অনলাইনে পেমেন্ট করে ডিল ক্রয় করতে পারবেন।
+- **Delivery within shortest period of time :**আজকের ডিল টিম, যথা সম্ভব কম আর দ্রুত সময়ের মধ্যে আপনার কাছে পণ্য পৌঁছিয়ে দিবে।
+
+## 24 ঘণ্টা 7 দিন এখন পণ্য কিনুন আজকের ডিল থেকেঃ
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/electrical_24-7helpline.jpg)
+
+সপ্তাহে ৭ দিন এবং ২৪ ঘন্টা পণ্য কিনতে পারবেন আজকের ডিল থেকে। ২৪ ঘন্টা কাস্টোমার সাপোর্ট থাকছে সেই সাথেই। ছুটি কিংবা হরতাল এখন আর নো চিন্তা, কেনাকাটার জন্য সব সময় প্রস্তুত আজকের ডিল।
+
+## পরিশোধ নিয়ে দুশ্চিন্তার কোন কারন নেই ? আজকের ডিলে পাচ্ছেন সব ধরনের পেমেন্ট সুবিধা।
+
+আজকের ডিল ডট কম ক্রেতাদের মূল্য পরিশোধ করার জন্য করেছে সবচেয়ে সহজ ও সুবিধাজনক পদ্ধতি। ক্রেতারা অনলাইনে ক্রেডিট কার্ডের সাহায্যে মূল্য পরিশোধ করতে পারবে। বিকাশ করে মূল্য পরিশোধ করতে পারবে। পণ্য বুঝে পাবার পর মূল্য পরিশোধ করতে পারবে। এছাড়াও সরাসরি আজকের ডিল ডট কম অফিস থেকে পণ্য সংগ্রহ করে মূল্য পরিশোধ করতে পারবে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/image004.png)
+
+## সরাসরি ফোনে অর্ডার করে পণ্য ক্রয় করতে পারেন আজকের ডিল থেকে
+
+আজকের ডিল আপনাদের জন্য নিয়ে এল সরাসরি ফোনে অর্ডার করে পণ্য কেনার সুবিধা। সরাসরি ফোন করে এখন থেকে আপনি আপনার পছন্দের পণ্য  কিনতে পারবেন আজকের ডিল থেকে। আপনার অর্ডার করতে ডায়াল করুন এ ০৯৬১২ ০০৭ ০০৭  নাম্বারে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/order_Genfx-phone.png)
+
+## আজকের ডিল কাস্টমার কেয়ার বিভাগঃ
+
+আজকের ডিল ডট কম, সুমনা গনি ট্রেড সেন্টার, প্লট নং - ০২, লেভেল-০৫,পান্থপথ, কাওরান বাজার, ঢাকা-১২১৫।
+
+এছাড়া যেকোন তথ্য জানার জন্য ফোন করতে পারেন এই নং এ –০১৮৩৩৩২৮৪৯৪, ০১৮৪৭০২৭৫১৩, ০১৭৫৫৫৮২৫৭০
+
+## নতুন নতুন অফার আর আকর্ষণীয় ডিসকাউন্ট পেতে চোখ রাখুন আজকের ডিল এর ফেসবুক পেজে।
+
+**<https://www.facebook.com/ajkercrazydeal/>**
+
+আমরা প্রতিনিয়ত আমাদের ফানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/adeal-cover-photo-image.jpg)
+
+আমরা প্রতিনিয়ত আমাদের ফ্যানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+ছাড়াও আমাদেরকে ই-মেইল করতে পারেন। [[email protected]](/cdn-cgi/l/email-protection#c6afa8a0a986a7acada3b4a2a3a7aae8a5a9ab) এ ঠিকানায়। সোশ্যাল মাধ্যম গুলোতে আমাদের সাথে যোগাযোগ রাখতে নিচের সাইট গুলো অনুসরণ করুন -
+
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image006.png)   <https://www.facebook.com/ajkercrazydeal/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/451769/YouTube-Logo.png)  <https://www.youtube.com/channel/UCTqiISg5IgkqC9P_mPE0kRQ>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image007.png)  <https://twitter.com/AjkerDeal>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image008.png)   <https://www.linkedin.com/company/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image009.png)](https://plus.google.com/u/0/107046995651584979780/posts)    <https://plus.google.com/117781436459932043678/posts>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image010.png)](https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal)  <https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842954_Instagram.png)](https://www.instagram.com/ajkerdeal.com.ltd/)  <https://www.instagram.com/ajkerdeal.com.ltd/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842964_pinterest.png)  <https://www.pinterest.com/ajkerdeal2011/>
+
+আপনাদের সন্তুষ্টি, আমাদের অর্জন
+
+আমাদের ১ লক্ষ+ রকমারি পণ্য থেকে বেছে নিতে পারেন আপনার প্রয়োজনীয় পণ্যটি। সারা দেশে ক্যাশ অন ডেলিভারী সহ পাচ্ছেন ৪৮ ঘণ্টার মধ্যে নিশ্চিত ডেলিভারী। তাহলে আর দেরী কেন, অর্ডার দিন এখনি আর ঝটপট নিয়ে নিন ডেলিভারী!
+
+### "দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম এর সাথে থাকার জন্য আপনাকে আন্তরিক ভাবে ধন্যবাদ"
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)

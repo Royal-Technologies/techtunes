@@ -1,0 +1,44 @@
+---
+archive_id: techtunes-589317
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 589317
+title: রেফার করুন – বন্ধু বানান – টাকা কামান!
+slug: sponsored-tune-589317
+language: bn
+status: publish
+published_at: '2018-07-23T18:02:00+00:00'
+modified_at: '2018-07-23T18:02:00+00:00'
+original_url: https://www.techtunes.io/sponsored-tune/tune-id/589317
+author: আজকের ডিল ডট কম
+author_url: https://www.techtunes.io/tuner/ajkerdeal
+categories:
+- স্পন্সরড টিউন
+tags:
+- Sponsored টিউন
+content_hash: 7f49720b963cde7b65900497824552b170034c66d7fce007921c0df405bef729
+archived_at: '2026-11-12T12:30:53.136124+00:00'
+---
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['আজকের ডিল ডট কম'](https://ajkerdeal.com//)  
+ Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপণ দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)
+
+এবার অ্যাপস ব্যবহারেই আয় হবে আর সেই আয় দিয়ে আপনি কিনতে পারবেন আপনার পছন্দের সব পণ্য। দেশের সবচেয়ে বড় অনলাইন শপিংমল আজকেরডিল ডটকম ক্রেতাদের জন্য দারুন সব সুযোগ নিয়ে হাজির হয়েছে। আজকেরডিলের অ্যাপ ব্যবহার করলেই তাক লাগনো সব অফার পাবেন ক্রেতারা। সেই সাথে অ্যাপ থেকে যে কাউকে রেফার করলে আপনার আয় বাড়তে থাকবে আর আপনি সেই আয় দিয়ে কিনে নিতে পারবেন আজকেরডিলের যেকোন পণ্য।
+
+## যেভাবে রেফার করবেন
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_693647_247082.JPG)](https://play.google.com/store/apps/details?id=com.ajkerdeal.app.android)  
+ আপনাকে প্রথমে গুগলের প্লে স্টোরের **[এই ঠিকানায়](https://play.google.com/store/apps/details?id=com.ajkerdeal.app.android)** গিয়ে আজকেরডিলের শপিং অ্যাপসটি আপনার স্মার্টফোনে ইন্সটল করতে হবে। "প্রথমবার অ্যাপ ইন্সটল করলেই আপনি ১০০ পয়েন্ট পেয়ে যাবেন এবং লগইন করার সাথে সাথে আর এক্সট্রা ৫০ পয়েন্ট পাবেন। এই পয়েন্ট গুলোকে আপনি টাকায় কনভার্ট করতে পারবেন।
+
+অ্যাপ ইন্সটল করা পর আপনাকে একটি রেফার কোড দেওয়া হবে। এই রেফার কোডটি আপনি আপনার বন্ধুদের সাথে শেয়ার করতে পারবেন। আপনার বন্ধু যদি আজকেরডিল অ্যাপটি ইন্সটল করে ও এই কোডটি ব্যবহার করে তাহলে সেও টাকা পাবে আপনিও টাকা পাবেন! (কোড ব্যবহার করার আগে অবশ্যই রেজিস্ট্রেশন / সাইন আপ করতে হবে)
+
+[![](http://www.beshto.com/beshtoImages/photoShare/d240/u25/u25_498050_533621.jpg)](https://ajkerdeal.com/)
+
+রেফার করলে ইনকাম হবে এবং তা চলমান থাকবে কারণ আপনি যে বন্ধুকে রেফার করেছেন সে যদি কোন পণ্য কিনে তাহলে সেটার জন্যও আপনি টাকা পাবেন। এভাবে প্রতিটি কেনাকাটায় আপনার আয় অটোমেটিক বাড়তেই থাকবে।
+
+পয়েন্ট সম্বন্ধে [বিস্তারিত আরও জানুন এই টিউনে](https://www.techtunes.io/sponsored-tune/tune-id/589146)
+
+➡ তাই বলবো যত খুশি রেফার করুন বন্ধু বানান আর টাকা কামান। আজকেরডিলের অ্যাপস ইন্সটল করতে আজই **[এই লিংক এ ক্লিক করুন](https://play.google.com/store/apps/details?id=com.ajkerdeal.app.android)**।
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['আজকের ডিল ডট কম'](https://ajkerdeal.com//)  
+ Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপণ দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)

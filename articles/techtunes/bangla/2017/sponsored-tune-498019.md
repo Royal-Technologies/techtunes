@@ -1,0 +1,139 @@
+---
+archive_id: techtunes-498019
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 498019
+title: ঈদ ভ্রমনে সঙ্গী হোক স্টাইলিশ ব্যাগপ্যাক!
+slug: sponsored-tune-498019
+language: bn
+status: publish
+published_at: '2017-06-13T09:53:00+00:00'
+modified_at: '2017-06-13T09:53:00+00:00'
+original_url: https://www.techtunes.io/sponsored-tune/tune-id/498019
+author: আজকের ডিল ডট কম
+author_url: https://www.techtunes.io/tuner/ajkerdeal
+categories:
+- স্পন্সরড টিউন
+tags:
+- আজকের ডিল ডট কম
+- স্টাইলিশ ব্যাগপ্যাক
+content_hash: d887132da67b4ff918faa19efeea10dec9d7d1347f0d9251659b22fc86fbae2e
+archived_at: '2026-11-12T12:49:26.915574+00:00'
+---
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/1.jpg)](https://ajkerdeal.com/Category/Bag-Purse-Backpack?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Category/Bag-Purse-Backpack?src=frombeshto)
+
+এবারের ঈদে কমবেশি সবাই ১০ দিনের মত ছুটি পেয়ে যাবেন। লম্বা এই ছুটিটাকে বিভিন্ন ভাবেই কাজে লাগানো যায়। তবে আমার মতে, জ্ঞান অন্বেষণ জন্য, কর্মজীবনের ব্যস্ততা থেকে নিজেকে একটু রিফ্রেশ করতে ভ্রমনের কোন বিকল্প নেই। আমরা অনেকেই আছি যারা দেশ বিদেশ ঘুরে বেড়াতে ভালবাসি তাদের ভ্রমন সঙ্গী হতে পারে আকর্ষনীয় ব্যাগপ্যাক। লম্বা ছুটি কিংবা ছোট-খাট ট্যুর প্ল্যানেও ট্রাভেল ব্যাগ অন্যতম অনুষঙ্গ। যারা পরিবার-পরিজন নিয়ে প্রকৃতির কাছে, নির্জনে, দূরে কোথাও ঘুরতে যেতে চান তাদের জন্য ব্যাগপ্যাক মাস্ট। মনে রাখবেন, যেখানেই যাই না কেন, ভ্রমণের সবচেয়ে গুরুত্বপূর্ণ অনুসঙ্গটি হলো ব্যাগ।
+
+## **ট্রাভেল ব্যাগ কেন প্রয়োজন এবং কেমন ব্যাগ কিনবেন?**
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/2.jpg)](https://ajkerdeal.com/Product/387450/rainproof-travel-shoulder-bag-55l?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/387450/rainproof-travel-shoulder-bag-55l?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/3.jpg)](https://ajkerdeal.com/Product/370677/witzman-b2020-military-bagpack?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/370677/witzman-b2020-military-bagpack?src=frombeshto)
+
+ভ্রমনে একসাথে অনেক গুলো জিনিস নিয়ে যেতে হয় যার জন্য ট্রাভেল ব্যাগ খুবই গুরুত্বপূর্ণ। ক্যামেরা,জামা- কাপড়, জুতা, কসমেটিকসসহ আরও অন্যান্য প্রয়োজনীয় সবকিছু গুছিয়ে নেবার জন্যই একটি ভালো মানের ট্রাভেল ব্যাগ দরকার।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/4.jpg)](https://ajkerdeal.com/Product/347962/folding-travel-backpack-yellow?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/347962/folding-travel-backpack-yellow?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/5.jpg)](https://ajkerdeal.com/Product/312275/4d-orange-backpack?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/312275/4d-orange-backpack?src=frombeshto)
+
+ব্যাগের ক্ষেত্রে যে বিষয়গুলো খেয়াল রাখবেন:-  
+ • পরিবারের সদস্য সংখ্যা অনুযায়ী ব্যাগের আকার নির্বাচন করুন  
+ • কোথায় কয়দিনের জন্য যাচ্ছেন সে অনুযায়ী কাপড় নিন। অহেতুক অপ্রয়োজনীয় পেশাক নিয়ে ব্যাগ বড় করবেন না  
+ • জিনিসপত্র যতই হোক না কেন একটা বড় ব্যাগের ভেতরই সব রাখার চেষ্টা করুন  
+ • ছোট ছোট অনেক ব্যাগ করবেন না, অনেকগুলো ব্যাগ থাকলে কোনোটা হারিয়ে যেতে পারে তাই বড় দেখে ব্যাগ কিনুন।
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/6.jpg)](https://ajkerdeal.com/Product/466384/multi-color-canvas-backpack?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/466384/multi-color-canvas-backpack?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/7.jpg)](https://ajkerdeal.com/product/465748/Quechua-Hiking-Backpack?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/product/465748/Quechua-Hiking-Backpack?src=frombeshto)
+
+• পোলো, পাইলট, লিভাইস, মারিনাল ওরনেট, প্রেসিডেন্ট, লোটাস, হাইসান, ডেনিয়েল, নারদেভো, ফাইলসসহ বিভিন্ন ব্র্যান্ডের ব্যাগ রয়েছে  
+ • ব্যাগ কেনার আগে চেইন, লকার, ট্রলিটি ঠিক আছে কিনা দেখে নিন  
+ • ব্যাগ পরিবহনের ক্ষেত্রে বেশি ভারি ব্যাগ হলে ট্রলির সাহায্যে পরিবহন করুন  
+ • আগেই দেখে নিন চেইন বা লকার, ট্রলি ব্যাগের ট্রেলি ঠিক আছে কিনা, নতুবা ব্যাগ নিয়ে রাস্তায় বিপাকে পড়ে যেতে পারেন  
+ • দীর্ঘদিন ট্রাভেল ব্যাগ ফেলে রাখলে চেইনগুলোতে জং ধরে তা ব্যবহারের অনুপযোগী হয়ে যেতে পারে।  
+ • এরও যত্নের প্রয়োজন। ট্রাভেল ব্যাগটি মাঝে মাঝে বের করে পরিষ্কার করুন এবং চেইনে তেল দিয়ে রাখুন।
+
+## **কোথায় পাবেন, দাম কেমন?**
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/8.jpg)](https://ajkerdeal.com/Product/417859/travel-shoulder-bag-50l?src=frombeshto)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/417859/travel-shoulder-bag-50l?src=frombeshto)
+
+[![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/498019/9.jpg)](https://ajkerdeal.com/Product/463460/quechua-hiking-back-pack-10-liter)
+
+[কিনতে ক্লিক করুন](https://ajkerdeal.com/Product/463460/quechua-hiking-back-pack-10-liter)
+
+ব্যাগপ্যাক কিনতে যেতে পারেন নিউমার্কেট, গুলিস্থান, বায়তুল মোকারম মসজিদ মার্কেট, এখানে ব্যাগের অনেক বড় বাজার। ট্রলি ছাড়া ব্যাগগুলো আপনি পাবেন ৭০০ থেকে ৫০০০ টাকার মধ্যে। আর ট্রলিসহ ট্রাভেল ব্যাগগুলো পাবেন সবচেয়ে ছোট সাইজটি ১০০০ এবং ব্যাগের মান ও আকৃতির ওপর ভিত্তি করে দরদাম ওঠানামা করে ১৪০০ থেকে ৮০০০ টাকা পর্যন্ত। এধরনের আকর্ষণীয় অনেক ব্যাগ অনলাইন শপিংমল আজকের ডিল ডটকমেও পেয়ে যাবেন। যারা ঘরে বসে ব্যাগ কিনতে চান তারা এক্ষনি **[এই লিংকে ক্লিক করুন](https://ajkerdeal.com/Category/Bag-Purse-Backpack?src=frombeshto)**।
+
+-
+
+-
+
+-
+
+## কেন আজকের ডিল ?
+
+ঢাকার বাইরের ক্রেতাদের কথা বিবেচনা করে দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম দিচ্ছে ৪৮ ঘণ্টার মধ্যে দেশের ৪৫ টি জেলায় পণ্য ডেলিভারী সুবিধা। এখন থেকে আপনার কাঙ্ক্ষিত পণ্যটি গ্রহণ করতে পারবেন আপনার নিকটস্থ এস,এ পরিবহনের শাখা অফিস থেকে। এস,এ পরিবহন শাখা অফিসে মূল্য পরিশোধ করে গ্রহণ করুন আপনার কাঙ্ক্ষিত পণ্য।![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/site-home-page.jpg)
+
+## ঘরে বসে অর্ডার দিন, পণ্য বুঝে মূল্য দিন
+
+- Cash on Delivery (Free for Maximum Deals) :ঘরে বসেই পেয়ে যাবেন আপনার ক্রয় করা পণ্যটি আর ক্যাশ পেমেন্ট করতে পারবেন ঘরে বসেই।
+- Lowest Price in Market :আজকের ডিলের মূল উদ্দশ্যই সুলভ মূল্য আর বাজারের মূল থেকেও কম দামে পণ্য আর সার্ভিস আপনাকে পৌঁছে দেওয়া।
+- Online Payment Facility :আপনি আপনার ডেবিড কার্ড, ক্রেডিট কার্ড, ভিসা, মাস্টার কার্ড এমন কী বিকাশ থেকে অনলাইনে পেমেন্ট করে ডিল ক্রয় করতে পারবেন।
+- Delivery within shortest period of time :আজকের ডিল টিম, যথা সম্ভব কম আর দ্রুত সময়ের মধ্যে আপনার কাছে পণ্য পৌঁছিয়ে দিবে।
+
+## 24 ঘণ্টা 7 দিন এখন পণ্য কিনুন আজকের ডিল থেকেঃ
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/electrical_24-7helpline.jpg)সপ্তাহে ৭ দিন এবং ২৪ ঘন্টা পণ্য কিনতে পারবেন আজকের ডিল থেকে। ২৪ ঘন্টা কাস্টোমার সাপোর্ট থাকছে সেই সাথেই। ছুটি কিংবা হরতাল এখন আর নো চিন্তা, কেনাকাটার জন্য সব সময় প্রস্তুত আজকের ডিল।
+
+## পরিশোধ নিয়ে দুশ্চিন্তার কোন কারন নেই ? আজকের ডিলে পাচ্ছেন সব ধরনের পেমেন্ট সুবিধা।
+
+আজকের ডিল ডট কম ক্রেতাদের মূল্য পরিশোধ করার জন্য করেছে সবচেয়ে সহজ ও সুবিধাজনক পদ্ধতি। ক্রেতারা অনলাইনে ক্রেডিট কার্ডের সাহায্যে মূল্য পরিশোধ করতে পারবে। বিকাশ করে মূল্য পরিশোধ করতে পারবে। পণ্য বুঝে পাবার পর মূল্য পরিশোধ করতে পারবে। এছাড়াও সরাসরি আজকের ডিল ডট কম অফিস থেকে পণ্য সংগ্রহ করে মূল্য পরিশোধ করতে পারবে।![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/image004.png)
+
+## সরাসরি ফোনে অর্ডার করে পণ্য ক্রয় করতে পারেন আজকের ডিল থেকে
+
+আজকের ডিল আপনাদের জন্য নিয়ে এল সরাসরি ফোনে অর্ডার করে পণ্য কেনার সুবিধা। সরাসরি ফোন করে এখন থেকে আপনি আপনার পছন্দের পণ্য কিনতে পারবেন আজকের ডিল থেকে। আপনার অর্ডার করতে ডায়াল করুন এ ০৯৬১২ ০০৭ ০০৭ নাম্বারে।![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/order_Genfx-phone.png)
+
+## আজকের ডিল কাস্টমার কেয়ার বিভাগঃ
+
+আজকের ডিল ডট কম, সুমনা গনি ট্রেড সেন্টার, প্লট নং - ০২, লেভেল-০৫,পান্থপথ, কাওরান বাজার, ঢাকা-১২১৫। এছাড়া যেকোন তথ্য জানার জন্য ফোন করতে পারেন এই নং এ –০১৮৩৩৩২৮৪৯৪, ০১৮৪৭০২৭৫১৩, ০১৭৫৫৫৮২৫৭০
+
+## নতুন নতুন অফার আর আকর্ষণীয় ডিসকাউন্ট পেতে চোখ রাখুন আজকের ডিল এর ফেসবুক পেজে।
+
+<https://www.facebook.com/ajkercrazydeal/> আমরা প্রতিনিয়ত আমাদের ফানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে।
+
+![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/434842/adeal-cover-photo-image.jpg)
+
+আমরা প্রতিনিয়ত আমাদের ফ্যানপেজ এ আমাদের অফারসমুহ আপলোড করি যেখানে আপনি সচ্ছন্দে আপনার মতামত জানাতে পারেন আমাদের সম্পর্কে। ছাড়াও আমাদেরকে ই-মেইল করতে পারেন। [[email protected]](/cdn-cgi/l/email-protection#177e79717857767d7c72657372767b3974787a) এ ঠিকানায়। সোশ্যাল মাধ্যম গুলোতে আমাদের সাথে যোগাযোগ রাখতে নিচের সাইট গুলো অনুসরণ করুন -
+
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image006.png) <https://www.facebook.com/ajkercrazydeal/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/451769/YouTube-Logo.png) <https://www.youtube.com/channel/UCTqiISg5IgkqC9P_mPE0kRQ>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image007.png) <https://twitter.com/AjkerDeal>
+- ![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/342715/image008.png) <https://www.linkedin.com/company/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image009.png)](https://plus.google.com/u/0/107046995651584979780/posts) <https://plus.google.com/117781436459932043678/posts>
+- [![](https://dnc.techtunes.io/tDrive/tuner/tmentorx/353248/image010.png)](https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal)  <https://www.beshto.com/beshtoMobile/newProfileOf/ajkerdeal>
+- [![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842954_Instagram.png)](https://www.instagram.com/ajkerdeal.com.ltd/) <https://www.instagram.com/ajkerdeal.com.ltd/>
+- ![](https://dnc.techtunes.io/tDrive/tuner/ajkerdeal/416958/1451842964_pinterest.png) <https://www.pinterest.com/ajkerdeal2011/>
+
+আপনাদের সন্তুষ্টি, আমাদের অর্জন আমাদের ১ লক্ষ+ রকমারি পণ্য থেকে বেছে নিতে পারেন আপনার প্রয়োজনীয় পণ্যটি। সারা দেশে ক্যাশ অন ডেলিভারী সহ পাচ্ছেন ৪৮ ঘণ্টার মধ্যে নিশ্চিত ডেলিভারী। তাহলে আর দেরী কেন, অর্ডার দিন এখনি আর ঝটপট নিয়ে নিন ডেলিভারী!
+
+### "দেশের সবচেয়ে বড় অনলাইন শপিং মল আজকের ডিল ডট কম এর সাথে থাকার জন্য আপনাকে আন্তরিক ভাবে ধন্যবাদ"
+
+এটি একটি Sponsored টিউন। এই Sponsored টিউনটির নিবেদন করছে ['](http://ajkerdeal.com/)[আজকের ডিল ডট কম](http://ajkerdeal.com/)['](http://ajkerdeal.com/) 'Sponsored টিউন by Techtunes tAds | [টেকটিউনস এ বিজ্ঞাপন দিতে ক্লিক করুন এখানে](http://techtun.es/tAds-Advertising-Query)

@@ -1,0 +1,45 @@
+---
+archive_id: techtunes-515288
+source: techtunes
+source_name: টেকটিউনস (Techtunes)
+wordpress_id: 515288
+title: নিজেই তৈরি করুন Professional Logo Design | ইলাস্ট্রেটর টিউটোরিয়াল
+slug: adobe-illustrator-515288
+language: bn
+status: publish
+published_at: '2017-09-19T11:07:00+00:00'
+modified_at: '2017-09-19T11:33:00+00:00'
+original_url: https://www.techtunes.io/adobe-illustrator/tune-id/515288
+author: সাখাওয়াত হোসেন
+author_url: https://www.techtunes.io/tuner/shehabxs
+categories:
+- অ্যাডবি ইলাস্ট্রেটর
+tags:
+- illustratortutorial
+- logodesig
+- logodesigntutorial
+content_hash: 6df3cf3c2c6094325cf24cf011c07287662bb1de6037dfe13dac85f88ed1b29d
+archived_at: '2026-11-12T12:37:44.392124+00:00'
+---
+
+কেমন আছেন সবাই? আশা করি ভালই আছেন। আবারো হাজির হলাম আপনাদের মাঝে।
+
+আজকের টিউটোরিয়ালের বিষয়ঃ **PROFESSIONAL LOGO DESIGN,**এই টিউটোরিয়ালে দেখাব কিভাবে Peofessional মানের লোগো ডিজাইন করতে হয়।
+
+![](https://dnc.techtunes.io/tDrive/tuner/shehabxs/515288/Create-Logo-Design-Illustrator-Tutorial.png)
+
+আজকের টিউটোরিয়ালে আমি আপনাদের দেখাব কিভাবে এডবি ইলাস্ট্রেটর দিয়ে উপরেরমত লোগো ডিজাইন করতে হয়। এই  টিউটোরিয়ালে আমি দেখাবো কিভাবে ইলাস্ট্রেটর ব্যবহার করে একটি সুন্দর LOGO  ডিজাইন তৈরি করতে পারেন।
+
+আমার ভিডিও টিউটোরিয়াল দেখার পর আমি আশা করছি আপনিও একটি Professional লোগো তৈরি করতে পারবেন।
+
+#### চলুন টিউটোরিয়াল দেখে শিখে নেইঃ
+
+[Embedded External Content: https://www.youtube.com/embed/44bCQKQDZ\_o?feature=oembed]
+
+**(বিঃ দ্রঃ আপনাদের কোন টিউটোরিয়াল লাগলে আমাকে বলতে পারেন। আমি আপনাদের সাথে শেয়ার করব।)**
+
+আজ এই পর্যন্তই। টিউটোরিয়ালটি যদি ভাল লেগে থাকে তাহলে শেয়ার করতে ভুলবেন না। সবাই ভালো থাকবেন, সুস্থ থাকবেন ধন্যবাদ সবাইকে। নতুন সব টিউটোরিয়াল পেতে সাথেই থাকুন। টিউটোরিয়ালটি কেমন লাগল তা টিউমেন্ট করে জানাতে ভুলবেননা। মেতে উঠুন প্রযুক্তির সুরে।
+
+ফেইসবুকে আমিঃ **[Shehab Editz](https://www.facebook.com/shehabeditz)**
+
+যদি বুঝতে কোন সমস্যা হয় তাহলে টিউমেন্ট করে জানান। আর কি ধরনের টিউটোরিয়াল চান তা টিউমেন্ট করে জানিয়ে দিন এখনি। ধন্যবাদ সবাইকে। আবার ফিরে আসব নতুন কোণ টিউটোরিয়াল নিয়ে। সেই পর্যন্ত সবাই ভাল থাকবেন।
