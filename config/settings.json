@@ -9,18 +9,20 @@
     "request_timeout_seconds": 30,
     "max_retries": 3,
     "retry_backoff_factor": 1.5,
-    "batch_size": 20,
-    "delay_between_requests_ms": 200,
+    "batch_size": 50,
+    "delay_between_requests_ms": 150,
+    "fetch_workers": 6,
     "incremental_max_pages": 5,
-    "full_max_pages": 3,
+    "full_max_pages": 0,
     "include_homepage": true,
-    "include_sitemap_recent": 60
+    "include_sitemap_recent": 5000
   },
   "database": {
     "path": "database/archive.sqlite",
     "schema_path": "database/schema.sql",
     "migrations_dir": "database/migrations",
-    "wal_mode": true
+    "wal_mode": true,
+    "compact_sqlite": true
   },
   "exports": {
     "directory": "exports",

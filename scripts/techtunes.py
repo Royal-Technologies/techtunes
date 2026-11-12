@@ -14,8 +14,10 @@ import time
 import urllib.parse
 import xml.etree.ElementTree as ET
 import zlib
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from typing import Any, Dict, Generator, List, Optional, Tuple
+import threading
+from typing import Any, Dict, Generator, List, Optional, Set, Tuple
 
 import requests
 from bs4 import BeautifulSoup
@@ -116,6 +118,18 @@ class TechtunesClient:
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
             "Accept-Language": "bn-BD,bn;q=0.9,en-US;q=0.8,en;q=0.7",
         })
+        self._thread_local = threading.local()
+
+    def _get_session(self) -> requests.Session:
+        """Returns main session on main thread and thread-local session on workers."""
+        if threading.current_thread() is threading.main_thread():
+            return self.session
+        sess = getattr(self._thread_local, "session", None)
+        if sess is None:
+            sess = requests.Session()
+            sess.headers.update(self.session.headers)
+            self._thread_local.session = sess
+        return sess
 
     def _request(self, url: str, params: Optional[Dict[str, Any]] = None) -> requests.Response:
         """Executes GET request with throttling and exponential backoff retries."""
@@ -125,10 +139,11 @@ class TechtunesClient:
 
         last_exception: Optional[Exception] = None
         current_delay = 1.0
+        session = self._get_session()
 
         for attempt in range(1, self.max_retries + 1):
             try:
-                resp = self.session.get(full_url, params=params, timeout=self.timeout)
+                resp = session.get(full_url, params=params, timeout=self.timeout)
                 if resp.status_code in (429, 500, 502, 503, 504):
                     logger.warning(
                         f"[{self.source_key}] HTTP {resp.status_code} for {full_url}. "
@@ -137,18 +152,24 @@ class TechtunesClient:
                     time.sleep(current_delay)
                     current_delay *= self.retry_backoff
                     continue
+                if 400 <= resp.status_code < 500:
+                    resp.raise_for_status()
                 resp.raise_for_status()
                 return resp
+            except requests.HTTPError as e:
+                if e.response is not None and 400 <= e.response.status_code < 500 and e.response.status_code != 429:
+                    raise TechtunesClientError(f"HTTP {e.response.status_code} for {full_url}") from e
+                last_exception = e
             except (requests.RequestException, ConnectionError, TimeoutError) as e:
                 last_exception = e
                 logger.warning(
                     f"[{self.source_key}] Request error ({type(e).__name__}: {e}) for {full_url}. "
                     f"Attempt {attempt}/{self.max_retries}"
                 )
-                if attempt == self.max_retries:
-                    break
-                time.sleep(current_delay)
-                current_delay *= self.retry_backoff
+            if attempt == self.max_retries:
+                break
+            time.sleep(current_delay)
+            current_delay *= self.retry_backoff
 
         raise TechtunesClientError(
             f"Failed to fetch {full_url} after {self.max_retries} attempts: {last_exception}"
@@ -515,6 +536,8 @@ class TechtunesClient:
         include_homepage: bool = True,
         include_sitemap_recent: int = 60,
         max_posts: Optional[int] = None,
+        skip_tune_ids: Optional[Set[int]] = None,
+        workers: int = 1,
     ) -> Generator[Dict[str, Any], None, None]:
         """Discovers and yields parsed Techtunes articles from feeds, homepage, and sitemap."""
         cutoff_dt = parse_iso_datetime(modified_after) if modified_after else None
@@ -522,7 +545,7 @@ class TechtunesClient:
 
         # 1. Paginate RSS Feed (/feed/?paged=N)
         page = 1
-        limit_pages = max_pages if max_pages and max_pages > 0 else 500
+        limit_pages = max_pages if max_pages and max_pages > 0 else 1000
         while page <= limit_pages:
             try:
                 feed_items = self.parse_rss_feed_page(page=page)
@@ -541,6 +564,9 @@ class TechtunesClient:
                 item_dt = parse_iso_datetime(item.get("published_at"))
                 if cutoff_dt is None or (item_dt and item_dt >= cutoff_dt):
                     any_recent = True
+
+            if page % 50 == 0:
+                logger.info(f"[{self.source_key}] Scanned RSS feed page {page} ({len(discovered)} unique tunes discovered so far)...")
 
             if mode == "incremental" and cutoff_dt is not None and not any_recent:
                 logger.info(f"[{self.source_key}] Reached incremental cutoff at RSS page {page}.")
@@ -567,14 +593,39 @@ class TechtunesClient:
 
         # Sort newest tune_id first
         ordered_entries = sorted(discovered.values(), key=lambda x: x["tune_id"], reverse=True)
+        if skip_tune_ids:
+            before_count = len(ordered_entries)
+            ordered_entries = [e for e in ordered_entries if e["tune_id"] not in skip_tune_ids]
+            skipped = before_count - len(ordered_entries)
+            if skipped > 0:
+                logger.info(f"[{self.source_key}] Skipped {skipped} already-archived tunes.")
+
         if max_posts and max_posts > 0:
             ordered_entries = ordered_entries[:max_posts]
 
         logger.info(f"[{self.source_key}] Discovered {len(ordered_entries)} candidate tunes to fetch.")
 
-        for entry in ordered_entries:
-            try:
-                yield self.fetch_tune_detail(entry["url"], rss_meta=entry)
-            except Exception as e:
-                logger.error(f"[{self.source_key}] Failed to fetch tune {entry['url']}: {e}")
-                continue
+        worker_count = max(1, int(workers or 1))
+        if worker_count <= 1 or len(ordered_entries) <= 1:
+            for entry in ordered_entries:
+                try:
+                    yield self.fetch_tune_detail(entry["url"], rss_meta=entry)
+                except Exception as e:
+                    logger.error(f"[{self.source_key}] Failed to fetch tune {entry['url']}: {e}")
+                    continue
+            return
+
+        chunk_size = max(20, worker_count * 8)
+        for i in range(0, len(ordered_entries), chunk_size):
+            batch = ordered_entries[i : i + chunk_size]
+            with ThreadPoolExecutor(max_workers=worker_count) as pool:
+                future_map = {
+                    pool.submit(self.fetch_tune_detail, entry["url"], entry): entry
+                    for entry in batch
+                }
+                for fut in as_completed(future_map):
+                    entry = future_map[fut]
+                    try:
+                        yield fut.result()
+                    except Exception as e:
+                        logger.error(f"[{self.source_key}] Failed to fetch tune {entry['url']}: {e}")

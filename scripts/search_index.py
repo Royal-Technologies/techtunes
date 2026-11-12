@@ -115,10 +115,11 @@ def build_search_indexes(conn: sqlite3.Connection, out_dir: Optional[Path] = Non
             "markdown_path": r["markdown_path"].replace("\\", "/"),
         })
 
-        body_sample = (r["content_markdown"] or "")[:3000]
+        body_sample = (r["content_markdown"] or "")[:300]
+        short_excerpt = (r["excerpt"] or "")[:200]
         searchable_content = (
             f"{r['title']} {r['author_name'] or ''} {' '.join(cats)} "
-            f"{' '.join(tags)} {r['excerpt'] or ''} {body_sample}"
+            f"{' '.join(tags)} {short_excerpt} {body_sample}"
         )
         normalized = normalize_search_text(searchable_content)
 
@@ -134,7 +135,7 @@ def build_search_indexes(conn: sqlite3.Connection, out_dir: Optional[Path] = Non
             "c": cats,
             "tg": tags,
             "a": r["author_name"] or "Techtunes Community",
-            "ex": r["excerpt"] or "",
+            "ex": short_excerpt,
             "txt": normalized,
             "img": featured_img,
         })

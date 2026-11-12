@@ -1,20 +1,21 @@
 {
-  "archive_generation_timestamp": "2026-11-12T10:16:14.787073+00:00",
+  "archive_generation_timestamp": "2026-11-12T12:59:32.909947+00:00",
   "archive_name": "Techtunes Archive | টেকটিউনস আর্কাইভ",
   "archive_tagline": "মেতে উঠুন প্রযুক্তির সুরে — Techtunes Daily Mirror & Digital Archive",
   "source_site": "https://www.techtunes.io/",
   "export_format_version": "1.0.0",
   "database_schema_version": 1,
   "archive_integrity_status": "verified",
-  "total_articles": 30,
-  "total_authors": 14,
+  "total_articles": 9071,
+  "total_authors": 1257,
   "article_counts_by_source": {
-    "techtunes": 30
+    "techtunes": 9071
   },
   "article_counts_by_language": {
-    "bn": 30
+    "bn": 9068,
+    "en": 3
   },
   "total_categories": 143,
-  "total_tags": 33,
-  "total_media_files": 28
+  "total_tags": 7498,
+  "total_media_files": 8951
 }

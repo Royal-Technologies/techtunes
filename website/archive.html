@@ -101,7 +101,7 @@
         container.innerHTML = '<p style="text-align: center; color: var(--text-muted);">প্রথম সিঙ্ক সম্পন্ন হলে টিউনগুলো এখানে প্রদর্শিত হবে।</p>';
       }
 
-      function renderTimeline() {
+      function renderTimeline(visibleLimit = 80) {
         let filtered = articles;
         if (activeCategory !== 'all') {
           filtered = filtered.filter(a => (a.categories || []).includes(activeCategory));
@@ -117,8 +117,9 @@
           return;
         }
 
+        const slice = filtered.slice(0, visibleLimit);
         const byYear = {};
-        filtered.forEach(art => {
+        slice.forEach(art => {
           const yr = art.year || 'Unknown';
           if (!byYear[yr]) byYear[yr] = [];
           byYear[yr].push(art);
@@ -126,13 +127,13 @@
 
         const sortedYears = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
 
-        const html = sortedYears.map(year => {
+        let html = sortedYears.map(year => {
           const yearArticles = byYear[year];
           const cards = yearArticles.map(a => window.ArchiveUtils.renderArticleCard(a)).join('');
           return `
             <div style="margin-bottom: 40px;">
               <h2 style="font-size: 1.55rem; color: var(--accent); margin-bottom: 16px; border-bottom: 2px solid var(--border-color); padding-bottom: 6px;">
-                ${year} <span style="font-size: 0.9rem; color: var(--text-muted); font-weight: normal;">(${yearArticles.length}টি টিউন)</span>
+                ${year} <span style="font-size: 0.9rem; color: var(--text-muted); font-weight: normal;">(${yearArticles.length}টি টিউন দেখানো হচ্ছে)</span>
               </h2>
               <div class="articles-list">
                 ${cards}
@@ -141,7 +142,24 @@
           `;
         }).join('');
 
+        if (filtered.length > visibleLimit) {
+          html += `
+            <div style="text-align: center; margin: 24px 0 40px;">
+              <button type="button" id="load-more-archive" class="btn btn-primary">
+                আরও টিউন দেখুন (${visibleLimit} / ${filtered.length})
+              </button>
+            </div>
+          `;
+        }
+
         container.innerHTML = html;
+
+        const moreBtn = document.getElementById('load-more-archive');
+        if (moreBtn) {
+          moreBtn.addEventListener('click', () => {
+            renderTimeline(visibleLimit + 80);
+          });
+        }
       }
 
       catSelect.addEventListener('change', () => {

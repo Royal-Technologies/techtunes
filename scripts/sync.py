@@ -8,6 +8,7 @@ Markdown generation, and JSON export pipelines.
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
 import json
 import logging
@@ -81,11 +82,15 @@ class ArchiveSynchronizer:
         target_source: Optional[str] = None,
         max_pages: Optional[int] = None,
         max_posts: Optional[int] = None,
+        skip_existing: bool = False,
+        workers: Optional[int] = None,
     ) -> None:
         self.mode = mode
         self.target_source = target_source
         self.max_pages = max_pages
         self.max_posts = max_posts
+        self.skip_existing = skip_existing
+        self.workers = workers
         self.settings = load_settings()
         self.media_archiver = MediaArchiver()
         init_database()
@@ -177,6 +182,7 @@ class ArchiveSynchronizer:
         source_key: str,
         image_url: Optional[str],
         title: str = "",
+        prefetched_result: Optional[Dict[str, Any]] = None,
     ) -> Optional[int]:
         """Archives featured image for a tune if present."""
         if not image_url:
@@ -190,7 +196,7 @@ class ArchiveSynchronizer:
         if existing and existing["download_status"] == "completed" and existing["local_path"]:
             return existing["id"]
 
-        download_res = self.media_archiver.download_image(image_url, source_key)
+        download_res = prefetched_result or self.media_archiver.download_image(image_url, source_key)
         now = utc_now_iso()
 
         conn.execute(
@@ -302,17 +308,24 @@ class ArchiveSynchronizer:
                 effective_max_pages = self.max_pages if self.max_pages is not None else default_pages
                 include_homepage = sync_cfg.get("include_homepage", True)
                 include_sitemap = sync_cfg.get("include_sitemap_recent", 60)
+                effective_workers = self.workers if self.workers is not None else (
+                    int(sync_cfg.get("fetch_workers", 1)) if self.mode == "full" else 2
+                )
+                compact_sqlite = bool(self.settings.get("database", {}).get("compact_sqlite", False))
+
+                skip_ids = None
+                if self.skip_existing:
+                    skip_ids = {
+                        r[0] for r in conn.execute(
+                            "SELECT wp_post_id FROM posts WHERE site_id = ?", (site_id,)
+                        ).fetchall()
+                    }
 
                 latest_post_modified: Optional[str] = None
+                processed_count = 0
 
-                for tune in client.iterate_tunes(
-                    mode=self.mode,
-                    max_pages=effective_max_pages,
-                    modified_after=modified_after,
-                    include_homepage=include_homepage,
-                    include_sitemap_recent=include_sitemap,
-                    max_posts=self.max_posts,
-                ):
+                def _ingest_tune(tune: Dict[str, Any], media_cache: Dict[str, Dict[str, Any]]) -> None:
+                    nonlocal latest_post_modified, processed_count
                     tune_id = tune["id"]
                     archive_id = f"{source_key}-{tune_id}"
 
@@ -334,6 +347,9 @@ class ArchiveSynchronizer:
                     language = detect_language(title, markdown_body, default_language=default_lang)
                     content_hash = compute_content_hash(f"{title}\n{markdown_body}")
 
+                    db_html = "" if compact_sqlite else raw_html
+                    db_markdown = "" if compact_sqlite else markdown_body
+
                     author_info = tune.get("author") or {"name": "Techtunes Community", "slug": "techtunes"}
                     db_author_id = self._upsert_author(conn, site_id, author_info)
 
@@ -351,8 +367,14 @@ class ArchiveSynchronizer:
                         tag_ids.append(tid)
                         tag_names.append(t["name"])
 
+                    img_url = tune.get("featured_image_url")
                     db_media_id = self.process_featured_media(
-                        conn, site_id, source_key, tune.get("featured_image_url"), title=title
+                        conn,
+                        site_id,
+                        source_key,
+                        img_url,
+                        title=title,
+                        prefetched_result=media_cache.get(img_url) if img_url else None,
                     )
                     if db_media_id:
                         sync_stats["media_downloaded"] += 1
@@ -388,7 +410,7 @@ class ArchiveSynchronizer:
                             """,
                             (
                                 archive_id, site_id, tune_id, title, slug, language,
-                                raw_html, markdown_body, clean_excerpt, original_url,
+                                db_html, db_markdown, clean_excerpt, original_url,
                                 published_at, published_at, modified_at, modified_at,
                                 db_author_id, db_media_id, content_hash, rel_md_path,
                                 now, now, now,
@@ -430,7 +452,8 @@ class ArchiveSynchronizer:
                         }
                         save_article_markdown(md_path, meta, markdown_body)
                         sync_stats["posts_created"] += 1
-                        logger.info(f"[{source_key}] [+] Created: {archive_id} - {title[:60]}")
+                        if sync_stats["posts_created"] <= 30 or sync_stats["posts_created"] % 50 == 0:
+                            logger.info(f"[{source_key}] [+] Created ({sync_stats['posts_created']}): {archive_id} - {title[:60]}")
 
                     else:
                         post_db_id = existing["id"]
@@ -476,7 +499,7 @@ class ArchiveSynchronizer:
                                 WHERE id = ?
                                 """,
                                 (
-                                    title, raw_html, markdown_body, clean_excerpt,
+                                    title, db_html, db_markdown, clean_excerpt,
                                     language, modified_at, modified_at, content_hash,
                                     db_author_id, db_media_id, now, post_db_id,
                                 ),
@@ -520,6 +543,64 @@ class ArchiveSynchronizer:
                             logger.info(f"[{source_key}] [*] Updated (rev {next_rev}): {archive_id} - {title[:60]}")
                         else:
                             sync_stats["posts_unchanged"] += 1
+
+                    processed_count += 1
+                    if processed_count % 50 == 0:
+                        conn.commit()
+
+                def _flush_batch(batch: List[Dict[str, Any]]) -> None:
+                    media_cache: Dict[str, Dict[str, Any]] = {}
+                    if effective_workers > 1 and len(batch) > 1:
+                        candidate_urls: List[str] = []
+                        seen_urls = set()
+                        for t in batch:
+                            u = t.get("featured_image_url")
+                            if u and u not in seen_urls:
+                                seen_urls.add(u)
+                                wp_mid = stable_int_id(f"media:{u}")
+                                row = conn.execute(
+                                    "SELECT download_status, local_path FROM media WHERE site_id = ? AND wp_media_id = ?",
+                                    (site_id, wp_mid),
+                                ).fetchone()
+                                if not (row and row["download_status"] == "completed" and row["local_path"]):
+                                    candidate_urls.append(u)
+                        if candidate_urls:
+                            with ThreadPoolExecutor(max_workers=effective_workers) as mpool:
+                                fmap = {
+                                    mpool.submit(self.media_archiver.download_image, u, source_key): u
+                                    for u in candidate_urls
+                                }
+                                for fut in as_completed(fmap):
+                                    u = fmap[fut]
+                                    try:
+                                        media_cache[u] = fut.result()
+                                    except Exception as me:
+                                        logger.warning(f"[{source_key}] Media prefetch failed for {u}: {me}")
+
+                    for t in batch:
+                        _ingest_tune(t, media_cache)
+                    conn.commit()
+
+                tune_batch: List[Dict[str, Any]] = []
+                batch_limit = int(sync_cfg.get("batch_size", 50) or 50)
+                for tune in client.iterate_tunes(
+                    mode=self.mode,
+                    max_pages=effective_max_pages,
+                    modified_after=modified_after,
+                    include_homepage=include_homepage,
+                    include_sitemap_recent=include_sitemap,
+                    max_posts=self.max_posts,
+                    skip_tune_ids=skip_ids,
+                    workers=effective_workers,
+                ):
+                    tune_batch.append(tune)
+                    if len(tune_batch) >= batch_limit:
+                        _flush_batch(tune_batch)
+                        tune_batch.clear()
+
+                if tune_batch:
+                    _flush_batch(tune_batch)
+                    tune_batch.clear()
 
                 finish_time = utc_now_iso()
                 sync_stats["finished_at"] = finish_time
@@ -651,6 +732,17 @@ def main() -> None:
         default=None,
         help="Optional cap on maximum tunes fetched in one run",
     )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Skip fetching tune pages already present in SQLite (useful for resuming large full syncs)",
+    )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=None,
+        help="Number of concurrent fetch workers",
+    )
     args = parser.parse_args()
 
     syncer = ArchiveSynchronizer(
@@ -658,6 +750,8 @@ def main() -> None:
         target_source=args.source,
         max_pages=args.max_pages,
         max_posts=args.max_posts,
+        skip_existing=args.skip_existing,
+        workers=args.workers,
     )
     results = syncer.run()
 

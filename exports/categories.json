@@ -6,25 +6,7 @@
     "name": "টেকটিউনস টেকবুম",
     "slug": "techtunes-techboom",
     "description": "",
-    "count": 6
-  },
-  {
-    "id": 3,
-    "source": "techtunes",
-    "wordpress_category_id": 1025121060,
-    "name": "অন্যান্য",
-    "slug": "other",
-    "description": "",
-    "count": 5
-  },
-  {
-    "id": 25,
-    "source": "techtunes",
-    "wordpress_category_id": 1747960313,
-    "name": "ইন্টারনেট",
-    "slug": "internet",
-    "description": "",
-    "count": 4
+    "count": 1656
   },
   {
     "id": 77,
@@ -33,16 +15,34 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 3
+    "count": 894
   },
   {
-    "id": 105,
+    "id": 139,
     "source": "techtunes",
-    "wordpress_category_id": 1377625518,
-    "name": "প্রযুক্তি কথন",
-    "slug": "tech-talk",
+    "wordpress_category_id": 970894336,
+    "name": "স্পন্সরড টিউন",
+    "slug": "sponsored-tune",
     "description": "",
-    "count": 3
+    "count": 603
+  },
+  {
+    "id": 3,
+    "source": "techtunes",
+    "wordpress_category_id": 1025121060,
+    "name": "অন্যান্য",
+    "slug": "other",
+    "description": "",
+    "count": 534
+  },
+  {
+    "id": 25,
+    "source": "techtunes",
+    "wordpress_category_id": 1747960313,
+    "name": "ইন্টারনেট",
+    "slug": "internet",
+    "description": "",
+    "count": 308
   },
   {
     "id": 13,
@@ -51,16 +51,25 @@
     "name": "অ্যান্ড্রয়েড Apps",
     "slug": "android-apps",
     "description": "",
-    "count": 2
+    "count": 296
   },
   {
-    "id": 10,
+    "id": 76,
     "source": "techtunes",
-    "wordpress_category_id": 1383808268,
-    "name": "অ্যাডসেন্স",
-    "slug": "adsense",
+    "wordpress_category_id": 1387757121,
+    "name": "টিউটোরিয়াল",
+    "slug": "tutorial",
     "description": "",
-    "count": 1
+    "count": 274
+  },
+  {
+    "id": 105,
+    "source": "techtunes",
+    "wordpress_category_id": 1377625518,
+    "name": "প্রযুক্তি কথন",
+    "slug": "tech-talk",
+    "description": "",
+    "count": 268
   },
   {
     "id": 12,
@@ -69,7 +78,25 @@
     "name": "অ্যান্ড্রয়েড",
     "slug": "android",
     "description": "",
-    "count": 1
+    "count": 240
+  },
+  {
+    "id": 93,
+    "source": "techtunes",
+    "wordpress_category_id": 1824916440,
+    "name": "ডাউনলোড",
+    "slug": "download",
+    "description": "",
+    "count": 195
+  },
+  {
+    "id": 115,
+    "source": "techtunes",
+    "wordpress_category_id": 1479394531,
+    "name": "বিজ্ঞান ও প্রযুক্তি",
+    "slug": "sci-tech",
+    "description": "",
+    "count": 181
   },
   {
     "id": 22,
@@ -78,34 +105,7 @@
     "name": "আর্টিফিশিয়াল ইন্টেলিজেন্স (এআই)",
     "slug": "artificial-intelligence",
     "description": "",
-    "count": 1
-  },
-  {
-    "id": 42,
-    "source": "techtunes",
-    "wordpress_category_id": 935566813,
-    "name": "ওপেন সোর্স",
-    "slug": "open-source",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 61,
-    "source": "techtunes",
-    "wordpress_category_id": 565606957,
-    "name": "গুগল ক্রোম Extensions",
-    "slug": "google-chrome-extensions",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 68,
-    "source": "techtunes",
-    "wordpress_category_id": 459343157,
-    "name": "গেমস",
-    "slug": "games",
-    "description": "",
-    "count": 1
+    "count": 166
   },
   {
     "id": 127,
@@ -114,61 +114,43 @@
     "name": "মোবাইলীয়",
     "slug": "mobileo",
     "description": "",
-    "count": 1
+    "count": 162
   },
   {
-    "id": 1,
+    "id": 69,
     "source": "techtunes",
-    "wordpress_category_id": 1288145765,
-    "name": "অটোডেস্ক অটোক্যাড",
-    "slug": "autodesk-autocad",
+    "wordpress_category_id": 23083682,
+    "name": "গ্রাফিক্স ডিজাইনিং",
+    "slug": "graphics-designing",
     "description": "",
-    "count": 0
+    "count": 142
   },
   {
-    "id": 2,
+    "id": 135,
     "source": "techtunes",
-    "wordpress_category_id": 1232838563,
-    "name": "অটোডেস্ক থ্রিডি স্টুডিও ম্যাক্স",
-    "slug": "autodesk-3d-studio-max",
+    "wordpress_category_id": 929450977,
+    "name": "সাইবার সিকিউরিটি",
+    "slug": "cyber-security",
     "description": "",
-    "count": 0
+    "count": 142
   },
   {
-    "id": 4,
+    "id": 111,
     "source": "techtunes",
-    "wordpress_category_id": 1313883637,
-    "name": "অল্টারিং",
-    "slug": "altering",
+    "wordpress_category_id": 2141735240,
+    "name": "ফেসবুক",
+    "slug": "facebook",
     "description": "",
-    "count": 0
+    "count": 135
   },
   {
-    "id": 5,
+    "id": 130,
     "source": "techtunes",
-    "wordpress_category_id": 370577988,
-    "name": "অ্যাডবি আফারইফেক্টস",
-    "slug": "adobe-aftereffects",
+    "wordpress_category_id": 2127169521,
+    "name": "রিভিউ",
+    "slug": "review",
     "description": "",
-    "count": 0
-  },
-  {
-    "id": 6,
-    "source": "techtunes",
-    "wordpress_category_id": 1751837406,
-    "name": "অ্যাডবি ইলাস্ট্রেটর",
-    "slug": "adobe-illustrator",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 7,
-    "source": "techtunes",
-    "wordpress_category_id": 1410694467,
-    "name": "অ্যাডবি ড্রিমওয়েভার",
-    "slug": "adobe-dreamweaver",
-    "description": "",
-    "count": 0
+    "count": 129
   },
   {
     "id": 8,
@@ -177,16 +159,349 @@
     "name": "অ্যাডবি ফটোশপ",
     "slug": "adobe-photoshop",
     "description": "",
-    "count": 0
+    "count": 118
   },
   {
-    "id": 9,
+    "id": 29,
     "source": "techtunes",
-    "wordpress_category_id": 1107514272,
-    "name": "অ্যাডবি ফ্ল্যাশ",
-    "slug": "adobe-flash",
+    "wordpress_category_id": 1532864786,
+    "name": "উইন্ডোস",
+    "slug": "windows",
     "description": "",
-    "count": 0
+    "count": 118
+  },
+  {
+    "id": 97,
+    "source": "techtunes",
+    "wordpress_category_id": 684710012,
+    "name": "নির্বাচিত",
+    "slug": "featured",
+    "description": "",
+    "count": 116
+  },
+  {
+    "id": 50,
+    "source": "techtunes",
+    "wordpress_category_id": 687738887,
+    "name": "ওয়েবওয়্যার",
+    "slug": "webware",
+    "description": "",
+    "count": 111
+  },
+  {
+    "id": 55,
+    "source": "techtunes",
+    "wordpress_category_id": 1362269916,
+    "name": "খবর",
+    "slug": "news",
+    "description": "",
+    "count": 108
+  },
+  {
+    "id": 106,
+    "source": "techtunes",
+    "wordpress_category_id": 996452726,
+    "name": "প্রোগ্রামিং",
+    "slug": "programming",
+    "description": "",
+    "count": 108
+  },
+  {
+    "id": 113,
+    "source": "techtunes",
+    "wordpress_category_id": 984793197,
+    "name": "ফ্রিল্যান্সিং",
+    "slug": "freelancing",
+    "description": "",
+    "count": 104
+  },
+  {
+    "id": 104,
+    "source": "techtunes",
+    "wordpress_category_id": 1235585996,
+    "name": "প্রতিবেদন",
+    "slug": "reports",
+    "description": "",
+    "count": 92
+  },
+  {
+    "id": 52,
+    "source": "techtunes",
+    "wordpress_category_id": 154654318,
+    "name": "কম্পিউটিং",
+    "slug": "computing",
+    "description": "",
+    "count": 88
+  },
+  {
+    "id": 68,
+    "source": "techtunes",
+    "wordpress_category_id": 459343157,
+    "name": "গেমস",
+    "slug": "games",
+    "description": "",
+    "count": 88
+  },
+  {
+    "id": 49,
+    "source": "techtunes",
+    "wordpress_category_id": 1579133967,
+    "name": "ওয়েব ডেভেলপমেন্ট",
+    "slug": "web-development",
+    "description": "",
+    "count": 86
+  },
+  {
+    "id": 53,
+    "source": "techtunes",
+    "wordpress_category_id": 430819218,
+    "name": "কী কেন কীভাবে",
+    "slug": "how-to",
+    "description": "",
+    "count": 84
+  },
+  {
+    "id": 26,
+    "source": "techtunes",
+    "wordpress_category_id": 1834346353,
+    "name": "ইলেক্ট্রনিক্স",
+    "slug": "electronics",
+    "description": "",
+    "count": 70
+  },
+  {
+    "id": 4,
+    "source": "techtunes",
+    "wordpress_category_id": 1313883637,
+    "name": "অল্টারিং",
+    "slug": "altering",
+    "description": "",
+    "count": 69
+  },
+  {
+    "id": 94,
+    "source": "techtunes",
+    "wordpress_category_id": 665481037,
+    "name": "ডিজিটাল মার্কেটিং",
+    "slug": "digital-marketing",
+    "description": "",
+    "count": 68
+  },
+  {
+    "id": 40,
+    "source": "techtunes",
+    "wordpress_category_id": 1684946449,
+    "name": "এসইও",
+    "slug": "seo",
+    "description": "",
+    "count": 67
+  },
+  {
+    "id": 21,
+    "source": "techtunes",
+    "wordpress_category_id": 787721116,
+    "name": "আউটসোর্সিং",
+    "slug": "outsourcing",
+    "description": "",
+    "count": 66
+  },
+  {
+    "id": 38,
+    "source": "techtunes",
+    "wordpress_category_id": 245320565,
+    "name": "এডুটিউনস",
+    "slug": "edutunes",
+    "description": "",
+    "count": 53
+  },
+  {
+    "id": 81,
+    "source": "techtunes",
+    "wordpress_category_id": 374426451,
+    "name": "টেকটিউনস",
+    "slug": "techtunes",
+    "description": "",
+    "count": 52
+  },
+  {
+    "id": 116,
+    "source": "techtunes",
+    "wordpress_category_id": 1203923193,
+    "name": "ভিডিও এডিটিং",
+    "slug": "video-editing",
+    "description": "",
+    "count": 48
+  },
+  {
+    "id": 23,
+    "source": "techtunes",
+    "wordpress_category_id": 168527485,
+    "name": "ইউটিউবিং",
+    "slug": "youtubing",
+    "description": "",
+    "count": 44
+  },
+  {
+    "id": 46,
+    "source": "techtunes",
+    "wordpress_category_id": 1894643728,
+    "name": "ওয়ার্ডপ্রেস",
+    "slug": "wordpress",
+    "description": "",
+    "count": 43
+  },
+  {
+    "id": 102,
+    "source": "techtunes",
+    "wordpress_category_id": 571522204,
+    "name": "পিসি বিল্ডিং",
+    "slug": "pc-building",
+    "description": "",
+    "count": 43
+  },
+  {
+    "id": 56,
+    "source": "techtunes",
+    "wordpress_category_id": 1653961574,
+    "name": "গুগল",
+    "slug": "google",
+    "description": "",
+    "count": 38
+  },
+  {
+    "id": 20,
+    "source": "techtunes",
+    "wordpress_category_id": 467474886,
+    "name": "আইফোন",
+    "slug": "iphone",
+    "description": "",
+    "count": 33
+  },
+  {
+    "id": 1,
+    "source": "techtunes",
+    "wordpress_category_id": 1288145765,
+    "name": "অটোডেস্ক অটোক্যাড",
+    "slug": "autodesk-autocad",
+    "description": "",
+    "count": 32
+  },
+  {
+    "id": 61,
+    "source": "techtunes",
+    "wordpress_category_id": 565606957,
+    "name": "গুগল ক্রোম Extensions",
+    "slug": "google-chrome-extensions",
+    "description": "",
+    "count": 32
+  },
+  {
+    "id": 131,
+    "source": "techtunes",
+    "wordpress_category_id": 1985177931,
+    "name": "লিনাক্স",
+    "slug": "linux",
+    "description": "",
+    "count": 32
+  },
+  {
+    "id": 132,
+    "source": "techtunes",
+    "wordpress_category_id": 1737019404,
+    "name": "ল্যাপটপ",
+    "slug": "laptop",
+    "description": "",
+    "count": 30
+  },
+  {
+    "id": 142,
+    "source": "techtunes",
+    "wordpress_category_id": 1782933576,
+    "name": "হার্ডওয়্যার",
+    "slug": "hardware",
+    "description": "",
+    "count": 29
+  },
+  {
+    "id": 108,
+    "source": "techtunes",
+    "wordpress_category_id": 1044917629,
+    "name": "ফটোগ্রাফি",
+    "slug": "photography",
+    "description": "",
+    "count": 28
+  },
+  {
+    "id": 79,
+    "source": "techtunes",
+    "wordpress_category_id": 50259526,
+    "name": "টেক ফিকশান",
+    "slug": "tech-fiction",
+    "description": "",
+    "count": 26
+  },
+  {
+    "id": 112,
+    "source": "techtunes",
+    "wordpress_category_id": 172681146,
+    "name": "ফ্রিওয়্যার",
+    "slug": "freeware",
+    "description": "",
+    "count": 26
+  },
+  {
+    "id": 136,
+    "source": "techtunes",
+    "wordpress_category_id": 1755704690,
+    "name": "সাহায্য/জিজ্ঞাসা",
+    "slug": "help-ask",
+    "description": "",
+    "count": 25
+  },
+  {
+    "id": 44,
+    "source": "techtunes",
+    "wordpress_category_id": 1535290823,
+    "name": "ওয়াইফাই",
+    "slug": "wifi",
+    "description": "",
+    "count": 24
+  },
+  {
+    "id": 60,
+    "source": "techtunes",
+    "wordpress_category_id": 369832757,
+    "name": "গুগল ক্রোম",
+    "slug": "google-chrome",
+    "description": "",
+    "count": 23
+  },
+  {
+    "id": 6,
+    "source": "techtunes",
+    "wordpress_category_id": 1751837406,
+    "name": "অ্যাডবি ইলাস্ট্রেটর",
+    "slug": "adobe-illustrator",
+    "description": "",
+    "count": 22
+  },
+  {
+    "id": 98,
+    "source": "techtunes",
+    "wordpress_category_id": 1054721093,
+    "name": "নেটওয়ার্কিং",
+    "slug": "networking",
+    "description": "",
+    "count": 19
+  },
+  {
+    "id": 33,
+    "source": "techtunes",
+    "wordpress_category_id": 1525507603,
+    "name": "উইন্ডোস ১০",
+    "slug": "windows-10",
+    "description": "",
+    "count": 18
   },
   {
     "id": 11,
@@ -195,25 +510,7 @@
     "name": "অ্যান্টিভাইরাস",
     "slug": "antivirus",
     "description": "",
-    "count": 0
-  },
-  {
-    "id": 14,
-    "source": "techtunes",
-    "wordpress_category_id": 1298988628,
-    "name": "অ্যাপল",
-    "slug": "apple",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 15,
-    "source": "techtunes",
-    "wordpress_category_id": 456240242,
-    "name": "আইওএস",
-    "slug": "ios",
-    "description": "",
-    "count": 0
+    "count": 17
   },
   {
     "id": 16,
@@ -222,7 +519,61 @@
     "name": "আইওএস Apps",
     "slug": "ios-apps",
     "description": "",
-    "count": 0
+    "count": 17
+  },
+  {
+    "id": 54,
+    "source": "techtunes",
+    "wordpress_category_id": 590598913,
+    "name": "ক্রিপটোকারেন্সি",
+    "slug": "cryptocurrency",
+    "description": "",
+    "count": 17
+  },
+  {
+    "id": 70,
+    "source": "techtunes",
+    "wordpress_category_id": 284162388,
+    "name": "চিকিৎসা বিজ্ঞান",
+    "slug": "medical-science",
+    "description": "",
+    "count": 16
+  },
+  {
+    "id": 124,
+    "source": "techtunes",
+    "wordpress_category_id": 907115055,
+    "name": "মাইক্রোসফট ওয়ার্ড",
+    "slug": "microsoft-word",
+    "description": "",
+    "count": 16
+  },
+  {
+    "id": 10,
+    "source": "techtunes",
+    "wordpress_category_id": 1383808268,
+    "name": "অ্যাডসেন্স",
+    "slug": "adsense",
+    "description": "",
+    "count": 15
+  },
+  {
+    "id": 42,
+    "source": "techtunes",
+    "wordpress_category_id": 935566813,
+    "name": "ওপেন সোর্স",
+    "slug": "open-source",
+    "description": "",
+    "count": 15
+  },
+  {
+    "id": 73,
+    "source": "techtunes",
+    "wordpress_category_id": 992645383,
+    "name": "জীবনী",
+    "slug": "biography",
+    "description": "",
+    "count": 14
   },
   {
     "id": 17,
@@ -230,6 +581,564 @@
     "wordpress_category_id": 89471441,
     "name": "আইওটি",
     "slug": "iot",
+    "description": "",
+    "count": 13
+  },
+  {
+    "id": 47,
+    "source": "techtunes",
+    "wordpress_category_id": 1065131125,
+    "name": "ওয়ার্ডপ্রেস প্লাগইনস",
+    "slug": "wordpress-plugins",
+    "description": "",
+    "count": 13
+  },
+  {
+    "id": 80,
+    "source": "techtunes",
+    "wordpress_category_id": 331343563,
+    "name": "টেক হিউমার",
+    "slug": "tech-humour",
+    "description": "",
+    "count": 13
+  },
+  {
+    "id": 83,
+    "source": "techtunes",
+    "wordpress_category_id": 258452813,
+    "name": "টেকটিউনস জবস",
+    "slug": "techtunes-jobs",
+    "description": "",
+    "count": 13
+  },
+  {
+    "id": 114,
+    "source": "techtunes",
+    "wordpress_category_id": 988606052,
+    "name": "বাংলা কম্পিউটিং",
+    "slug": "bangla-computing",
+    "description": "",
+    "count": 13
+  },
+  {
+    "id": 92,
+    "source": "techtunes",
+    "wordpress_category_id": 1576583674,
+    "name": "টেকটিউনস সুপার সাকসেসর",
+    "slug": "techtunes-super-successor",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 125,
+    "source": "techtunes",
+    "wordpress_category_id": 121631148,
+    "name": "মাইক্রোসফট পাওয়ারপয়েন্ট",
+    "slug": "microsoft-powerpoint",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 5,
+    "source": "techtunes",
+    "wordpress_category_id": 370577988,
+    "name": "অ্যাডবি আফারইফেক্টস",
+    "slug": "adobe-aftereffects",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 15,
+    "source": "techtunes",
+    "wordpress_category_id": 456240242,
+    "name": "আইওএস",
+    "slug": "ios",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 109,
+    "source": "techtunes",
+    "wordpress_category_id": 490756560,
+    "name": "ফায়ারফক্স",
+    "slug": "firefox",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 34,
+    "source": "techtunes",
+    "wordpress_category_id": 770332293,
+    "name": "উইন্ডোস ১১",
+    "slug": "windows-11",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 39,
+    "source": "techtunes",
+    "wordpress_category_id": 1439396743,
+    "name": "এনিমেশন",
+    "slug": "animation",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 133,
+    "source": "techtunes",
+    "wordpress_category_id": 14417798,
+    "name": "সমগ্র",
+    "slug": "roundup",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 24,
+    "source": "techtunes",
+    "wordpress_category_id": 1991443854,
+    "name": "ইকমার্স",
+    "slug": "ecommerce",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 57,
+    "source": "techtunes",
+    "wordpress_category_id": 230703951,
+    "name": "গুগল Apps",
+    "slug": "google-apps",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 28,
+    "source": "techtunes",
+    "wordpress_category_id": 1648009170,
+    "name": "উইন্ডোজ ফোন",
+    "slug": "windows-phone",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 71,
+    "source": "techtunes",
+    "wordpress_category_id": 872147294,
+    "name": "জাভা",
+    "slug": "java",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 121,
+    "source": "techtunes",
+    "wordpress_category_id": 1694555859,
+    "name": "মাইক্রোসফট",
+    "slug": "microsoft",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 84,
+    "source": "techtunes",
+    "wordpress_category_id": 2130196796,
+    "name": "টেকটিউনস জরিপ",
+    "slug": "techtunes-polls",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 101,
+    "source": "techtunes",
+    "wordpress_category_id": 1586426864,
+    "name": "পিএইচপি",
+    "slug": "php",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 141,
+    "source": "techtunes",
+    "wordpress_category_id": 490798843,
+    "name": "স্যামসাং গ্যালাক্সি",
+    "slug": "samsung-galaxy",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 31,
+    "source": "techtunes",
+    "wordpress_category_id": 504348748,
+    "name": "উইন্ডোস 8",
+    "slug": "windows-8",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 67,
+    "source": "techtunes",
+    "wordpress_category_id": 1525822896,
+    "name": "গুগল ম্যাপস",
+    "slug": "google-maps",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 72,
+    "source": "techtunes",
+    "wordpress_category_id": 2022408572,
+    "name": "জাভাস্ক্রিট",
+    "slug": "javascript",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 86,
+    "source": "techtunes",
+    "wordpress_category_id": 1603648765,
+    "name": "টেকটিউনস টিউন্টারভিউ",
+    "slug": "tuneterview",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 123,
+    "source": "techtunes",
+    "wordpress_category_id": 1861270815,
+    "name": "মাইক্রোসফট এক্সেল",
+    "slug": "microsoft-excel",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 137,
+    "source": "techtunes",
+    "wordpress_category_id": 1892775161,
+    "name": "সিএসএস",
+    "slug": "css",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 140,
+    "source": "techtunes",
+    "wordpress_category_id": 1438435808,
+    "name": "স্যাটেলাইট টিভি",
+    "slug": "setelite-tv",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 35,
+    "source": "techtunes",
+    "wordpress_category_id": 1419310953,
+    "name": "এইচটিএমএল",
+    "slug": "html",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 66,
+    "source": "techtunes",
+    "wordpress_category_id": 1291489629,
+    "name": "গুগল মেইল",
+    "slug": "google-mail",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 78,
+    "source": "techtunes",
+    "wordpress_category_id": 785405759,
+    "name": "টুইটার",
+    "slug": "twitter",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 117,
+    "source": "techtunes",
+    "wordpress_category_id": 1729512003,
+    "name": "মনোবিজ্ঞান",
+    "slug": "psychology",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 118,
+    "source": "techtunes",
+    "wordpress_category_id": 1107422677,
+    "name": "মহাকাশ প্রযুক্তি",
+    "slug": "space-technology",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 143,
+    "source": "techtunes",
+    "wordpress_category_id": 1959640597,
+    "name": "হোম ইলেক্ট্রনিক্স",
+    "slug": "home-electronics",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 30,
+    "source": "techtunes",
+    "wordpress_category_id": 246472157,
+    "name": "উইন্ডোস 7",
+    "slug": "windows-7",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 138,
+    "source": "techtunes",
+    "wordpress_category_id": 1546943615,
+    "name": "স্টার্টআপ",
+    "slug": "startup",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 2,
+    "source": "techtunes",
+    "wordpress_category_id": 1232838563,
+    "name": "অটোডেস্ক থ্রিডি স্টুডিও ম্যাক্স",
+    "slug": "autodesk-3d-studio-max",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 103,
+    "source": "techtunes",
+    "wordpress_category_id": 1663009915,
+    "name": "পেপাল",
+    "slug": "paypal",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 9,
+    "source": "techtunes",
+    "wordpress_category_id": 1107514272,
+    "name": "অ্যাডবি ফ্ল্যাশ",
+    "slug": "adobe-flash",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 14,
+    "source": "techtunes",
+    "wordpress_category_id": 1298988628,
+    "name": "অ্যাপল",
+    "slug": "apple",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 36,
+    "source": "techtunes",
+    "wordpress_category_id": 1512005916,
+    "name": "এএসপি ডট নেট",
+    "slug": "asp-dot-net",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 43,
+    "source": "techtunes",
+    "wordpress_category_id": 1902149079,
+    "name": "ওরাক্যাল",
+    "slug": "oracle",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 48,
+    "source": "techtunes",
+    "wordpress_category_id": 1570973694,
+    "name": "ওয়েব ডিজাইন",
+    "slug": "web-design",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 51,
+    "source": "techtunes",
+    "wordpress_category_id": 1197602707,
+    "name": "কনজিউমার ইলেক্ট্রনিকস",
+    "slug": "consumer-electronics",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 65,
+    "source": "techtunes",
+    "wordpress_category_id": 221175268,
+    "name": "গুগল প্লাস",
+    "slug": "google-plus",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 82,
+    "source": "techtunes",
+    "wordpress_category_id": 1491174854,
+    "name": "টেকটিউনস VIP",
+    "slug": "techtunes-vip",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 90,
+    "source": "techtunes",
+    "wordpress_category_id": 1035071088,
+    "name": "টেকটিউনস রিসোর্স",
+    "slug": "techtunes-resource",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 91,
+    "source": "techtunes",
+    "wordpress_category_id": 546496411,
+    "name": "টেকটিউনস ল্যাব",
+    "slug": "techtunes-labs",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 100,
+    "source": "techtunes",
+    "wordpress_category_id": 758076033,
+    "name": "নোকিয়া",
+    "slug": "nokia",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 110,
+    "source": "techtunes",
+    "wordpress_category_id": 1312439292,
+    "name": "ফায়ারফক্স Addons",
+    "slug": "firefox-addons",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 126,
+    "source": "techtunes",
+    "wordpress_category_id": 1283769206,
+    "name": "মেশিন লার্নিং",
+    "slug": "machine-learning",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 41,
+    "source": "techtunes",
+    "wordpress_category_id": 489210623,
+    "name": "ওডেস্ক",
+    "slug": "odesk",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 45,
+    "source": "techtunes",
+    "wordpress_category_id": 1300997844,
+    "name": "ওয়াইম্যাক্স",
+    "slug": "wimax",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 58,
+    "source": "techtunes",
+    "wordpress_category_id": 998014542,
+    "name": "গুগল অ্যানালিটিকস",
+    "slug": "google-analytics",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 62,
+    "source": "techtunes",
+    "wordpress_category_id": 49866926,
+    "name": "গুগল টক",
+    "slug": "google-talk",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 64,
+    "source": "techtunes",
+    "wordpress_category_id": 98422105,
+    "name": "গুগল ড্রাইভ",
+    "slug": "google-drive",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 88,
+    "source": "techtunes",
+    "wordpress_category_id": 503350127,
+    "name": "টেকটিউনস প্রেস",
+    "slug": "techtunes-press",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 89,
+    "source": "techtunes",
+    "wordpress_category_id": 1627982127,
+    "name": "টেকটিউনস মিটআপ",
+    "slug": "techtunes-meetup",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 96,
+    "source": "techtunes",
+    "wordpress_category_id": 1911309548,
+    "name": "থ্রিজি",
+    "slug": "3g",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 119,
+    "source": "techtunes",
+    "wordpress_category_id": 1902261822,
+    "name": "মাইএসকিউএল",
+    "slug": "mysql",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 120,
+    "source": "techtunes",
+    "wordpress_category_id": 696791127,
+    "name": "মাইক্রোটিউনস",
+    "slug": "micro-tunes",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 128,
+    "source": "techtunes",
+    "wordpress_category_id": 2145552464,
+    "name": "ম্যাজেন্টো",
+    "slug": "magento",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 7,
+    "source": "techtunes",
+    "wordpress_category_id": 1410694467,
+    "name": "অ্যাডবি ড্রিমওয়েভার",
+    "slug": "adobe-dreamweaver",
     "description": "",
     "count": 0
   },
@@ -252,92 +1161,11 @@
     "count": 0
   },
   {
-    "id": 20,
-    "source": "techtunes",
-    "wordpress_category_id": 467474886,
-    "name": "আইফোন",
-    "slug": "iphone",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 21,
-    "source": "techtunes",
-    "wordpress_category_id": 787721116,
-    "name": "আউটসোর্সিং",
-    "slug": "outsourcing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 23,
-    "source": "techtunes",
-    "wordpress_category_id": 168527485,
-    "name": "ইউটিউবিং",
-    "slug": "youtubing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 24,
-    "source": "techtunes",
-    "wordpress_category_id": 1991443854,
-    "name": "ইকমার্স",
-    "slug": "ecommerce",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 26,
-    "source": "techtunes",
-    "wordpress_category_id": 1834346353,
-    "name": "ইলেক্ট্রনিক্স",
-    "slug": "electronics",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 27,
     "source": "techtunes",
     "wordpress_category_id": 747920120,
     "name": "ইয়াহু",
     "slug": "yahoo",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 28,
-    "source": "techtunes",
-    "wordpress_category_id": 1648009170,
-    "name": "উইন্ডোজ ফোন",
-    "slug": "windows-phone",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 29,
-    "source": "techtunes",
-    "wordpress_category_id": 1532864786,
-    "name": "উইন্ডোস",
-    "slug": "windows",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 30,
-    "source": "techtunes",
-    "wordpress_category_id": 246472157,
-    "name": "উইন্ডোস 7",
-    "slug": "windows-7",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 31,
-    "source": "techtunes",
-    "wordpress_category_id": 504348748,
-    "name": "উইন্ডোস 8",
-    "slug": "windows-8",
     "description": "",
     "count": 0
   },
@@ -351,227 +1179,11 @@
     "count": 0
   },
   {
-    "id": 33,
-    "source": "techtunes",
-    "wordpress_category_id": 1525507603,
-    "name": "উইন্ডোস ১০",
-    "slug": "windows-10",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 34,
-    "source": "techtunes",
-    "wordpress_category_id": 770332293,
-    "name": "উইন্ডোস ১১",
-    "slug": "windows-11",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 35,
-    "source": "techtunes",
-    "wordpress_category_id": 1419310953,
-    "name": "এইচটিএমএল",
-    "slug": "html",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 36,
-    "source": "techtunes",
-    "wordpress_category_id": 1512005916,
-    "name": "এএসপি ডট নেট",
-    "slug": "asp-dot-net",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 37,
     "source": "techtunes",
     "wordpress_category_id": 885443019,
     "name": "এক্স বক্স",
     "slug": "xbox",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 38,
-    "source": "techtunes",
-    "wordpress_category_id": 245320565,
-    "name": "এডুটিউনস",
-    "slug": "edutunes",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 39,
-    "source": "techtunes",
-    "wordpress_category_id": 1439396743,
-    "name": "এনিমেশন",
-    "slug": "animation",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 40,
-    "source": "techtunes",
-    "wordpress_category_id": 1684946449,
-    "name": "এসইও",
-    "slug": "seo",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 41,
-    "source": "techtunes",
-    "wordpress_category_id": 489210623,
-    "name": "ওডেস্ক",
-    "slug": "odesk",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 43,
-    "source": "techtunes",
-    "wordpress_category_id": 1902149079,
-    "name": "ওরাক্যাল",
-    "slug": "oracle",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 44,
-    "source": "techtunes",
-    "wordpress_category_id": 1535290823,
-    "name": "ওয়াইফাই",
-    "slug": "wifi",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 45,
-    "source": "techtunes",
-    "wordpress_category_id": 1300997844,
-    "name": "ওয়াইম্যাক্স",
-    "slug": "wimax",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 46,
-    "source": "techtunes",
-    "wordpress_category_id": 1894643728,
-    "name": "ওয়ার্ডপ্রেস",
-    "slug": "wordpress",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 47,
-    "source": "techtunes",
-    "wordpress_category_id": 1065131125,
-    "name": "ওয়ার্ডপ্রেস প্লাগইনস",
-    "slug": "wordpress-plugins",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 48,
-    "source": "techtunes",
-    "wordpress_category_id": 1570973694,
-    "name": "ওয়েব ডিজাইন",
-    "slug": "web-design",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 49,
-    "source": "techtunes",
-    "wordpress_category_id": 1579133967,
-    "name": "ওয়েব ডেভেলপমেন্ট",
-    "slug": "web-development",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 50,
-    "source": "techtunes",
-    "wordpress_category_id": 687738887,
-    "name": "ওয়েবওয়্যার",
-    "slug": "webware",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 51,
-    "source": "techtunes",
-    "wordpress_category_id": 1197602707,
-    "name": "কনজিউমার ইলেক্ট্রনিকস",
-    "slug": "consumer-electronics",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 52,
-    "source": "techtunes",
-    "wordpress_category_id": 154654318,
-    "name": "কম্পিউটিং",
-    "slug": "computing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 53,
-    "source": "techtunes",
-    "wordpress_category_id": 430819218,
-    "name": "কী কেন কীভাবে",
-    "slug": "how-to",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 54,
-    "source": "techtunes",
-    "wordpress_category_id": 590598913,
-    "name": "ক্রিপটোকারেন্সি",
-    "slug": "cryptocurrency",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 55,
-    "source": "techtunes",
-    "wordpress_category_id": 1362269916,
-    "name": "খবর",
-    "slug": "news",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 56,
-    "source": "techtunes",
-    "wordpress_category_id": 1653961574,
-    "name": "গুগল",
-    "slug": "google",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 57,
-    "source": "techtunes",
-    "wordpress_category_id": 230703951,
-    "name": "গুগল Apps",
-    "slug": "google-apps",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 58,
-    "source": "techtunes",
-    "wordpress_category_id": 998014542,
-    "name": "গুগল অ্যানালিটিকস",
-    "slug": "google-analytics",
     "description": "",
     "count": 0
   },
@@ -585,110 +1197,11 @@
     "count": 0
   },
   {
-    "id": 60,
-    "source": "techtunes",
-    "wordpress_category_id": 369832757,
-    "name": "গুগল ক্রোম",
-    "slug": "google-chrome",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 62,
-    "source": "techtunes",
-    "wordpress_category_id": 49866926,
-    "name": "গুগল টক",
-    "slug": "google-talk",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 63,
     "source": "techtunes",
     "wordpress_category_id": 1284183714,
     "name": "গুগল ডকস",
     "slug": "google-docs",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 64,
-    "source": "techtunes",
-    "wordpress_category_id": 98422105,
-    "name": "গুগল ড্রাইভ",
-    "slug": "google-drive",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 65,
-    "source": "techtunes",
-    "wordpress_category_id": 221175268,
-    "name": "গুগল প্লাস",
-    "slug": "google-plus",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 66,
-    "source": "techtunes",
-    "wordpress_category_id": 1291489629,
-    "name": "গুগল মেইল",
-    "slug": "google-mail",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 67,
-    "source": "techtunes",
-    "wordpress_category_id": 1525822896,
-    "name": "গুগল ম্যাপস",
-    "slug": "google-maps",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 69,
-    "source": "techtunes",
-    "wordpress_category_id": 23083682,
-    "name": "গ্রাফিক্স ডিজাইনিং",
-    "slug": "graphics-designing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 70,
-    "source": "techtunes",
-    "wordpress_category_id": 284162388,
-    "name": "চিকিৎসা বিজ্ঞান",
-    "slug": "medical-science",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 71,
-    "source": "techtunes",
-    "wordpress_category_id": 872147294,
-    "name": "জাভা",
-    "slug": "java",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 72,
-    "source": "techtunes",
-    "wordpress_category_id": 2022408572,
-    "name": "জাভাস্ক্রিট",
-    "slug": "javascript",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 73,
-    "source": "techtunes",
-    "wordpress_category_id": 992645383,
-    "name": "জীবনী",
-    "slug": "biography",
     "description": "",
     "count": 0
   },
@@ -711,155 +1224,11 @@
     "count": 0
   },
   {
-    "id": 76,
-    "source": "techtunes",
-    "wordpress_category_id": 1387757121,
-    "name": "টিউটোরিয়াল",
-    "slug": "tutorial",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 78,
-    "source": "techtunes",
-    "wordpress_category_id": 785405759,
-    "name": "টুইটার",
-    "slug": "twitter",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 79,
-    "source": "techtunes",
-    "wordpress_category_id": 50259526,
-    "name": "টেক ফিকশান",
-    "slug": "tech-fiction",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 80,
-    "source": "techtunes",
-    "wordpress_category_id": 331343563,
-    "name": "টেক হিউমার",
-    "slug": "tech-humour",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 81,
-    "source": "techtunes",
-    "wordpress_category_id": 374426451,
-    "name": "টেকটিউনস",
-    "slug": "techtunes",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 82,
-    "source": "techtunes",
-    "wordpress_category_id": 1491174854,
-    "name": "টেকটিউনস VIP",
-    "slug": "techtunes-vip",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 83,
-    "source": "techtunes",
-    "wordpress_category_id": 258452813,
-    "name": "টেকটিউনস জবস",
-    "slug": "techtunes-jobs",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 84,
-    "source": "techtunes",
-    "wordpress_category_id": 2130196796,
-    "name": "টেকটিউনস জরিপ",
-    "slug": "techtunes-polls",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 85,
     "source": "techtunes",
     "wordpress_category_id": 832773920,
     "name": "টেকটিউনস টপটিউনার কনক্লেভ",
     "slug": "techtunes-toptuner-conclave",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 86,
-    "source": "techtunes",
-    "wordpress_category_id": 1603648765,
-    "name": "টেকটিউনস টিউন্টারভিউ",
-    "slug": "tuneterview",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 88,
-    "source": "techtunes",
-    "wordpress_category_id": 503350127,
-    "name": "টেকটিউনস প্রেস",
-    "slug": "techtunes-press",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 89,
-    "source": "techtunes",
-    "wordpress_category_id": 1627982127,
-    "name": "টেকটিউনস মিটআপ",
-    "slug": "techtunes-meetup",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 90,
-    "source": "techtunes",
-    "wordpress_category_id": 1035071088,
-    "name": "টেকটিউনস রিসোর্স",
-    "slug": "techtunes-resource",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 91,
-    "source": "techtunes",
-    "wordpress_category_id": 546496411,
-    "name": "টেকটিউনস ল্যাব",
-    "slug": "techtunes-labs",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 92,
-    "source": "techtunes",
-    "wordpress_category_id": 1576583674,
-    "name": "টেকটিউনস সুপার সাকসেসর",
-    "slug": "techtunes-super-successor",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 93,
-    "source": "techtunes",
-    "wordpress_category_id": 1824916440,
-    "name": "ডাউনলোড",
-    "slug": "download",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 94,
-    "source": "techtunes",
-    "wordpress_category_id": 665481037,
-    "name": "ডিজিটাল মার্কেটিং",
-    "slug": "digital-marketing",
     "description": "",
     "count": 0
   },
@@ -873,92 +1242,11 @@
     "count": 0
   },
   {
-    "id": 96,
-    "source": "techtunes",
-    "wordpress_category_id": 1911309548,
-    "name": "থ্রিজি",
-    "slug": "3g",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 97,
-    "source": "techtunes",
-    "wordpress_category_id": 684710012,
-    "name": "নির্বাচিত",
-    "slug": "featured",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 98,
-    "source": "techtunes",
-    "wordpress_category_id": 1054721093,
-    "name": "নেটওয়ার্কিং",
-    "slug": "networking",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 99,
     "source": "techtunes",
     "wordpress_category_id": 1084289361,
     "name": "নেটিজেন নেটওয়ার্ক",
     "slug": "netizen-network",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 100,
-    "source": "techtunes",
-    "wordpress_category_id": 758076033,
-    "name": "নোকিয়া",
-    "slug": "nokia",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 101,
-    "source": "techtunes",
-    "wordpress_category_id": 1586426864,
-    "name": "পিএইচপি",
-    "slug": "php",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 102,
-    "source": "techtunes",
-    "wordpress_category_id": 571522204,
-    "name": "পিসি বিল্ডিং",
-    "slug": "pc-building",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 103,
-    "source": "techtunes",
-    "wordpress_category_id": 1663009915,
-    "name": "পেপাল",
-    "slug": "paypal",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 104,
-    "source": "techtunes",
-    "wordpress_category_id": 1235585996,
-    "name": "প্রতিবেদন",
-    "slug": "reports",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 106,
-    "source": "techtunes",
-    "wordpress_category_id": 996452726,
-    "name": "প্রোগ্রামিং",
-    "slug": "programming",
     "description": "",
     "count": 0
   },
@@ -972,182 +1260,11 @@
     "count": 0
   },
   {
-    "id": 108,
-    "source": "techtunes",
-    "wordpress_category_id": 1044917629,
-    "name": "ফটোগ্রাফি",
-    "slug": "photography",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 109,
-    "source": "techtunes",
-    "wordpress_category_id": 490756560,
-    "name": "ফায়ারফক্স",
-    "slug": "firefox",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 110,
-    "source": "techtunes",
-    "wordpress_category_id": 1312439292,
-    "name": "ফায়ারফক্স Addons",
-    "slug": "firefox-addons",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 111,
-    "source": "techtunes",
-    "wordpress_category_id": 2141735240,
-    "name": "ফেসবুক",
-    "slug": "facebook",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 112,
-    "source": "techtunes",
-    "wordpress_category_id": 172681146,
-    "name": "ফ্রিওয়্যার",
-    "slug": "freeware",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 113,
-    "source": "techtunes",
-    "wordpress_category_id": 984793197,
-    "name": "ফ্রিল্যান্সিং",
-    "slug": "freelancing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 114,
-    "source": "techtunes",
-    "wordpress_category_id": 988606052,
-    "name": "বাংলা কম্পিউটিং",
-    "slug": "bangla-computing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 115,
-    "source": "techtunes",
-    "wordpress_category_id": 1479394531,
-    "name": "বিজ্ঞান ও প্রযুক্তি",
-    "slug": "sci-tech",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 116,
-    "source": "techtunes",
-    "wordpress_category_id": 1203923193,
-    "name": "ভিডিও এডিটিং",
-    "slug": "video-editing",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 117,
-    "source": "techtunes",
-    "wordpress_category_id": 1729512003,
-    "name": "মনোবিজ্ঞান",
-    "slug": "psychology",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 118,
-    "source": "techtunes",
-    "wordpress_category_id": 1107422677,
-    "name": "মহাকাশ প্রযুক্তি",
-    "slug": "space-technology",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 119,
-    "source": "techtunes",
-    "wordpress_category_id": 1902261822,
-    "name": "মাইএসকিউএল",
-    "slug": "mysql",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 120,
-    "source": "techtunes",
-    "wordpress_category_id": 696791127,
-    "name": "মাইক্রোটিউনস",
-    "slug": "micro-tunes",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 121,
-    "source": "techtunes",
-    "wordpress_category_id": 1694555859,
-    "name": "মাইক্রোসফট",
-    "slug": "microsoft",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 122,
     "source": "techtunes",
     "wordpress_category_id": 1460918360,
     "name": "মাইক্রোসফট অ্যাকসেস",
     "slug": "microsoft-access",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 123,
-    "source": "techtunes",
-    "wordpress_category_id": 1861270815,
-    "name": "মাইক্রোসফট এক্সেল",
-    "slug": "microsoft-excel",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 124,
-    "source": "techtunes",
-    "wordpress_category_id": 907115055,
-    "name": "মাইক্রোসফট ওয়ার্ড",
-    "slug": "microsoft-word",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 125,
-    "source": "techtunes",
-    "wordpress_category_id": 121631148,
-    "name": "মাইক্রোসফট পাওয়ারপয়েন্ট",
-    "slug": "microsoft-powerpoint",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 126,
-    "source": "techtunes",
-    "wordpress_category_id": 1283769206,
-    "name": "মেশিন লার্নিং",
-    "slug": "machine-learning",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 128,
-    "source": "techtunes",
-    "wordpress_category_id": 2145552464,
-    "name": "ম্যাজেন্টো",
-    "slug": "magento",
     "description": "",
     "count": 0
   },
@@ -1161,128 +1278,11 @@
     "count": 0
   },
   {
-    "id": 130,
-    "source": "techtunes",
-    "wordpress_category_id": 2127169521,
-    "name": "রিভিউ",
-    "slug": "review",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 131,
-    "source": "techtunes",
-    "wordpress_category_id": 1985177931,
-    "name": "লিনাক্স",
-    "slug": "linux",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 132,
-    "source": "techtunes",
-    "wordpress_category_id": 1737019404,
-    "name": "ল্যাপটপ",
-    "slug": "laptop",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 133,
-    "source": "techtunes",
-    "wordpress_category_id": 14417798,
-    "name": "সমগ্র",
-    "slug": "roundup",
-    "description": "",
-    "count": 0
-  },
-  {
     "id": 134,
     "source": "techtunes",
     "wordpress_category_id": 1474871311,
     "name": "সম্পাদকীয়",
     "slug": "editorial",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 135,
-    "source": "techtunes",
-    "wordpress_category_id": 929450977,
-    "name": "সাইবার সিকিউরিটি",
-    "slug": "cyber-security",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 136,
-    "source": "techtunes",
-    "wordpress_category_id": 1755704690,
-    "name": "সাহায্য/জিজ্ঞাসা",
-    "slug": "help-ask",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 137,
-    "source": "techtunes",
-    "wordpress_category_id": 1892775161,
-    "name": "সিএসএস",
-    "slug": "css",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 138,
-    "source": "techtunes",
-    "wordpress_category_id": 1546943615,
-    "name": "স্টার্টআপ",
-    "slug": "startup",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 139,
-    "source": "techtunes",
-    "wordpress_category_id": 970894336,
-    "name": "স্পন্সরড টিউন",
-    "slug": "sponsored-tune",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 140,
-    "source": "techtunes",
-    "wordpress_category_id": 1438435808,
-    "name": "স্যাটেলাইট টিভি",
-    "slug": "setelite-tv",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 141,
-    "source": "techtunes",
-    "wordpress_category_id": 490798843,
-    "name": "স্যামসাং গ্যালাক্সি",
-    "slug": "samsung-galaxy",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 142,
-    "source": "techtunes",
-    "wordpress_category_id": 1782933576,
-    "name": "হার্ডওয়্যার",
-    "slug": "hardware",
-    "description": "",
-    "count": 0
-  },
-  {
-    "id": 143,
-    "source": "techtunes",
-    "wordpress_category_id": 1959640597,
-    "name": "হোম ইলেক্ট্রনিক্স",
-    "slug": "home-electronics",
     "description": "",
     "count": 0
   }
