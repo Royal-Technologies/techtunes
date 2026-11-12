@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>সম্পর্কে | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="টেকটিউনস (techtunes.io) ডিজিটাল আর্কাইভ ও দৈনিক স্বয়ংক্রিয় সিঙ্ক প্ল্যাটফর্ম সম্পর্কে জানুন।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link active">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container content-narrow">
+    <article class="article-body">
+      <div style="display: flex; align-items: center; gap: 18px; flex-wrap: wrap; margin-bottom: 24px; padding-bottom: 20px; border-bottom: 1px solid var(--border-color);">
+        <img src="assets/images/favicon-192x192.png" alt="Techtunes" style="width: 72px; height: 72px; border-radius: 14px; border: 2px solid var(--tt-purple-light-2); margin: 0;">
+        <div>
+          <span class="source-badge badge-techtunes" style="margin-bottom: 6px;">Techtunes Digital Archive</span>
+          <h1 style="font-size: 1.85rem; margin: 0; color: var(--text-primary);">টেকটিউনস (Techtunes) — মেতে উঠুন প্রযুক্তির সুরে</h1>
+        </div>
+      </div>
+
+      <h2>১. টেকটিউনস কী?</h2>
+      <p>
+        <strong>টেকটিউনস (<a href="https://www.techtunes.io/" target="_blank" rel="noopener">techtunes.io</a>)</strong> হলো বাংলা ভাষার প্রথম, বৃহত্তম এবং সবচেয়ে জনপ্রিয় প্রযুক্তি বিষয়ক সোশ্যাল নেটওয়ার্ক ও কমিউনিটি ব্লগিং প্ল্যাটফর্ম। ২০০৮ সাল থেকে বাংলাদেশের প্রযুক্তি প্রেমী, ডেভেলপার, ডিজাইনার ও শিক্ষার্থীরা এখানে কম্পিউটিং, প্রোগ্রামিং, এআই, মোবাইল, ফ্রিল্যান্সিং, টিউটোরিয়াল এবং বিজ্ঞান ও প্রযুক্তি নিয়ে নিয়মিত টিউন প্রকাশ করে আসছেন।
+      </p>
+
+      <h2>২. স্বয়ংক্রিয় দৈনিক আর্কাইভিং (Daily Auto-Sync)</h2>
+      <p>
+        এই প্ল্যাটফর্মটি প্রতিদিন স্বয়ংক্রিয়ভাবে <strong>https://www.techtunes.io/</strong> থেকে নতুন ও আপডেটকৃত সকল টিউন, টিউনার তথ্য, বিভাগ, ট্যাগ এবং ফিচার্ড ইমেজ সংগ্রহ করে:
+      </p>
+      <ul>
+        <li><strong>দৈনিক GitHub Actions সিঙ্ক:</strong> প্রতিদিন বাংলাদেশ সময় সকাল ৬:০০ টায় (<code>00:00 UTC</code>) স্বয়ংক্রিয়ভাবে <code>scripts/sync.py --mode incremental</code> চালানো হয়।</li>
+        <li><strong>ত্রিস্তরীয় সংরক্ষণ (Tri-Layer Redundancy):</strong> প্রতিটি টিউন একই সাথে <strong>SQLite 3 (FTS5)</strong> ডেটাবেস, <strong>YAML Frontmatter যুক্ত UTF-8 Markdown (.md)</strong> ফাইল এবং <strong>Deterministic JSON</strong> হিসেবে সংরক্ষিত হয়।</li>
+        <li><strong>রিভিশন ট্র্যাকিং:</strong> মূল সাইটে কোনো টিউন আপডেট হলে পূর্ববর্তী সংস্করণ <code>post_revisions</code> টেবিলে সংরক্ষিত থাকে।</li>
+        <li><strong>সম্পূর্ণ সার্ভারলেস ওয়েবসাইট:</strong> কোনো PHP বা MySQL সার্ভার ছাড়াই GitHub Pages-এ স্ট্যাটিক HTML/CSS/JS ও ইনস্ট্যান্ট ফুল-টেক্সট সার্চ হিসেবে চলে।</li>
+      </ul>
+
+      <h2>৩. প্রজেক্ট ও সোর্স কোড</h2>
+      <p>
+        এই আর্কাইভ সিস্টেমটি <a href="https://github.com/Royal-Technologies/techtunes" target="_blank" rel="noopener">Royal-Technologies/techtunes</a> রিপোজিটরিতে হোস্ট করা এবং প্রতিদিনের আপডেট স্বয়ংক্রিয়ভাবে GitHub Pages-এ প্রকাশিত হয়।
+      </p>
+
+      <div style="display: flex; gap: 12px; margin-top: 24px; flex-wrap: wrap;">
+        <a href="archive.html" class="btn btn-primary">আর্কাইভ দেখুন →</a>
+        <a href="search.html" class="btn">সার্চ করুন →</a>
+        <a href="https://www.techtunes.io/" target="_blank" rel="noopener" class="btn">techtunes.io ভিজিট করুন ↗</a>
+        <a href="https://github.com/Royal-Technologies/techtunes" target="_blank" rel="noopener" class="btn">GitHub Repository ↗</a>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — Built for Long-Term Digital Preservation by Royal Technologies.</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

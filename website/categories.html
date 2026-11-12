@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>টিউন বিভাগসমূহ | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="টেকটিউনসের সকল প্রযুক্তি বিভাগ ও বিষয়ভিত্তিক টিউন দেখুন।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link active">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <h1 class="section-title">সকল টিউন বিভাগ (Categories)</h1>
+      <a href="tags.html" style="font-size: 0.9rem;">সকল ট্যাগ দেখুন →</a>
+    </div>
+
+    <div id="categories-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 22px;">
+      <p style="color: var(--text-muted); padding: 40px;">বিভাগসমূহ লোড হচ্ছে...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — টেকটিউনসের অফিসিয়াল প্রযুক্তি বিভাগসমূহ।</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const container = document.getElementById('categories-container');
+      try {
+        const resp = await window.ArchiveUtils.fetchAsset('exports/categories.json');
+        let categories = [];
+        if (resp.ok) {
+          categories = await resp.json();
+        }
+
+        if (categories.length === 0) {
+          container.innerHTML = '<p style="color: var(--text-muted);">এখনো কোনো বিভাগ সংরক্ষিত হয়নি।</p>';
+          return;
+        }
+
+        const activeCats = categories.filter(c => (c.count || 0) > 0);
+        const allCats = categories;
+
+        function renderCard(title, badgeClass, list) {
+          if (!list || list.length === 0) return '';
+          const items = list.map(c => `
+            <li style="display: flex; justify-content: space-between; align-items: center; padding: 9px 0; border-bottom: 1px solid var(--border-color);">
+              <a href="search.html?category=${encodeURIComponent(c.name)}" style="color: var(--text-primary); font-weight: 500;">
+                ${window.ArchiveUtils.escapeHtml(c.name)}
+              </a>
+              <span class="tag-pill">${c.count || 0}</span>
+            </li>
+          `).join('');
+
+          return `
+            <div style="background-color: var(--bg-surface); border: 1px solid var(--border-color); border-top: 3px solid var(--tt-purple); border-radius: var(--radius-md); padding: 22px; box-shadow: var(--shadow-sm);">
+              <h2 style="font-size: 1.2rem; margin-bottom: 14px;">
+                <span class="source-badge ${badgeClass}">${title} (${list.length})</span>
+              </h2>
+              <ul style="list-style: none; padding: 0;">
+                ${items}
+              </ul>
+            </div>
+          `;
+        }
+
+        let html = '';
+        if (activeCats.length > 0) {
+          html += renderCard('সক্রিয় আর্কাইভ বিভাগ', 'badge-techtunes', activeCats);
+        }
+        html += renderCard('টেকটিউনস ডিরেক্টরি', 'badge-teal', allCats);
+
+        container.innerHTML = html;
+      } catch (err) {
+        container.innerHTML = '<p style="color: var(--text-muted);">বিভাগসমূহ লোড করা যায়নি।</p>';
+      }
+    });
+  </script>
+</body>
+</html>

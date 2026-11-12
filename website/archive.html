@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>সময়ক্রম আর্কাইভ | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="টেকটিউনস থেকে সংরক্ষিত সকল টিউনের সময়ানুক্রমিক আর্কাইভ।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link active">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <h1 class="section-title">সময়ানুক্রমিক আর্কাইভ (Chronological Archive)</h1>
+      <span id="timeline-count" style="font-size: 0.9rem; color: var(--text-muted);">লোড হচ্ছে...</span>
+    </div>
+
+    <!-- Filters Bar -->
+    <div class="filters-bar">
+      <label for="archive-category-filter" style="font-size: 0.88rem; color: var(--text-muted);">বিভাগ:</label>
+      <select id="archive-category-filter" class="filter-select">
+        <option value="all">সকল বিভাগ</option>
+      </select>
+
+      <span style="font-size: 0.88rem; margin-left: 10px; color: var(--text-muted);">ভাষা:</span>
+      <button class="filter-btn active" data-lang="all">সকল</button>
+      <button class="filter-btn" data-lang="bn">বাংলা</button>
+      <button class="filter-btn" data-lang="en">English</button>
+    </div>
+
+    <div id="timeline-container">
+      <p style="text-align: center; padding: 40px; color: var(--text-muted);">আর্কাইভ লোড হচ্ছে...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — প্রতিদিন <a href="https://www.techtunes.io/" target="_blank" rel="noopener">techtunes.io</a> থেকে সংরক্ষিত।</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      let articles = [];
+      let activeCategory = 'all';
+      let activeLang = 'all';
+
+      const container = document.getElementById('timeline-container');
+      const countElem = document.getElementById('timeline-count');
+      const catSelect = document.getElementById('archive-category-filter');
+
+      try {
+        const resp = await fetch('data/articles-summary.json');
+        if (!resp.ok) throw new Error('Data not available');
+        articles = await resp.json();
+
+        const catCounts = {};
+        articles.forEach(a => (a.categories || []).forEach(c => { catCounts[c] = (catCounts[c] || 0) + 1; }));
+        Object.keys(catCounts).sort((a, b) => catCounts[b] - catCounts[a]).forEach(cat => {
+          const opt = document.createElement('option');
+          opt.value = cat;
+          opt.textContent = `${cat} (${catCounts[cat]})`;
+          catSelect.appendChild(opt);
+        });
+
+        renderTimeline();
+      } catch (err) {
+        container.innerHTML = '<p style="text-align: center; color: var(--text-muted);">প্রথম সিঙ্ক সম্পন্ন হলে টিউনগুলো এখানে প্রদর্শিত হবে।</p>';
+      }
+
+      function renderTimeline() {
+        let filtered = articles;
+        if (activeCategory !== 'all') {
+          filtered = filtered.filter(a => (a.categories || []).includes(activeCategory));
+        }
+        if (activeLang !== 'all') {
+          filtered = filtered.filter(a => a.language === activeLang);
+        }
+
+        countElem.textContent = `${filtered.length}টি টিউন সংরক্ষিত`;
+
+        if (filtered.length === 0) {
+          container.innerHTML = '<p style="text-align: center; padding: 40px; color: var(--text-muted);">নির্বাচিত ফিল্টারে কোনো টিউন পাওয়া যায়নি।</p>';
+          return;
+        }
+
+        const byYear = {};
+        filtered.forEach(art => {
+          const yr = art.year || 'Unknown';
+          if (!byYear[yr]) byYear[yr] = [];
+          byYear[yr].push(art);
+        });
+
+        const sortedYears = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+
+        const html = sortedYears.map(year => {
+          const yearArticles = byYear[year];
+          const cards = yearArticles.map(a => window.ArchiveUtils.renderArticleCard(a)).join('');
+          return `
+            <div style="margin-bottom: 40px;">
+              <h2 style="font-size: 1.55rem; color: var(--accent); margin-bottom: 16px; border-bottom: 2px solid var(--border-color); padding-bottom: 6px;">
+                ${year} <span style="font-size: 0.9rem; color: var(--text-muted); font-weight: normal;">(${yearArticles.length}টি টিউন)</span>
+              </h2>
+              <div class="articles-list">
+                ${cards}
+              </div>
+            </div>
+          `;
+        }).join('');
+
+        container.innerHTML = html;
+      }
+
+      catSelect.addEventListener('change', () => {
+        activeCategory = catSelect.value;
+        renderTimeline();
+      });
+
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const lang = btn.dataset.lang;
+          if (lang) {
+            activeLang = lang;
+            document.querySelectorAll('[data-lang]').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+          }
+          renderTimeline();
+        });
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>টিউন পাঠক | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="টেকটিউনস আর্কাইভে সংরক্ষিত টিউন পড়ুন।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container content-narrow">
+    <div id="article-loader" style="text-align: center; padding: 60px 20px;">
+      <p style="font-size: 1.1rem; color: var(--text-muted);">ডিজিটাল আর্কাইভ থেকে টিউন লোড হচ্ছে...</p>
+    </div>
+
+    <div id="article-view" style="display: none;">
+      <!-- Techtunes Purple Header Banner -->
+      <div class="article-hero-banner">
+        <header class="article-header" style="margin-bottom: 0;">
+          <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+            <span id="art-source-badge" class="source-badge" style="background: rgba(255,255,255,0.2); color: #fff; border: 1px solid rgba(255,255,255,0.35);">বিভাগ</span>
+            <span id="art-lang-badge" style="font-size: 0.82rem; color: rgba(255,255,255,0.9);"></span>
+          </div>
+          <h1 id="art-title" class="article-title"></h1>
+          <div style="font-size: 0.96rem; color: rgba(255,255,255,0.92);">
+            টিউনার: <a id="art-author-link" href="search.html" style="color: #fff; font-weight: 700; text-decoration: underline;"><span id="art-author">Techtunes Tuner</span></a>
+          </div>
+        </header>
+      </div>
+
+      <!-- Archival Metadata Box -->
+      <div class="article-meta-box">
+        <div>
+          <span class="meta-field-label">মূল প্রকাশের তারিখ</span>
+          <span id="art-pub-date" class="meta-field-val"></span>
+        </div>
+        <div>
+          <span class="meta-field-label">সর্বশেষ আপডেট</span>
+          <span id="art-archived-date" class="meta-field-val"></span>
+        </div>
+        <div>
+          <span class="meta-field-label">মূল টেকটিউনস লিংক</span>
+          <a id="art-orig-link" href="#" target="_blank" rel="noopener" class="meta-field-val" style="word-break: break-all;">Original Tune ↗</a>
+        </div>
+        <div>
+          <span class="meta-field-label">স্থায়ী আর্কাইভ আইডি</span>
+          <span id="art-archive-id" class="meta-field-val font-mono"></span>
+        </div>
+      </div>
+
+      <!-- Featured Image -->
+      <img id="art-featured-image" class="article-featured-img" style="display: none;" alt="Tune Featured Image">
+
+      <!-- Rendered Body Content -->
+      <div id="art-content" class="article-body"></div>
+
+      <!-- Action Buttons -->
+      <div class="article-actions">
+        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+          <button onclick="window.print()" class="btn">🖨️ প্রিন্ট করুন</button>
+          <a id="art-md-download" href="#" class="btn btn-primary" download>📥 Markdown ডাউনলোড (.md)</a>
+        </div>
+        <div>
+          <a href="search.html" class="btn">🔍 আরও টিউন খুঁজুন</a>
+        </div>
+      </div>
+
+      <!-- Taxonomies & Citations -->
+      <div style="margin-top: 24px; font-size: 0.92rem;">
+        <div style="margin-bottom: 12px;">
+          <strong>টিউন বিভাগ:</strong> <span id="art-categories"></span>
+        </div>
+        <div style="margin-bottom: 24px;">
+          <strong>ট্যাগসমূহ:</strong> <span id="art-tags"></span>
+        </div>
+
+        <div style="padding: 16px; background-color: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-color); font-size: 0.84rem; color: var(--text-secondary);">
+          <strong>Archival Citation:</strong><br>
+          <span id="art-citation"></span>
+        </div>
+
+        <nav id="art-prev-next" style="display: flex; justify-content: space-between; gap: 15px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border-color); flex-wrap: wrap;">
+        </nav>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — প্রতিদিন <a href="https://www.techtunes.io/" target="_blank" rel="noopener">techtunes.io</a> থেকে সংরক্ষিত।</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const archiveId = window.ArchiveUtils.getQueryParam('id');
+      const loader = document.getElementById('article-loader');
+      const view = document.getElementById('article-view');
+
+      if (!archiveId) {
+        loader.innerHTML = `
+          <h3>কোনো টিউন নির্বাচন করা হয়নি</h3>
+          <p style="margin-top: 10px;"><a href="archive.html">সম্পূর্ণ আর্কাইভ দেখুন →</a></p>
+        `;
+        return;
+      }
+
+      try {
+        let articles = [];
+        const resp = await fetch('data/articles-summary.json');
+        if (resp.ok) {
+          articles = await resp.json();
+        }
+
+        const article = articles.find(a => a.archive_id === archiveId);
+        if (!article) {
+          loader.innerHTML = `
+            <h3>টিউনটি পাওয়া যায়নি</h3>
+            <p>Archive ID '${window.ArchiveUtils.escapeHtml(archiveId)}' বর্তমান ইনডেক্সে নেই।</p>
+            <p style="margin-top: 10px;"><a href="search.html">অন্যান্য টিউন খুঁজুন →</a></p>
+          `;
+          return;
+        }
+
+        const mdResp = await window.ArchiveUtils.fetchAsset(article.markdown_path);
+        let rawMarkdown = '';
+        if (mdResp.ok) {
+          rawMarkdown = await mdResp.text();
+        } else {
+          rawMarkdown = article.excerpt || 'টিউনের বিস্তারিত কনটেন্ট লোড করা যায়নি।';
+        }
+
+        let bodyMarkdown = rawMarkdown;
+        if (rawMarkdown.startsWith('---')) {
+          const secondIdx = rawMarkdown.indexOf('---', 3);
+          if (secondIdx !== -1) {
+            bodyMarkdown = rawMarkdown.substring(secondIdx + 3).trim();
+          }
+        }
+
+        document.title = `${article.title} | টেকটিউনস আর্কাইভ`;
+        document.getElementById('art-title').textContent = article.title;
+        document.getElementById('art-author').textContent = article.author || 'Techtunes Tuner';
+        document.getElementById('art-author-link').href = `search.html?author=${encodeURIComponent(article.author || '')}`;
+        document.getElementById('art-archive-id').textContent = article.archive_id;
+
+        const badge = document.getElementById('art-source-badge');
+        badge.textContent = (article.categories && article.categories[0]) ? article.categories[0] : 'টেকটিউনস';
+
+        document.getElementById('art-lang-badge').textContent = article.language === 'bn' ? 'বাংলা (Bengali)' : 'English';
+        document.getElementById('art-pub-date').textContent = window.ArchiveUtils.formatDate(article.published_at);
+        document.getElementById('art-archived-date').textContent = window.ArchiveUtils.formatDate(article.modified_at || article.published_at);
+
+        const origLink = document.getElementById('art-orig-link');
+        origLink.href = article.original_url;
+        origLink.textContent = article.original_url;
+
+        const featImg = document.getElementById('art-featured-image');
+        if (article.featured_image) {
+          featImg.src = window.ArchiveUtils.resolveAssetPath(article.featured_image);
+          featImg.style.display = 'block';
+        }
+
+        const contentElem = document.getElementById('art-content');
+        if (typeof marked !== 'undefined') {
+          contentElem.innerHTML = marked.parse(bodyMarkdown);
+        } else {
+          contentElem.textContent = bodyMarkdown;
+        }
+
+        const dlLink = document.getElementById('art-md-download');
+        dlLink.href = window.ArchiveUtils.resolveAssetPath(article.markdown_path);
+        dlLink.setAttribute('download', `${article.slug}.md`);
+
+        const catHtml = (article.categories || []).map(c =>
+          `<a href="search.html?category=${encodeURIComponent(c)}" class="tag-pill" style="margin-right:6px;">${window.ArchiveUtils.escapeHtml(c)}</a>`
+        ).join('') || 'General';
+        document.getElementById('art-categories').innerHTML = catHtml;
+
+        const tagHtml = (article.tags || []).map(t =>
+          `<a href="search.html?q=${encodeURIComponent(t)}" class="tag-pill" style="margin-right:6px;">#${window.ArchiveUtils.escapeHtml(t)}</a>`
+        ).join('') || 'None';
+        document.getElementById('art-tags').innerHTML = tagHtml;
+
+        const citation = `${article.author || 'Techtunes Tuner'} (${article.published_at ? article.published_at.substring(0, 4) : 'n.d.'}). "${article.title}". Originally published at Techtunes (${article.original_url}). Preserved in Techtunes Archive (ID: ${article.archive_id}).`;
+        document.getElementById('art-citation').textContent = citation;
+
+        const idx = articles.findIndex(a => a.archive_id === archiveId);
+        const navElem = document.getElementById('art-prev-next');
+        if (navElem && idx !== -1) {
+          const prevArt = idx < articles.length - 1 ? articles[idx + 1] : null;
+          const nextArt = idx > 0 ? articles[idx - 1] : null;
+          navElem.innerHTML = `
+            <div>${prevArt ? `<a href="article.html?id=${prevArt.archive_id}" class="btn">← পূর্ববর্তী: ${window.ArchiveUtils.escapeHtml(prevArt.title.substring(0, 35))}...</a>` : ''}</div>
+            <div>${nextArt ? `<a href="article.html?id=${nextArt.archive_id}" class="btn">পরবর্তী: ${window.ArchiveUtils.escapeHtml(nextArt.title.substring(0, 35))}... →</a>` : ''}</div>
+          `;
+        }
+
+        loader.style.display = 'none';
+        view.style.display = 'block';
+      } catch (err) {
+        console.error('Error rendering article:', err);
+        loader.innerHTML = `<h3>টিউন লোড করতে সমস্যা হয়েছে</h3><p>${window.ArchiveUtils.escapeHtml(err.message)}</p>`;
+      }
+    });
+  </script>
+</body>
+</html>

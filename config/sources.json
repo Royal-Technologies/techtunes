@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "key": "techtunes",
+      "name": "টেকটিউনস (Techtunes)",
+      "domain": "www.techtunes.io",
+      "base_url": "https://www.techtunes.io",
+      "api_url": "https://www.techtunes.io/feed/",
+      "default_language": "bn",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+[
+  {
+    "id": 9,
+    "source": "techtunes",
+    "wordpress_tag_id": 1808290137,
+    "name": "এআই",
+    "slug": "tag-1295098954",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 8,
+    "source": "techtunes",
+    "wordpress_tag_id": 380967476,
+    "name": "আর্টিফিশিয়াল ইন্টেলিজেন্স",
+    "slug": "tag-1247052058",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 7,
+    "source": "techtunes",
+    "wordpress_tag_id": 436083259,
+    "name": "Artificial Intelligence",
+    "slug": "tag-865171485",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 17,
+    "source": "techtunes",
+    "wordpress_tag_id": 1330235078,
+    "name": "downloader",
+    "slug": "tag-1272020717",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 14,
+    "source": "techtunes",
+    "wordpress_tag_id": 2119874988,
+    "name": "অডিও এডিটিং",
+    "slug": "tag-509588745",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 20,
+    "source": "techtunes",
+    "wordpress_tag_id": 852359455,
+    "name": "অনলাইন গেমস",
+    "slug": "tag-1388901818",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 15,
+    "source": "techtunes",
+    "wordpress_tag_id": 1341819688,
+    "name": "অনলাইন টুল",
+    "slug": "tag-121091706",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 1,
+    "source": "techtunes",
+    "wordpress_tag_id": 393625693,
+    "name": "অনলাইন পড়াশোনা",
+    "slug": "tag-714516116",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 12,
+    "source": "techtunes",
+    "wordpress_tag_id": 484516176,
+    "name": "অসাধারণ ডিজাইন",
+    "slug": "tag-553764761",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 18,
+    "source": "techtunes",
+    "wordpress_tag_id": 1081668426,
+    "name": "অ্যাপ্লিকেশন",
+    "slug": "tag-1792830739",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "source": "techtunes",
+    "wordpress_tag_id": 91164655,
+    "name": "আয় হবে এন্ড্রয়েড মোবাইল দিয়ে",
+    "slug": "tag-1912923494",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 29,
+    "source": "techtunes",
+    "wordpress_tag_id": 29732966,
+    "name": "ইমেজ এডিটিং টুলস",
+    "slug": "tag-1279361317",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 21,
+    "source": "techtunes",
+    "wordpress_tag_id": 1581856812,
+    "name": "এক্সটেনশন",
+    "slug": "tag-1143335454",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 26,
+    "source": "techtunes",
+    "wordpress_tag_id": 216387972,
+    "name": "এডিটি.ংভিডিও এডিটিং",
+    "slug": "tag-1828874998",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "source": "techtunes",
+    "wordpress_tag_id": 1086214737,
+    "name": "এডোবি ফটোসপ",
+    "slug": "tag-549150452",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 35,
+    "source": "techtunes",
+    "wordpress_tag_id": 1583847874,
+    "name": "ওপেন সোর্স",
+    "slug": "tag-380282000",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 5,
+    "source": "techtunes",
+    "wordpress_tag_id": 765159909,
+    "name": "ওপেন সোর্স টুল",
+    "slug": "tag-1364564767",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 6,
+    "source": "techtunes",
+    "wordpress_tag_id": 1473086374,
+    "name": "ওপেন সোর্স সফটওয়ার",
+    "slug": "tag-908736724",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 33,
+    "source": "techtunes",
+    "wordpress_tag_id": 1097308356,
+    "name": "ওয়েব প্রোগ্রামিং",
+    "slug": "tag-1273874876",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 23,
+    "source": "techtunes",
+    "wordpress_tag_id": 554009532,
+    "name": "কলিং",
+    "slug": "tag-315605491",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 34,
+    "source": "techtunes",
+    "wordpress_tag_id": 1627421150,
+    "name": "কোডিং",
+    "slug": "tag-590919097",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 22,
+    "source": "techtunes",
+    "wordpress_tag_id": 1519427023,
+    "name": "ক্রোম এক্সটেনশন",
+    "slug": "tag-1824556719",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 36,
+    "source": "techtunes",
+    "wordpress_tag_id": 2047649022,
+    "name": "গিটহাব",
+    "slug": "tag-2027510085",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 19,
+    "source": "techtunes",
+    "wordpress_tag_id": 1273156289,
+    "name": "গিভএওয়ে",
+    "slug": "tag-1430420121",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "source": "techtunes",
+    "wordpress_tag_id": 1592158374,
+    "name": "টাকা আর্নিং করুন",
+    "slug": "tag-325212645",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 30,
+    "source": "techtunes",
+    "wordpress_tag_id": 1958921906,
+    "name": "টেক নিউজ",
+    "slug": "tag-300728284",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 31,
+    "source": "techtunes",
+    "wordpress_tag_id": 1665195774,
+    "name": "ডেভেলপার",
+    "slug": "tag-837235809",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 37,
+    "source": "techtunes",
+    "wordpress_tag_id": 957842351,
+    "name": "ফাইল ম্যানেজার",
+    "slug": "tag-83322214",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 13,
+    "source": "techtunes",
+    "wordpress_tag_id": 718039665,
+    "name": "বার্থডে",
+    "slug": "tag-879542825",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 24,
+    "source": "techtunes",
+    "wordpress_tag_id": 1497015598,
+    "name": "মোবাইল অ্যাপস",
+    "slug": "tag-1260906720",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 11,
+    "source": "techtunes",
+    "wordpress_tag_id": 15286006,
+    "name": "সিমুলেশন",
+    "slug": "tag-1380897897",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 16,
+    "source": "techtunes",
+    "wordpress_tag_id": 420271853,
+    "name": "সেরা অডিও এডিটর",
+    "slug": "tag-2064206879",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 32,
+    "source": "techtunes",
+    "wordpress_tag_id": 1226447882,
+    "name": "স্ক্রিন রেকর্ড",
+    "slug": "tag-1962605251",
+    "description": "",
+    "count": 1
+  }
+]

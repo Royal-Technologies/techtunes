@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ট্যাগ ক্লাউড | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="টেকটিউনস আর্কাইভের সকল ট্যাগ ও কীওয়ার্ড।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <h1 class="section-title">ট্যাগ ও কীওয়ার্ডসমূহ (Tags Cloud)</h1>
+      <span id="tags-count" style="font-size: 0.9rem; color: var(--text-muted);">লোড হচ্ছে...</span>
+    </div>
+
+    <div id="tags-cloud" style="background-color: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 28px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; box-shadow: var(--shadow-sm);">
+      <p style="color: var(--text-muted);">ট্যাগ ক্লাউড লোড হচ্ছে...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — সম্পূর্ণ ট্যাগ ইনডেক্স।</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const container = document.getElementById('tags-cloud');
+      const countElem = document.getElementById('tags-count');
+
+      try {
+        const resp = await window.ArchiveUtils.fetchAsset('exports/tags.json');
+        let tags = [];
+        if (resp.ok) {
+          tags = await resp.json();
+        }
+
+        if (tags.length === 0) {
+          container.innerHTML = '<p style="color: var(--text-muted);">এখনো কোনো ট্যাগ সংরক্ষিত হয়নি।</p>';
+          return;
+        }
+
+        countElem.textContent = `${tags.length}টি ইউনিক ট্যাগ`;
+
+        const maxCount = Math.max(...tags.map(t => t.count || 1), 1);
+        const html = tags.slice(0, 200).map(t => {
+          const count = t.count || 1;
+          const scale = 0.85 + Math.min((count / maxCount) * 0.65, 0.55);
+          return `
+            <a href="search.html?q=${encodeURIComponent(t.name)}" class="tag-pill" style="font-size: ${scale.toFixed(2)}rem; padding: 5px 12px; margin: 3px;">
+              #${window.ArchiveUtils.escapeHtml(t.name)} ${count > 1 ? `<span style="opacity: 0.65; font-size: 0.78em;">(${count})</span>` : ''}
+            </a>
+          `;
+        }).join('');
+
+        container.innerHTML = html;
+      } catch (err) {
+        container.innerHTML = '<p style="color: var(--text-muted);">ট্যাগ লোড করা যায়নি।</p>';
+      }
+    });
+  </script>
+</body>
+</html>

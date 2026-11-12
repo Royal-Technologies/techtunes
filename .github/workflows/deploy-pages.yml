@@ -1,0 +1,82 @@
+name: Deploy Static Archive to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'website/**'
+      - 'articles/**'
+      - 'exports/**'
+      - 'media/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_run:
+    workflows: ["Daily Techtunes Sync"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Build Website Assets & Sitemaps
+        run: |
+          python scripts/build.py
+
+      - name: Assemble GitHub Pages Static Bundle
+        run: |
+          mkdir -p _site
+          touch _site/.nojekyll
+          cp -r website/* _site/
+          mkdir -p _site/articles _site/exports _site/media _site/database _site/website
+          if [ -d articles ]; then cp -r articles/* _site/articles/ || true; fi
+          if [ -d exports ]; then cp -r exports/* _site/exports/ || true; fi
+          if [ -d media ]; then cp -r media/* _site/media/ || true; fi
+          if [ -f database/archive.sqlite ]; then cp database/archive.sqlite _site/database/; fi
+          python -c "
+          import os
+          pages = ['index.html','archive.html','article.html','author.html','categories.html','search.html','tags.html','about.html']
+          tpl = '<!DOCTYPE html><html lang=\"bn\"><head><meta charset=\"UTF-8\"><title>Redirecting... | টেকটিউনস আর্কাইভ</title><script>(function(){{var k=\"redir_{p}\",prev=Number(sessionStorage.getItem(k)||0),now=Date.now();sessionStorage.setItem(k,String(now));var q=window.location.search;if(now-prev<5000){{q=q?(q+\"&_fresh=\"+now):(\"?_fresh=\"+now);}}window.location.replace(\"../{p}\"+q+window.location.hash);}})();</script><noscript><meta http-equiv=\"refresh\" content=\"0; url=../{p}\"></noscript></head><body><p>Redirecting to <a href=\"../{p}\">{p}</a>...</p></body></html>\n'
+          for p in pages:
+              open(os.path.join('_site/website', p), 'w', encoding='utf-8').write(tpl.format(p=p))
+          "
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

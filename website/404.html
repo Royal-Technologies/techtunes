@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>পৃষ্ঠাটি পাওয়া যায়নি | টেকটিউনস আর্কাইভ</title>
+  <meta name="theme-color" content="#9575cd">
+  <script>
+    (function () {
+      var p = window.location.pathname;
+      if (p.indexOf('/website/') !== -1) {
+        window.location.replace(p.replace('/website/', '/') + window.location.search + window.location.hash);
+        return;
+      }
+      var base = document.createElement('base');
+      if (p.indexOf('/techtunes/') === 0) {
+        base.href = '/techtunes/';
+      }
+      if (base.href) {
+        document.head.appendChild(base);
+      }
+    })();
+  </script>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container content-narrow" style="text-align: center; padding: 80px 20px;">
+    <h1 style="font-size: 3.2rem; color: var(--accent); margin-bottom: 12px;">404</h1>
+    <h2 style="font-size: 1.5rem; margin-bottom: 18px;">পৃষ্ঠাটি খুঁজে পাওয়া যায়নি</h2>
+    <p style="color: var(--text-secondary); max-width: 500px; margin: 0 auto 28px;">
+      আপনি যে টিউন বা পৃষ্ঠাটি খুঁজছেন তা এই আর্কাইভে পাওয়া যায়নি। অনুগ্রহ করে সার্চ করুন বা প্রথমপাতায় ফিরে যান।
+    </p>
+    <div style="display: flex; justify-content: center; gap: 14px; flex-wrap: wrap;">
+      <a href="index.html" class="btn btn-primary">প্রথমপাতায় ফিরে যান</a>
+      <a href="search.html" class="btn">টিউন সার্চ করুন</a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — 404 Archival Fallback.</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

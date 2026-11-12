@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>টিউন সার্চ | টেকটিউনস আর্কাইভ</title>
+  <meta name="description" content="বাংলা ও ইংরেজিতে টেকটিউনসের সকল সংরক্ষিত টিউন সার্চ করুন।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link active">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <h1 class="section-title">ফুল-টেক্সট টিউন সার্চ</h1>
+      <span id="results-count" style="font-size: 0.9rem; color: var(--text-muted);">ইনডেক্স লোড হচ্ছে...</span>
+    </div>
+
+    <!-- Search Box -->
+    <div class="search-box-wrapper">
+      <input type="text" id="search-input" class="search-input" placeholder="বাংলা বা ইংরেজিতে টিউনের শিরোনাম, টিউনার বা বিষয় লিখে সার্চ করুন..." autofocus aria-label="Search tunes">
+    </div>
+
+    <!-- Filters Bar -->
+    <div class="filters-bar">
+      <label for="category-filter" style="font-size: 0.88rem; color: var(--text-muted);">বিভাগ:</label>
+      <select id="category-filter" class="filter-select">
+        <option value="all">সকল বিভাগ</option>
+      </select>
+
+      <span style="font-size: 0.88rem; margin-left: 10px; color: var(--text-muted);">ভাষা:</span>
+      <button class="filter-btn active" data-lang="all">সকল</button>
+      <button class="filter-btn" data-lang="bn">বাংলা</button>
+      <button class="filter-btn" data-lang="en">English</button>
+    </div>
+
+    <div id="search-results">
+      <p style="text-align: center; padding: 40px; color: var(--text-muted);">সার্চ ইনডেক্স লোড হচ্ছে...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>টেকটিউনস আর্কাইভ — দ্রুত ও সার্ভারলেস ক্লায়েন্ট-সাইড সার্চ।</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>টেকটিউনস আর্কাইভ | Techtunes Daily Mirror &amp; Digital Preservation Platform</title>
+  <meta name="description" content="মেতে উঠুন প্রযুক্তির সুরে — প্রতিদিন techtunes.io থেকে স্বয়ংক্রিয়ভাবে সংগৃহীত বাংলা ও ইংরেজি প্রযুক্তি টিউন, টিউটোরিয়াল এবং ডিজিটাল আর্কাইভ।">
+  <meta name="theme-color" content="#9575cd">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="canonical" href="https://royal-technologies.github.io/techtunes/">
+  <meta property="og:title" content="টেকটিউনস আর্কাইভ | Techtunes Daily Archive">
+  <meta property="og:description" content="মেতে উঠুন প্রযুক্তির সুরে — প্রতিদিন techtunes.io থেকে সংগৃহীত বাংলা প্রযুক্তির স্থায়ী ডিজিটাল আর্কাইভ।">
+  <meta property="og:type" content="website">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-link">
+        <img src="assets/images/techtunes-logo-full.svg" alt="Techtunes Logo" class="brand-logo">
+        <div class="brand-text-wrap">
+          <span class="brand-title">টেকটিউনস আর্কাইভ</span>
+          <span class="brand-tagline">মেতে উঠুন প্রযুক্তির সুরে</span>
+        </div>
+      </a>
+      <button type="button" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+      <nav id="site-nav" class="site-nav">
+        <a href="index.html" class="nav-link active">প্রথমপাতা</a>
+        <a href="archive.html" class="nav-link">আর্কাইভ</a>
+        <a href="search.html" class="nav-link">সার্চ</a>
+        <a href="categories.html" class="nav-link">বিভাগ</a>
+        <a href="author.html" class="nav-link">টিউনার</a>
+        <a href="about.html" class="nav-link">সম্পর্কে</a>
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-container">
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <span class="hero-badge">📡 Daily Live Sync from techtunes.io</span>
+      <h1 class="hero-title">টেকটিউনস ডিজিটাল আর্কাইভ</h1>
+      <p class="hero-subtitle">
+        "মেতে উঠুন প্রযুক্তির সুরে" — বিশ্বের বৃহত্তম বাংলা প্রযুক্তি সোশ্যাল নেটওয়ার্ক <strong>Techtunes</strong>-এর টিউন, টিউটোরিয়াল ও প্রযুক্তিজ্ঞান প্রতিদিন স্বয়ংক্রিয়ভাবে সংরক্ষিত।
+      </p>
+
+      <!-- Quick Search Bar -->
+      <form action="search.html" method="GET" class="search-box-wrapper" style="max-width: 640px; margin: 0 auto;">
+        <input type="text" name="q" class="search-input" placeholder="বাংলা বা ইংরেজিতে টিউন, টিউনার বা টপিক সার্চ করুন..." aria-label="Search tunes">
+      </form>
+
+      <!-- Archive Stats -->
+      <div class="hero-stats">
+        <div class="stat-item">
+          <span class="stat-number" id="stat-total-articles">0</span>
+          <span class="stat-label">টিউন সংরক্ষিত</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number" id="stat-authors">0</span>
+          <span class="stat-label">টেকটিউনার</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number" id="stat-categories">0</span>
+          <span class="stat-label">টিউন বিভাগ</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number" id="stat-sync-status">Daily</span>
+          <span class="stat-label">স্বয়ংক্রিয় সিঙ্ক</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Highlight Cards -->
+    <div class="section-header">
+      <h2 class="section-title">আর্কাইভ ও সোর্স তথ্য</h2>
+      <a href="archive.html" style="font-size: 0.9rem;">সব টিউন দেখুন →</a>
+    </div>
+
+    <div class="source-cards-grid">
+      <div class="source-card">
+        <div class="source-card-header">
+          <span class="source-badge badge-techtunes">মূল উৎস</span>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">বাংলা / Tech Network</span>
+        </div>
+        <h3 class="source-card-title">টেকটিউনস (Techtunes.io)</h3>
+        <p class="source-card-desc">
+          প্রতিদিন নতুন প্রকাশিত টিউন, টিপস এন্ড ট্রিকস, এআই, প্রোগ্রামিং, মোবাইল, এবং প্রযুক্তি রিভিউ সরাসরি techtunes.io থেকে সংগ্রহ করে Markdown, JSON এবং SQLite-এ সংরক্ষণ করা হয়।
+        </p>
+        <div class="source-card-footer">
+          <a href="search.html">আর্কাইভ ব্রাউজ করুন →</a>
+          <a href="https://www.techtunes.io" target="_blank" rel="noopener">মূল সাইট ↗</a>
+        </div>
+      </div>
+
+      <div class="source-card">
+        <div class="source-card-header">
+          <span class="source-badge badge-teal">বিভাগ ও ট্যাগ</span>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">১৪০+ টেক বিভাগ</span>
+        </div>
+        <h3 class="source-card-title">সকল টিউন বিভাগ ও টপিক</h3>
+        <p class="source-card-desc">
+          অ্যান্ড্রয়েড, আর্টিফিশিয়াল ইন্টেলিজেন্স, টিপস এন্ড ট্রিকস, ফ্রিল্যান্সিং, ওপেন সোর্স এবং বিজ্ঞান ও প্রযুক্তিসহ টেকটিউনসের সকল বিভাগ অনুযায়ী টিউন খুঁজুন।
+        </p>
+        <div class="source-card-footer">
+          <a href="categories.html">বিভাগসমূহ দেখুন →</a>
+          <a href="tags.html">ট্যাগ ক্লাউড ↗</a>
+        </div>
+      </div>
+
+      <div class="source-card">
+        <div class="source-card-header">
+          <span class="source-badge badge-gradient">ওপেন প্রিজারভেশন</span>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">Zero-Server</span>
+        </div>
+        <h3 class="source-card-title">দৈনিক অটো-সিঙ্ক ও ব্যাকআপ</h3>
+        <p class="source-card-desc">
+          প্রতিদিন সকাল ৬:০০ টায় (BST) GitHub Actions-এর মাধ্যমে স্বয়ংক্রিয়ভাবে নতুন টিউন সিঙ্ক, FTS5 ফুল-টেক্সট ইনডেক্স এবং স্ট্যাটিক ওয়েবসাইট আপডেট হয়।
+        </p>
+        <div class="source-card-footer">
+          <a href="about.html">প্রযুক্তিগত বিস্তারিত →</a>
+          <a href="https://github.com/Royal-Technologies/techtunes" target="_blank" rel="noopener">GitHub Repo ↗</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Recent Articles Section -->
+    <div class="section-header">
+      <h2 class="section-title">সাম্প্রতিক সংরক্ষিত টিউনস</h2>
+      <a href="archive.html" style="font-size: 0.9rem;">সময়ক্রমে দেখুন →</a>
+    </div>
+
+    <div id="recent-articles-container">
+      <p style="color: var(--text-muted); text-align: center; padding: 20px;">টিউনসমূহ লোড হচ্ছে...</p>
+    </div>
+
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <nav class="footer-nav">
+      <a href="index.html">প্রথমপাতা</a>
+      <a href="archive.html">আর্কাইভ</a>
+      <a href="search.html">সার্চ</a>
+      <a href="categories.html">বিভাগ</a>
+      <a href="tags.html">ট্যাগ</a>
+      <a href="author.html">টিউনার</a>
+      <a href="about.html">সম্পর্কে</a>
+    </nav>
+    <div class="footer-meta">
+      <p><strong>টেকটিউনস আর্কাইভ (Techtunes Archive)</strong> — প্রতিদিন <a href="https://www.techtunes.io/" target="_blank" rel="noopener">techtunes.io</a> থেকে স্বয়ংক্রিয়ভাবে আপডেটকৃত।</p>
+      <p style="margin-top: 4px; font-size: 0.8rem;">
+        Operates 100% serverless on GitHub Pages, preserved in SQLite 3 (FTS5), UTF-8 Markdown, and deterministic JSON.
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const [sumResp, manResp] = await Promise.all([
+          fetch('data/articles-summary.json'),
+          window.ArchiveUtils.fetchAsset('exports/manifest.json').catch(() => null)
+        ]);
+
+        if (manResp && manResp.ok) {
+          const manifest = await manResp.json();
+          const authEl = document.getElementById('stat-authors');
+          const catEl = document.getElementById('stat-categories');
+          const syncEl = document.getElementById('stat-sync-status');
+          if (authEl && manifest.total_authors !== undefined) {
+            authEl.textContent = manifest.total_authors.toLocaleString();
+          }
+          if (catEl && manifest.total_categories !== undefined) {
+            catEl.textContent = manifest.total_categories.toLocaleString();
+          }
+          if (syncEl && manifest.archive_generation_timestamp) {
+            syncEl.textContent = manifest.archive_generation_timestamp.slice(0, 10);
+          }
+        }
+
+        if (!sumResp.ok) throw new Error('Data not available');
+        const articles = await sumResp.json();
+
+        const statElem = document.getElementById('stat-total-articles');
+        if (statElem) {
+          statElem.textContent = articles.length.toLocaleString();
+        }
+
+        const container = document.getElementById('recent-articles-container');
+        if (container) {
+          if (articles.length === 0) {
+            container.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 20px;">এখনো কোনো টিউন সিঙ্ক হয়নি।</p>';
+            return;
+          }
+          const recent = articles.slice(0, 12);
+          container.innerHTML = `
+            <div class="articles-list">
+              ${recent.map(a => window.ArchiveUtils.renderArticleCard(a)).join('')}
+            </div>
+            <div style="text-align: center; margin-top: 24px;">
+              <a href="archive.html" class="btn btn-primary">সকল ${articles.length}টি টিউন দেখুন →</a>
+            </div>
+          `;
+        }
+      } catch (err) {
+        console.log('Summary data will populate upon first sync/build.');
+      }
+    });
+  </script>
+</body>
+</html>
