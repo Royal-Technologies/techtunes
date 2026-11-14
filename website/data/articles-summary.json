@@ -1,5 +1,28 @@
 [
   {
+    "archive_id": "techtunes-1025741",
+    "tune_id": 1025741,
+    "title": "সার্ভে খতিয়ান কী এবং বিভিন্ন ধরনের খতিয়ানের পার্থক্য",
+    "slug": "other-1025741",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2026-11-12T11:50:00+00:00",
+    "modified_at": "2026-11-12T11:51:00+00:00",
+    "year": "2026",
+    "excerpt": "জমি সংক্রান্ত কাগজপত্র যাচাই করতে গেলে CS, SA, RS কিংবা BS খতিয়ানের নাম প্রায়ই দেখা যায়। কিন্তু এই খতিয়ানগুলো কী, কেন আলাদা এবং কোন খতিয়ানে কী ধরনের তথ্য পাওয়া যায়, তা অনেকের কাছেই পরিষ্কার নয়। জমি কেনাবেচা, পুরোনো রেকর্ড অনুসন্ধান কিংবা নিজের জমির মালিকানা যাচাইয়ের জন্য বিভিন...",
+    "author": "ফাহিম হোসেন তুষার",
+    "author_slug": "fahadislam",
+    "author_url": "https://www.techtunes.io/tuner/fahadislam",
+    "categories": [
+      "অন্যান্য"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_57209213c56bdb3a45fb3674fcadb1e8-640x360.webp",
+    "original_url": "https://www.techtunes.io/other/tune-id/1025741",
+    "markdown_path": "articles/techtunes/bangla/2026/other-1025741.md"
+  },
+  {
     "archive_id": "techtunes-1025709",
     "tune_id": 1025709,
     "title": "২০২৬ সালে সোশ্যাল সেলারদের জন্য ১ মিনিটে ফ্রি ইকমার্স ওয়েবসাইট ও কুরিয়ার ফ্রড চেক করার উপায় GoSafeOrder রিভিউ",
@@ -118999,6 +119022,29 @@
     "markdown_path": "articles/techtunes/bangla/2020/other-658417.md"
   },
   {
+    "archive_id": "techtunes-658341",
+    "tune_id": 658341,
+    "title": "বাংলাদেশে ভিভো স্মার্টফোন ও এদের দামদর",
+    "slug": "mobileo-658341",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2020-06-19T18:27:00+00:00",
+    "modified_at": "2020-06-19T18:28:00+00:00",
+    "year": "2020",
+    "excerpt": "সম্প্রতি বাংলাদেশে স্মার্টফোন উৎপাদন শুরু করেছে চীনা কম্পানি ভিভো আর তার সাথে সাথে জনপ্রিয়তা বেশ বেড়ে গিয়েছে ইতিমধ্যে। শাওমি, অপ্পো এবং হুয়াওয়ের মত এই ব্র্যান্ডটিও দেশের বাজারে সবার মনে জায়গা করে নিয়েছে। ডিজাইন ও প্রযুক্তিতে দিনের পর দিন সবার চোখে পড়ার মত অবস্থানে আছে এই ব্র্য...",
+    "author": "রইসুল রাসেল",
+    "author_slug": "raselers",
+    "author_url": "https://www.techtunes.io/tuner/raselers",
+    "categories": [
+      "মোবাইলীয়"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_352dadaf75247fe8a53c441870086c9e-640x360.webp",
+    "original_url": "https://www.techtunes.io/mobileo/tune-id/658341",
+    "markdown_path": "articles/techtunes/bangla/2020/mobileo-658341.md"
+  },
+  {
     "archive_id": "techtunes-658145",
     "tune_id": 658145,
     "title": "Self Destructive Messages এর কাজ কি? কিভাবে Send করবেন?",
@@ -230889,6 +230935,29 @@
     "markdown_path": "articles/techtunes/bangla/2015/tips-and-tricks-329471.md"
   },
   {
+    "archive_id": "techtunes-325084",
+    "tune_id": 325084,
+    "title": "Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-১১] :: ভিডিওতে Arduino বেসিক-৪ (L293D মটর ড্রাইভার IC সম্পর্কে আলোচনা )  | কোর্সটিতে সক্রিয় অংশগ্রহণের মাধ্যমে আপনিও পেতে পারেন টেকটিউনস ভেরিফায়েড সার্টিফিকেট",
+    "slug": "electronics-325084",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2014-12-11T12:39:00+00:00",
+    "modified_at": "2014-12-13T11:45:00+00:00",
+    "year": "2014",
+    "excerpt": "Arduino শিখুন প্রজেক্ট তৈরি করুন Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০১] :: ওপেন সোর্স হার্ডওয়্যার এবং Arduino Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০২]:: Arduino হার্ডওয়্যার এবং আইডিই পরিচিতি Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০৩]::...",
+    "author": "অসীম কুমার পাল",
+    "author_slug": "ashim",
+    "author_url": "https://www.techtunes.io/tuner/ashim",
+    "categories": [
+      "ইলেক্ট্রনিক্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/1uno.webp",
+    "original_url": "https://www.techtunes.io/electronics/tune-id/325084",
+    "markdown_path": "articles/techtunes/bangla/2014/electronics-325084.md"
+  },
+  {
     "archive_id": "techtunes-322289",
     "tune_id": 322289,
     "title": "কিভাবে ফ্রিল্যান্সিং ভিত্তিক ব্যবসা হতে পারে?",
@@ -231162,6 +231231,29 @@
     "markdown_path": "articles/techtunes/bangla/2014/reports-272370.md"
   },
   {
+    "archive_id": "techtunes-270457",
+    "tune_id": 270457,
+    "title": "গেমিং গ্যালারি [পর্ব -০৯] :: পিএস ৪ এর রিভিউ",
+    "slug": "games-270457",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2014-01-20T10:58:00+00:00",
+    "modified_at": "2014-03-19T12:37:00+00:00",
+    "year": "2014",
+    "excerpt": "গেমিং গ্যালারি গেমিং গ্যালারি [পর্ব -১]:: বিজয় দিবস এর দিন খেলুন বেটেলফিল্ড ৪ – আমার জীবনের বেস্ট রিভিউ গেমিং গ্যালারি [পর্ব -০২] :: AMD এর সবচেয়ে নতুন গ্রাফিক্স কার্ড R9-290X- চলুন দেখে আসি এর একটি ছোট রিভিউ গেমিং গ্যালারি [পর্ব -০৩] :: গ্রাফিক্স কার্ড ছাড়া যেসব গেম খেলতে পার...",
+    "author": "sugata",
+    "author_slug": "sugata2",
+    "author_url": "https://www.techtunes.io/tuner/sugata2",
+    "categories": [
+      "গেমস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/1601492_213589675492683_1130869696_n.webp",
+    "original_url": "https://www.techtunes.io/games/tune-id/270457",
+    "markdown_path": "articles/techtunes/bangla/2014/games-270457.md"
+  },
+  {
     "archive_id": "techtunes-266007",
     "tune_id": 266007,
     "title": "Rescue Time – আপনার ইন্টারনেট ব্যবহারের আসক্তি কমিয়ে আনুন, আপনার সময়কে আরো কার্যকর করে প্রোডাক্টিভিটি বাড়ান",
@@ -231326,6 +231418,29 @@
     "featured_image": "media/techtunes/techtunes_ef1b9377d32bf4605fcb88a24a2057bd-1-640x360.webp",
     "original_url": "https://www.techtunes.io/featured/tune-id/260184",
     "markdown_path": "articles/techtunes/bangla/2013/featured-260184.md"
+  },
+  {
+    "archive_id": "techtunes-260613",
+    "tune_id": 260613,
+    "title": "MS Office 2007 ফুল কোর্স বাংলা ভিডিও টিউটোরিয়াল [পর্ব-১০] :: ইনসার্ট মেনু সম্পর্কে বিস্তারিত-৩য় খণ্ড",
+    "slug": "microsoft-260613",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2013-12-04T20:05:00+00:00",
+    "modified_at": "2013-12-07T09:57:00+00:00",
+    "year": "2013",
+    "excerpt": "MS Office 2007 ফুল কোর্স MS Office 2007 ফুল কোর্স বাংলা ভিডিও টিউটোরিয়াল [পর্ব-০১] :: অফিস ওয়ার্ড ২০০৭ পরিচিতি। MS Office 2007 ফুল কোর্স বাংলা ভিডিও টিউটোরিয়াল [পর্ব-০২] :: ওপেন নিউ ডকুমেন্ট এবং ডকুমেন্ট সেভ। MS Office 2007 ফুল কোর্স বাংলা ভিডিও টিউটোরিয়াল [পর্ব-০৩] :: সেভ, সে...",
+    "author": "Imran Shojib",
+    "author_slug": "imran-hossain-shojib",
+    "author_url": "https://www.techtunes.io/tuner/imran-hossain-shojib",
+    "categories": [
+      "মাইক্রোসফট"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Office-2007-300.webp",
+    "original_url": "https://www.techtunes.io/microsoft/tune-id/260613",
+    "markdown_path": "articles/techtunes/bangla/2013/microsoft-260613.md"
   },
   {
     "archive_id": "techtunes-258862",
@@ -231800,6 +231915,29 @@
     "featured_image": "media/techtunes/techtunes_f83193676b0e964c55dd4ed43bf0d06f-640x360.webp",
     "original_url": "https://www.techtunes.io/programming/tune-id/208422",
     "markdown_path": "articles/techtunes/bangla/2013/programming-208422.md"
+  },
+  {
+    "archive_id": "techtunes-207555",
+    "tune_id": 207555,
+    "title": "সার্চ ইঞ্জিন অপটিমাইজেশন SEO এর A to Y পর্যন্ত টিউটোরিয়াল [পর্ব-২৫] :: SMM ও Social Media Presence",
+    "slug": "seo-207555",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2013-05-13T13:07:00+00:00",
+    "modified_at": "2013-05-14T02:53:00+00:00",
+    "year": "2013",
+    "excerpt": "SEO এর A to Y পর্যন্ত টিউটোরিয়াল সার্চ ইঞ্জিন অপটিমাইজেশন SEO এর A to Y পর্যন্ত টিউটোরিয়াল [পর্ব-০১] :: SEO কী? কেন ব্যবহার করা হয়? সার্চ ইঞ্জিন অপটিমাইজেশন SEO এর A to Y পর্যন্ত টিউটোরিয়াল [পর্ব-০২] :: (Keyword Research) সার্চ ইঞ্জিন অপটিমাইজেশন SEO এর A to Y পর্যন্ত টিউটো...",
+    "author": "iPagol",
+    "author_slug": "ipagol",
+    "author_url": "https://www.techtunes.io/tuner/ipagol",
+    "categories": [
+      "এসইও"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/search-engine-optimization-4.webp",
+    "original_url": "https://www.techtunes.io/seo/tune-id/207555",
+    "markdown_path": "articles/techtunes/bangla/2013/seo-207555.md"
   },
   {
     "archive_id": "techtunes-182171",
@@ -233731,6 +233869,29 @@
     "markdown_path": "articles/techtunes/bangla/2011/featured-62454.md"
   },
   {
+    "archive_id": "techtunes-60280",
+    "tune_id": 60280,
+    "title": "ফোটশপ জোন(পর্বঃ২১ – তৈরী করুন গ্লাস টেক্সট )",
+    "slug": "tutorial-60280",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2011-04-01T03:58:00+00:00",
+    "modified_at": "2011-04-01T07:04:00+00:00",
+    "year": "2011",
+    "excerpt": "ফটোশপ জোন ফটোশপ জোন (পর্ব-১:বেসিকঃ তৃণমূল পর্যায় থেকে) ফটোশপ জোন(পর্ব-২: কাস্টম অর্থাৎ নিজের পছন্দমত যেকোনো আকারের ব্রাশ তৈরি) ফটোশপ জোন( পর্ব-৩ : বেসিক:প্যাটার্ন কি,প্যাটার্ন তৈরি ও ব্যবহার) ফটোশপ জোন(পর্ব-৪: একটি সাধারণ কিন্তু দৃষ্টিনন্দন ওয়ালপেপার) ফটোশপ জোন(পর্ব-৫ : বিষয়- ...",
+    "author": "MITHU",
+    "author_slug": "mithublue",
+    "author_url": "https://www.techtunes.io/tuner/mithublue",
+    "categories": [
+      "টিউটোরিয়াল"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/mithu.webp",
+    "original_url": "https://www.techtunes.io/tutorial/tune-id/60280",
+    "markdown_path": "articles/techtunes/bangla/2011/tutorial-60280.md"
+  },
+  {
     "archive_id": "techtunes-60346",
     "tune_id": 60346,
     "title": "ব্লগে কাঙ্খিত ভিজিটর পেতে আপনার করনীয় কাজগুলো (মেগা টিউন)",
@@ -234022,6 +234183,52 @@
     "featured_image": "media/techtunes/techtunes_028ffed940e4276dac8437fa05339b5d-640x360.webp",
     "original_url": "https://www.techtunes.io/games/tune-id/17649",
     "markdown_path": "articles/techtunes/bangla/2010/games-17649.md"
+  },
+  {
+    "archive_id": "techtunes-16613",
+    "tune_id": 16613,
+    "title": "প্রাণীদের ঘুম: সৃষ্টিজগতের বিচিত্র এক রহস্য!!!! (Updated)",
+    "slug": "featured-16613",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2009-12-26T06:14:00+00:00",
+    "modified_at": "2010-11-03T11:51:00+00:00",
+    "year": "2009",
+    "excerpt": "প্রাকৃতিক কারনেই পৃথিবীর প্রতিটি প্রানীই ঘুমায় এটা ঠিক কিন্তু আমি নিশ্চিত বিভিন্ন প্রানীর ঘুম সম্পর্কে আপনাদের ধারনা খুবই কম। আচ্ছা একবার ভাবুনতো সৃষ্টি জগতের কত কিছুই তো দেখেছেন কিন্তু নিশ্চিত ভাবে বলুনতো জীবনে কয়টি প্রাণীকে আপনি ঘুমন্ত অবস্থায় দেখেছেন?? ঘুম প্রকৃতির এমন এক অ...",
+    "author": "TareqMahbub",
+    "author_slug": "tareqmahbub",
+    "author_url": "https://www.techtunes.io/tuner/tareqmahbub",
+    "categories": [
+      "নির্বাচিত"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/sleep_featured.webp",
+    "original_url": "https://www.techtunes.io/featured/tune-id/16613",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-16613.md"
+  },
+  {
+    "archive_id": "techtunes-15023",
+    "tune_id": 15023,
+    "title": "৫০০০ টাকা মূল্যের ছবি এডিটিং করার সফটওয়্যার নিন বিনা মূল্যে",
+    "slug": "featured-15023",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2009-12-14T10:20:00+00:00",
+    "modified_at": "2018-02-22T04:36:00+00:00",
+    "year": "2009",
+    "excerpt": "আমি আপনাদের এমন একটি সফটওয়্যারের সাথে পরিচয় করিয়ে দিব যার মূল্য ৫০০০ টাকা। যারা ষ্টুডিও ব্যবসার সাথে জরিত তারা কেউ কেউ হয়ত নাম শুনেছেন বা কোথাও কাজ করতে দেখেছেন। সফটওয়্যারটি সংগ্রহ করতে চেয়ে ছিলেন কিন্তু দাম শুনে 'থ' হয়ে গেছেন। এই সফটওয়্যারটি মূলত ঢাকার পুরানা পল্টন ষ্টুডিও ব...",
+    "author": "BABU",
+    "author_slug": "zmn",
+    "author_url": "https://www.techtunes.io/tuner/zmn",
+    "categories": [
+      "গ্রাফিক্স ডিজাইনিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_bd28b322469a4a5822a6a56a743e6d84-640x360.webp",
+    "original_url": "https://www.techtunes.io/featured/tune-id/15023",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-15023.md"
   },
   {
     "archive_id": "techtunes-5350",

@@ -33,7 +33,7 @@
     "name": "অন্যান্য",
     "slug": "other",
     "description": "",
-    "count": 534
+    "count": 535
   },
   {
     "id": 25,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 274
+    "count": 275
   },
   {
     "id": 105,
@@ -114,7 +114,7 @@
     "name": "মোবাইলীয়",
     "slug": "mobileo",
     "description": "",
-    "count": 162
+    "count": 163
   },
   {
     "id": 69,
@@ -123,7 +123,7 @@
     "name": "গ্রাফিক্স ডিজাইনিং",
     "slug": "graphics-designing",
     "description": "",
-    "count": 142
+    "count": 143
   },
   {
     "id": 135,
@@ -177,7 +177,7 @@
     "name": "নির্বাচিত",
     "slug": "featured",
     "description": "",
-    "count": 116
+    "count": 117
   },
   {
     "id": 50,
@@ -225,20 +225,20 @@
     "count": 92
   },
   {
-    "id": 52,
-    "source": "techtunes",
-    "wordpress_category_id": 154654318,
-    "name": "কম্পিউটিং",
-    "slug": "computing",
-    "description": "",
-    "count": 88
-  },
-  {
     "id": 68,
     "source": "techtunes",
     "wordpress_category_id": 459343157,
     "name": "গেমস",
     "slug": "games",
+    "description": "",
+    "count": 89
+  },
+  {
+    "id": 52,
+    "source": "techtunes",
+    "wordpress_category_id": 154654318,
+    "name": "কম্পিউটিং",
+    "slug": "computing",
     "description": "",
     "count": 88
   },
@@ -267,7 +267,7 @@
     "name": "ইলেক্ট্রনিক্স",
     "slug": "electronics",
     "description": "",
-    "count": 70
+    "count": 71
   },
   {
     "id": 4,
@@ -279,6 +279,15 @@
     "count": 69
   },
   {
+    "id": 40,
+    "source": "techtunes",
+    "wordpress_category_id": 1684946449,
+    "name": "এসইও",
+    "slug": "seo",
+    "description": "",
+    "count": 68
+  },
+  {
     "id": 94,
     "source": "techtunes",
     "wordpress_category_id": 665481037,
@@ -286,15 +295,6 @@
     "slug": "digital-marketing",
     "description": "",
     "count": 68
-  },
-  {
-    "id": 40,
-    "source": "techtunes",
-    "wordpress_category_id": 1684946449,
-    "name": "এসইও",
-    "slug": "seo",
-    "description": "",
-    "count": 67
   },
   {
     "id": 21,
@@ -711,6 +711,15 @@
     "count": 9
   },
   {
+    "id": 121,
+    "source": "techtunes",
+    "wordpress_category_id": 1694555859,
+    "name": "মাইক্রোসফট",
+    "slug": "microsoft",
+    "description": "",
+    "count": 9
+  },
+  {
     "id": 28,
     "source": "techtunes",
     "wordpress_category_id": 1648009170,
@@ -725,15 +734,6 @@
     "wordpress_category_id": 872147294,
     "name": "জাভা",
     "slug": "java",
-    "description": "",
-    "count": 8
-  },
-  {
-    "id": 121,
-    "source": "techtunes",
-    "wordpress_category_id": 1694555859,
-    "name": "মাইক্রোসফট",
-    "slug": "microsoft",
     "description": "",
     "count": 8
   },
