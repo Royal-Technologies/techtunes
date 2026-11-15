@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 894
+    "count": 895
   },
   {
     "id": 139,
@@ -33,7 +33,7 @@
     "name": "অন্যান্য",
     "slug": "other",
     "description": "",
-    "count": 535
+    "count": 536
   },
   {
     "id": 25,
@@ -51,7 +51,7 @@
     "name": "অ্যান্ড্রয়েড Apps",
     "slug": "android-apps",
     "description": "",
-    "count": 296
+    "count": 297
   },
   {
     "id": 76,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 275
+    "count": 276
   },
   {
     "id": 105,
@@ -69,7 +69,7 @@
     "name": "প্রযুক্তি কথন",
     "slug": "tech-talk",
     "description": "",
-    "count": 268
+    "count": 270
   },
   {
     "id": 12,
@@ -78,7 +78,7 @@
     "name": "অ্যান্ড্রয়েড",
     "slug": "android",
     "description": "",
-    "count": 240
+    "count": 241
   },
   {
     "id": 93,
@@ -177,7 +177,7 @@
     "name": "নির্বাচিত",
     "slug": "featured",
     "description": "",
-    "count": 117
+    "count": 118
   },
   {
     "id": 50,
@@ -189,20 +189,20 @@
     "count": 111
   },
   {
-    "id": 55,
-    "source": "techtunes",
-    "wordpress_category_id": 1362269916,
-    "name": "খবর",
-    "slug": "news",
-    "description": "",
-    "count": 108
-  },
-  {
     "id": 106,
     "source": "techtunes",
     "wordpress_category_id": 996452726,
     "name": "প্রোগ্রামিং",
     "slug": "programming",
+    "description": "",
+    "count": 109
+  },
+  {
+    "id": 55,
+    "source": "techtunes",
+    "wordpress_category_id": 1362269916,
+    "name": "খবর",
+    "slug": "news",
     "description": "",
     "count": 108
   },
@@ -231,7 +231,16 @@
     "name": "গেমস",
     "slug": "games",
     "description": "",
-    "count": 89
+    "count": 90
+  },
+  {
+    "id": 49,
+    "source": "techtunes",
+    "wordpress_category_id": 1579133967,
+    "name": "ওয়েব ডেভেলপমেন্ট",
+    "slug": "web-development",
+    "description": "",
+    "count": 88
   },
   {
     "id": 52,
@@ -241,15 +250,6 @@
     "slug": "computing",
     "description": "",
     "count": 88
-  },
-  {
-    "id": 49,
-    "source": "techtunes",
-    "wordpress_category_id": 1579133967,
-    "name": "ওয়েব ডেভেলপমেন্ট",
-    "slug": "web-development",
-    "description": "",
-    "count": 86
   },
   {
     "id": 53,
@@ -285,7 +285,7 @@
     "name": "এসইও",
     "slug": "seo",
     "description": "",
-    "count": 68
+    "count": 69
   },
   {
     "id": 94,
