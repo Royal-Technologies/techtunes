@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 895
+    "count": 896
   },
   {
     "id": 139,
@@ -33,7 +33,7 @@
     "name": "অন্যান্য",
     "slug": "other",
     "description": "",
-    "count": 536
+    "count": 538
   },
   {
     "id": 25,
@@ -123,7 +123,7 @@
     "name": "গ্রাফিক্স ডিজাইনিং",
     "slug": "graphics-designing",
     "description": "",
-    "count": 143
+    "count": 144
   },
   {
     "id": 135,
@@ -153,6 +153,15 @@
     "count": 129
   },
   {
+    "id": 97,
+    "source": "techtunes",
+    "wordpress_category_id": 684710012,
+    "name": "নির্বাচিত",
+    "slug": "featured",
+    "description": "",
+    "count": 119
+  },
+  {
     "id": 8,
     "source": "techtunes",
     "wordpress_category_id": 411964613,
@@ -167,15 +176,6 @@
     "wordpress_category_id": 1532864786,
     "name": "উইন্ডোস",
     "slug": "windows",
-    "description": "",
-    "count": 118
-  },
-  {
-    "id": 97,
-    "source": "techtunes",
-    "wordpress_category_id": 684710012,
-    "name": "নির্বাচিত",
-    "slug": "featured",
     "description": "",
     "count": 118
   },
@@ -213,7 +213,7 @@
     "name": "ফ্রিল্যান্সিং",
     "slug": "freelancing",
     "description": "",
-    "count": 104
+    "count": 105
   },
   {
     "id": 104,
@@ -369,6 +369,15 @@
     "count": 38
   },
   {
+    "id": 1,
+    "source": "techtunes",
+    "wordpress_category_id": 1288145765,
+    "name": "অটোডেস্ক অটোক্যাড",
+    "slug": "autodesk-autocad",
+    "description": "",
+    "count": 33
+  },
+  {
     "id": 20,
     "source": "techtunes",
     "wordpress_category_id": 467474886,
@@ -376,15 +385,6 @@
     "slug": "iphone",
     "description": "",
     "count": 33
-  },
-  {
-    "id": 1,
-    "source": "techtunes",
-    "wordpress_category_id": 1288145765,
-    "name": "অটোডেস্ক অটোক্যাড",
-    "slug": "autodesk-autocad",
-    "description": "",
-    "count": 32
   },
   {
     "id": 61,
@@ -468,6 +468,15 @@
     "count": 24
   },
   {
+    "id": 6,
+    "source": "techtunes",
+    "wordpress_category_id": 1751837406,
+    "name": "অ্যাডবি ইলাস্ট্রেটর",
+    "slug": "adobe-illustrator",
+    "description": "",
+    "count": 23
+  },
+  {
     "id": 60,
     "source": "techtunes",
     "wordpress_category_id": 369832757,
@@ -475,15 +484,6 @@
     "slug": "google-chrome",
     "description": "",
     "count": 23
-  },
-  {
-    "id": 6,
-    "source": "techtunes",
-    "wordpress_category_id": 1751837406,
-    "name": "অ্যাডবি ইলাস্ট্রেটর",
-    "slug": "adobe-illustrator",
-    "description": "",
-    "count": 22
   },
   {
     "id": 98,
@@ -576,6 +576,15 @@
     "count": 14
   },
   {
+    "id": 80,
+    "source": "techtunes",
+    "wordpress_category_id": 331343563,
+    "name": "টেক হিউমার",
+    "slug": "tech-humour",
+    "description": "",
+    "count": 14
+  },
+  {
     "id": 17,
     "source": "techtunes",
     "wordpress_category_id": 89471441,
@@ -590,15 +599,6 @@
     "wordpress_category_id": 1065131125,
     "name": "ওয়ার্ডপ্রেস প্লাগইনস",
     "slug": "wordpress-plugins",
-    "description": "",
-    "count": 13
-  },
-  {
-    "id": 80,
-    "source": "techtunes",
-    "wordpress_category_id": 331343563,
-    "name": "টেক হিউমার",
-    "slug": "tech-humour",
     "description": "",
     "count": 13
   },
@@ -774,6 +774,15 @@
     "count": 6
   },
   {
+    "id": 35,
+    "source": "techtunes",
+    "wordpress_category_id": 1419310953,
+    "name": "এইচটিএমএল",
+    "slug": "html",
+    "description": "",
+    "count": 6
+  },
+  {
     "id": 67,
     "source": "techtunes",
     "wordpress_category_id": 1525822896,
@@ -826,15 +835,6 @@
     "slug": "setelite-tv",
     "description": "",
     "count": 6
-  },
-  {
-    "id": 35,
-    "source": "techtunes",
-    "wordpress_category_id": 1419310953,
-    "name": "এইচটিএমএল",
-    "slug": "html",
-    "description": "",
-    "count": 5
   },
   {
     "id": 66,
