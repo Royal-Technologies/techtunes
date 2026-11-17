@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 896
+    "count": 898
   },
   {
     "id": 139,
@@ -51,7 +51,7 @@
     "name": "অ্যান্ড্রয়েড Apps",
     "slug": "android-apps",
     "description": "",
-    "count": 297
+    "count": 298
   },
   {
     "id": 76,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 276
+    "count": 277
   },
   {
     "id": 105,
@@ -69,7 +69,7 @@
     "name": "প্রযুক্তি কথন",
     "slug": "tech-talk",
     "description": "",
-    "count": 270
+    "count": 271
   },
   {
     "id": 12,
@@ -159,7 +159,7 @@
     "name": "নির্বাচিত",
     "slug": "featured",
     "description": "",
-    "count": 119
+    "count": 120
   },
   {
     "id": 8,
@@ -168,7 +168,7 @@
     "name": "অ্যাডবি ফটোশপ",
     "slug": "adobe-photoshop",
     "description": "",
-    "count": 118
+    "count": 119
   },
   {
     "id": 29,
@@ -195,7 +195,7 @@
     "name": "প্রোগ্রামিং",
     "slug": "programming",
     "description": "",
-    "count": 109
+    "count": 110
   },
   {
     "id": 55,
@@ -240,7 +240,7 @@
     "name": "ওয়েব ডেভেলপমেন্ট",
     "slug": "web-development",
     "description": "",
-    "count": 88
+    "count": 89
   },
   {
     "id": 52,
@@ -303,7 +303,7 @@
     "name": "আউটসোর্সিং",
     "slug": "outsourcing",
     "description": "",
-    "count": 66
+    "count": 67
   },
   {
     "id": 38,
@@ -738,20 +738,20 @@
     "count": 8
   },
   {
-    "id": 84,
-    "source": "techtunes",
-    "wordpress_category_id": 2130196796,
-    "name": "টেকটিউনস জরিপ",
-    "slug": "techtunes-polls",
-    "description": "",
-    "count": 7
-  },
-  {
     "id": 101,
     "source": "techtunes",
     "wordpress_category_id": 1586426864,
     "name": "পিএইচপি",
     "slug": "php",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 84,
+    "source": "techtunes",
+    "wordpress_category_id": 2130196796,
+    "name": "টেকটিউনস জরিপ",
+    "slug": "techtunes-polls",
     "description": "",
     "count": 7
   },
