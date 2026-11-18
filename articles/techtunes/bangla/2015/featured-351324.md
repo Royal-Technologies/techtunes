@@ -15,13 +15,9 @@ author: সানিম মাহবীর ফাহাদ
 author_url: https://www.techtunes.io/tuner/shining-man-fahad
 categories:
 - এডুটিউনস
-tags:
-- নির্বাচিত
-- প্রেয়ার টাইম এবং কিবলা ডিরেকশন
-- রমজানের অ্যাপ্লিকেশন
-- রমজানের গুরুত্ব
-content_hash: 802095bd300d234be66b8feec4d57823fcede4e84a389bd43bca08b092f3aaed
-archived_at: '2026-11-12T12:57:08.099790+00:00'
+tags: []
+content_hash: 8a5cd98b9eb706c452a8d2f3249f605d6efc0145943a9097d251d8f9f8093cd9
+archived_at: '2026-11-18T05:57:51.705239+00:00'
 ---
 
 সুপ্রিয় টেকটিউনস কমিউনিটি, পবিত্র মাহে রমজান উপলক্ষে ধর্মপ্রাণ মুসলিমদের রমজানের প্রত্যেকটি মূহুর্ত অর্থবহ এবং আল্লাহর জন্য নিবেদিত করার নিমিত্তে কিছু প্রয়োজনীয় স্মার্টফোন অ্যাপ্লিকেশন নিয়ে শুরু করছি আমার আজকের টিউন।
@@ -86,4 +82,4 @@ archived_at: '2026-11-12T12:57:08.099790+00:00'
 >
 > ➡ ইমেইলে আমার সকল টিউনের আপডেট পেতে সাবস্ক্রাইব করুনঃ [টেকটিউনস » সানিম মাহবীর ফাহাদ](https://feedburner.google.com/fb/a/mailverify?uri=smfahad&loc=en_US) 🙄
 >
-> [![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/Facebook.png)](https://www.facebook.com/sanem.m.fahad)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/twitter1.png)](https://www.twitter.com/sanem_m_fahad)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/googleplus1.png)](https://plus.google.com/106831401254435958537)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/rss1.png)](https://feedburner.google.com/fb/a/mailverify?uri=smfahad&loc=en_US)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/mail1.png)](/cdn-cgi/l/email-protection#4e3d6023282f262f2a7f7e0e29232f2722602d2123)
+> [![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/Facebook.png)](https://www.facebook.com/sanem.m.fahad)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/twitter1.png)](https://www.twitter.com/sanem_m_fahad)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/googleplus1.png)](https://plus.google.com/106831401254435958537)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/rss1.png)](https://feedburner.google.com/fb/a/mailverify?uri=smfahad&loc=en_US)[![](https://dnc.techtunes.io/tDrive/tuner/shining-man-fahad/289317/mail1.png)](/cdn-cgi/l/email-protection#32411c5f54535a5356030272555f535b5e1c515d5f)

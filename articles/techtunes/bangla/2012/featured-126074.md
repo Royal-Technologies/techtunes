@@ -14,14 +14,9 @@ author: সিএক্স রানা
 author_url: https://www.techtunes.io/tuner/ranapatwary
 categories:
 - নির্বাচিত
-tags:
-- প্রতিবেদন
-- উইকিলিকস
-- উইকিলিকসের
-- জুলিয়ান অ্যাসাঞ্জ
-- সিএক্স রানা
-content_hash: 26bb09066cefefce60ad75d79461eeaa88ad9cfcde923b02783b5c1b49611366
-archived_at: '2026-11-12T12:58:46.444911+00:00'
+tags: []
+content_hash: ee1b7f1d4bee472b60735e66192ba45a781cc835a792287c7fbdbc59c69c01da
+archived_at: '2026-11-18T05:57:51.775798+00:00'
 ---
 
 সারা পৃথিবীজুড়ে চলছে গরিবের উপর ধনীদের অত্যাচার, উন্নত বিশ্বগুলো চালাচ্ছে উন্নয়ানশীল দেশগলোর উপর বঞ্চনার স্টিম রোলার। প্লেটের ভাত যারা কেড়ে নিচ্ছে, যারা সন্ত্রাসী ধমনের নাম করে মেরে যাচ্ছে বেসামরিক মানুষ, যারা কেড়ে নিচ্ছে শিশুর ভবিষ্যত তারা আর যাই হোক কারো বন্ধু হতেই পারেনা।
@@ -196,4 +191,4 @@ What’s the difference between Facebook’s Mark Zuckerberg, and Wikileaks’ J
 
 > আনোয়ার হোসেন রানা (Cx Rana), ব্লগার ও সাংবাদিক
 >
-> [[email protected]](/cdn-cgi/l/email-protection#523b3c343d1230362537303e33307c313d3f), facebook.com/ranapatwary
+> [[email protected]](/cdn-cgi/l/email-protection#0960676f66496b6d7e6c6b65686b276a6664), facebook.com/ranapatwary

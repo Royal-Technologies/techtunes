@@ -15,7 +15,7 @@
     "name": "প্রতিবেদন",
     "slug": "tag-1736344053",
     "description": "",
-    "count": 536
+    "count": 535
   },
   {
     "id": 1531,
@@ -270,15 +270,6 @@
     "count": 59
   },
   {
-    "id": 16985,
-    "source": "techtunes",
-    "wordpress_tag_id": 1884226243,
-    "name": "নির্বাচিত",
-    "slug": "tag-1780732145",
-    "description": "",
-    "count": 57
-  },
-  {
     "id": 930,
     "source": "techtunes",
     "wordpress_tag_id": 899374512,
@@ -293,6 +284,15 @@
     "wordpress_tag_id": 1958921906,
     "name": "টেক নিউজ",
     "slug": "tag-300728284",
+    "description": "",
+    "count": 56
+  },
+  {
+    "id": 16985,
+    "source": "techtunes",
+    "wordpress_tag_id": 1884226243,
+    "name": "নির্বাচিত",
+    "slug": "tag-1780732145",
     "description": "",
     "count": 56
   },
@@ -15035,6 +15035,15 @@
     "wordpress_tag_id": 2090582221,
     "name": "কোডিং শিখুন নিজে নিজে",
     "slug": "tag-1596755406",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 3662,
+    "source": "techtunes",
+    "wordpress_tag_id": 31927948,
+    "name": "কোর্স",
+    "slug": "tag-1138746091",
     "description": "",
     "count": 2
   },
@@ -46980,24 +46989,6 @@
     "count": 1
   },
   {
-    "id": 18369,
-    "source": "techtunes",
-    "wordpress_tag_id": 965429127,
-    "name": "উইকিলিকস",
-    "slug": "tag-1798090008",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 18370,
-    "source": "techtunes",
-    "wordpress_tag_id": 375413754,
-    "name": "উইকিলিকসের",
-    "slug": "tag-1183178992",
-    "description": "",
-    "count": 1
-  },
-  {
     "id": 9087,
     "source": "techtunes",
     "wordpress_tag_id": 171998157,
@@ -50499,6 +50490,15 @@
     "count": 1
   },
   {
+    "id": 19305,
+    "source": "techtunes",
+    "wordpress_tag_id": 170735077,
+    "name": "কারিগরি কোর্স",
+    "slug": "tag-405829675",
+    "description": "",
+    "count": 1
+  },
+  {
     "id": 1733,
     "source": "techtunes",
     "wordpress_tag_id": 1693839819,
@@ -51246,15 +51246,6 @@
     "count": 1
   },
   {
-    "id": 3662,
-    "source": "techtunes",
-    "wordpress_tag_id": 31927948,
-    "name": "কোর্স",
-    "slug": "tag-1138746091",
-    "description": "",
-    "count": 1
-  },
-  {
     "id": 2676,
     "source": "techtunes",
     "wordpress_tag_id": 541047869,
@@ -51386,6 +51377,15 @@
     "wordpress_tag_id": 2095603662,
     "name": "ক্যারিযাব",
     "slug": "tag-1719963132",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 19307,
+    "source": "techtunes",
+    "wordpress_tag_id": 203466317,
+    "name": "ক্যারিয়ার",
+    "slug": "tag-374109311",
     "description": "",
     "count": 1
   },
@@ -53753,15 +53753,6 @@
     "wordpress_tag_id": 56431184,
     "name": "জুমিং লেন্স",
     "slug": "tag-1666719477",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 18371,
-    "source": "techtunes",
-    "wordpress_tag_id": 1478118205,
-    "name": "জুলিয়ান অ্যাসাঞ্জ",
-    "slug": "tag-741700724",
     "description": "",
     "count": 1
   },
@@ -58172,15 +58163,6 @@
     "wordpress_tag_id": 1908664248,
     "name": "প্রেজেন্টেশান",
     "slug": "tag-752300616",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 17486,
-    "source": "techtunes",
-    "wordpress_tag_id": 653991062,
-    "name": "প্রেয়ার টাইম এবং কিবলা ডিরেকশন",
-    "slug": "tag-1636546125",
     "description": "",
     "count": 1
   },
@@ -63873,29 +63855,11 @@
     "count": 1
   },
   {
-    "id": 17487,
-    "source": "techtunes",
-    "wordpress_tag_id": 223305564,
-    "name": "রমজানের অ্যাপ্লিকেশন",
-    "slug": "tag-342210987",
-    "description": "",
-    "count": 1
-  },
-  {
     "id": 15293,
     "source": "techtunes",
     "wordpress_tag_id": 1224894961,
     "name": "রমজানের ক্যালেন্ডার",
     "slug": "tag-146307430",
-    "description": "",
-    "count": 1
-  },
-  {
-    "id": 17488,
-    "source": "techtunes",
-    "wordpress_tag_id": 100628800,
-    "name": "রমজানের গুরুত্ব",
-    "slug": "tag-867131936",
     "description": "",
     "count": 1
   },
@@ -65718,15 +65682,6 @@
     "count": 1
   },
   {
-    "id": 18372,
-    "source": "techtunes",
-    "wordpress_tag_id": 291121173,
-    "name": "সিএক্স রানা",
-    "slug": "tag-1902060720",
-    "description": "",
-    "count": 1
-  },
-  {
     "id": 8733,
     "source": "techtunes",
     "wordpress_tag_id": 810383708,
@@ -67498,5 +67453,68 @@
     "slug": "tag-100406100",
     "description": "",
     "count": 1
+  },
+  {
+    "id": 18369,
+    "source": "techtunes",
+    "wordpress_tag_id": 965429127,
+    "name": "উইকিলিকস",
+    "slug": "tag-1798090008",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 18370,
+    "source": "techtunes",
+    "wordpress_tag_id": 375413754,
+    "name": "উইকিলিকসের",
+    "slug": "tag-1183178992",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 18371,
+    "source": "techtunes",
+    "wordpress_tag_id": 1478118205,
+    "name": "জুলিয়ান অ্যাসাঞ্জ",
+    "slug": "tag-741700724",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 17486,
+    "source": "techtunes",
+    "wordpress_tag_id": 653991062,
+    "name": "প্রেয়ার টাইম এবং কিবলা ডিরেকশন",
+    "slug": "tag-1636546125",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 17487,
+    "source": "techtunes",
+    "wordpress_tag_id": 223305564,
+    "name": "রমজানের অ্যাপ্লিকেশন",
+    "slug": "tag-342210987",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 17488,
+    "source": "techtunes",
+    "wordpress_tag_id": 100628800,
+    "name": "রমজানের গুরুত্ব",
+    "slug": "tag-867131936",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 18372,
+    "source": "techtunes",
+    "wordpress_tag_id": 291121173,
+    "name": "সিএক্স রানা",
+    "slug": "tag-1902060720",
+    "description": "",
+    "count": 0
   }
 ]

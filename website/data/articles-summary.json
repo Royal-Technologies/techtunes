@@ -1,5 +1,32 @@
 [
   {
+    "archive_id": "techtunes-1024998",
+    "tune_id": 1024998,
+    "title": "সিভিতে গুগলের ব্যাজ লাগানোর এটাই সেরা সুযোগ! মাত্র ৮ দিনে ৮টি আন্তর্জাতিক কোর্স শেষ করুন!",
+    "slug": "tips-and-tricks-1024998",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2026-11-16T18:12:00+00:00",
+    "modified_at": "2026-11-16T18:12:00+00:00",
+    "year": "2026",
+    "excerpt": "আজকের এই প্রচণ্ড প্রতিযোগিতাপূর্ণ Job Market-এ দাঁড়িয়ে কখনো কি ভেবে দেখেছেন, একজন Recruiter বা Hiring Manager যখন হাজার হাজার আবেদনকারীর মধ্য থেকে আপনার CV বা Resume খুলে দেখছেন, তখন ঠিক কোন জিনিসটি তাকে আপনার প্রতি আগ্রহী করে তুলবে? উত্তরটা খুব স্পষ্ট—শুধু প্রাতিষ্ঠানিক ডিগ্রি বা থিওরিটিক্যাল পড়ার দিন এখন শেষ। বর্তমানের স্মার্ট Corporate World খোঁজে বাস্তব […] Source",
+    "author": "মো আতিকুর ইসলাম",
+    "author_slug": "atikurofficial",
+    "author_url": "https://www.techtunes.io/tuner/atikurofficial",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [
+      "কোর্স",
+      "কারিগরি কোর্স",
+      "ক্যারিয়ার"
+    ],
+    "featured_image": "media/techtunes/techtunes_f04f7a6166cda3b71fb408d5249e4c6b-640x360.webp",
+    "original_url": "https://www.techtunes.io/tips-and-tricks/tune-id/1024998",
+    "markdown_path": "articles/techtunes/bangla/2026/tips-and-tricks-1024998.md"
+  },
+  {
     "archive_id": "techtunes-1024997",
     "tune_id": 1024997,
     "title": "ইংরেজি শিখতে ২ বছর সময় দেবেন কেন? চ্যাটজিপিটি দেবে মাত্র ৭ দিনে রকেট স্পিড!",
@@ -229799,19 +229826,14 @@
     "published_at": "2015-06-21T10:58:00+00:00",
     "modified_at": "2017-12-30T05:13:00+00:00",
     "year": "2015",
-    "excerpt": "সুপ্রিয় টেকটিউনস কমিউনিটি, পবিত্র মাহে রমজান উপলক্ষে ধর্মপ্রাণ মুসলিমদের রমজানের প্রত্যেকটি মূহুর্ত অর্থবহ এবং আল্লাহর জন্য নিবেদিত করার নিমিত্তে কিছু প্রয়োজনীয় স্মার্টফোন অ্যাপ্লিকেশন নিয়ে শুরু করছি আমার আজকের টিউন। মাহে রমজান মুসলিম বিশ্বের জন্য একটি পবিত্র মাস। অন্য যেকোন মাসের চেয়ে রমজানের গুরুত্ব অপরিসীম। কারন এই মাসেই নাযিল হয়েছিলো মানবজাতির জন্য পথপ্রদর্শক এবং বিশ্বের একমাত্র […] Source",
+    "excerpt": "সুপ্রিয় টেকটিউনস কমিউনিটি, পবিত্র মাহে রমজান উপলক্ষে ধর্মপ্রাণ মুসলিমদের রমজানের প্রত্যেকটি মূহুর্ত অর্থবহ এবং আল্লাহর জন্য নিবেদিত করার নিমিত্তে কিছু প্রয়োজনীয় স্মার্টফোন অ্যাপ্লিকেশন নিয়ে শুরু করছি আমার আজকের টিউন। মাহে রমজান মুসলিম বিশ্বের জন্য একটি পবিত্র মাস। অন্য যেক...",
     "author": "সানিম মাহবীর ফাহাদ",
     "author_slug": "shining-man-fahad",
     "author_url": "https://www.techtunes.io/tuner/shining-man-fahad",
     "categories": [
       "এডুটিউনস"
     ],
-    "tags": [
-      "নির্বাচিত",
-      "প্রেয়ার টাইম এবং কিবলা ডিরেকশন",
-      "রমজানের অ্যাপ্লিকেশন",
-      "রমজানের গুরুত্ব"
-    ],
+    "tags": [],
     "featured_image": "media/techtunes/techtunes_ff53c2e6b4337546fdf4992fc84e6524-640x360.webp",
     "original_url": "https://www.techtunes.io/featured/tune-id/351324",
     "markdown_path": "articles/techtunes/bangla/2015/featured-351324.md"
@@ -231013,6 +231035,29 @@
     "markdown_path": "articles/techtunes/bangla/2015/download-336403.md"
   },
   {
+    "archive_id": "techtunes-336491",
+    "tune_id": 336491,
+    "title": "Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-১৪] :: ভিডিওতে Arduino বেসিক-৭ (ব্লুটুথ কমিউনিকেশন বেসিক ) | কোর্সটিতে সক্রিয় অংশগ্রহণের মাধ্যমে আপনিও পেতে পারেন টেকটিউনস ভেরিফায়েড সার্টিফিকেট",
+    "slug": "electronics-336491",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2015-02-21T13:45:00+00:00",
+    "modified_at": "2015-02-22T12:26:00+00:00",
+    "year": "2015",
+    "excerpt": "Arduino শিখুন প্রজেক্ট তৈরি করুন Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০১] :: ওপেন সোর্স হার্ডওয়্যার এবং Arduino Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০২]:: Arduino হার্ডওয়্যার এবং আইডিই পরিচিতি Arduino শিখুন এক্সক্লুসিভ প্রজেক্ট তৈরি করুন [পর্ব-০৩]::...",
+    "author": "অসীম কুমার পাল",
+    "author_slug": "ashim",
+    "author_url": "https://www.techtunes.io/tuner/ashim",
+    "categories": [
+      "ইলেক্ট্রনিক্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/1uno.webp",
+    "original_url": "https://www.techtunes.io/electronics/tune-id/336491",
+    "markdown_path": "articles/techtunes/bangla/2015/electronics-336491.md"
+  },
+  {
     "archive_id": "techtunes-333265",
     "tune_id": 333265,
     "title": "বিজ্ঞানের আশ্চর্যতম আবিষ্কার, সর্বাধুনিক প্রযুক্তি “Virtual Reality” – চলুন জানা যাক এটা কি? ১৫ মিনিটের জন্য আপনাকে নিয়ে যাচ্ছি অন্য এক জগতে",
@@ -231741,6 +231786,29 @@
     "markdown_path": "articles/techtunes/bangla/2014/games-270457.md"
   },
   {
+    "archive_id": "techtunes-267612",
+    "tune_id": 267612,
+    "title": "মাইক্রোসফট অ্যাক্সেস ২০১৩ শুরু থেকে শেষ [পর্ব-০১] :: অ্যাক্সেস পরিচিতি",
+    "slug": "microsoft-access-267612",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2014-01-03T11:48:00+00:00",
+    "modified_at": "2014-03-10T11:11:00+00:00",
+    "year": "2014",
+    "excerpt": "মাইক্রোসফট অ্যাক্সেস ২০১৩ মাইক্রোসফট অ্যাক্সেস ২০১৩ শুরু থেকে শেষ [পর্ব-০১] :: অ্যাক্সেস পরিচিতি মাইক্রোসফট অ্যাক্সেস ২০১৩ শুরু থেকে শেষ [পর্ব-০২] :: প্রাথমিক ধারণা মাইক্রোসফট অ্যাক্সেস ২০১৩ শুরু থেকে শেষ [পর্ব-০৩] :: অ্যাক্সেস শুরু করা মাইক্রোসফট অ্যাক্সেস ২০১৩ শুরু থেকে শেষ ...",
+    "author": "রাকিব আল আজাদ",
+    "author_slug": "rakibiueco",
+    "author_url": "https://www.techtunes.io/tuner/rakibiueco",
+    "categories": [
+      "মাইক্রোসফট অ্যাকসেস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Access-2013-logo011.webp",
+    "original_url": "https://www.techtunes.io/microsoft-access/tune-id/267612",
+    "markdown_path": "articles/techtunes/bangla/2014/microsoft-access-267612.md"
+  },
+  {
     "archive_id": "techtunes-266007",
     "tune_id": 266007,
     "title": "Rescue Time – আপনার ইন্টারনেট ব্যবহারের আসক্তি কমিয়ে আনুন, আপনার সময়কে আরো কার্যকর করে প্রোডাক্টিভিটি বাড়ান",
@@ -232251,6 +232319,29 @@
     "markdown_path": "articles/techtunes/bangla/2013/programming-230825.md"
   },
   {
+    "archive_id": "techtunes-230782",
+    "tune_id": 230782,
+    "title": "অ্যাজাক্স পাঠশালা [পর্ব-০২] :: অ্যাজাক্স কি ? কেন ব্যাবহার করা হয় ? অ্যাজাক্স শিখার আগে কি জানতে হবে ?",
+    "slug": "web-development-230782",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2013-08-08T18:30:00+00:00",
+    "modified_at": "2013-09-08T20:46:00+00:00",
+    "year": "2013",
+    "excerpt": "অ্যাজাক্স পাঠশালা অ্যাজাক্স পাঠশালা [পর্ব-০১] :: স্বাগতম অ্যাজাক্সের ধারাবাহিক টিউটোরিয়ালে! অ্যাজাক্স পাঠশালা [পর্ব-০২] :: অ্যাজাক্স কি ? কেন ব্যাবহার করা হয় ? অ্যাজাক্স শিখার আগে কি জানতে হবে ? অ্যাজাক্স পাঠশালা [পর্ব-০৩] :: পিএইচপি GET মেথড সম্পর্কে বিস্তারিত প্রথমেই আপনাক...",
+    "author": "তারেক মাহমুদ",
+    "author_slug": "tareqmahmud9",
+    "author_url": "https://www.techtunes.io/tuner/tareqmahmud9",
+    "categories": [
+      "ওয়েব ডেভেলপমেন্ট"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/ajax-logo1.webp",
+    "original_url": "https://www.techtunes.io/web-development/tune-id/230782",
+    "markdown_path": "articles/techtunes/bangla/2013/web-development-230782.md"
+  },
+  {
     "archive_id": "techtunes-223719",
     "tune_id": 223719,
     "title": "জাঁকজমক অনুষ্ঠানের মাধ্যমে বাংলাদেশের বাজারে ইন্টেল নিয়ে এলো ৪র্থ প্রজন্মের ইন্টেল কোর প্রসেসর",
@@ -232415,6 +232506,29 @@
     "featured_image": "media/techtunes/Presentation-is-the-key-to-success.webp",
     "original_url": "https://www.techtunes.io/outsourcing/tune-id/214788",
     "markdown_path": "articles/techtunes/bangla/2013/outsourcing-214788.md"
+  },
+  {
+    "archive_id": "techtunes-211011",
+    "tune_id": 211011,
+    "title": "ফেসবুকে [পর্ব-০১] :: বন্ধুকে ধোঁকা দিয়ে বোকা বানান, “আরে তোমার এই লেখাটি কপি পেস্ট, আসল লেখা এই ঠিকানায়।”",
+    "slug": "facebook-211011",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2013-05-28T04:33:00+00:00",
+    "modified_at": "2014-07-02T08:50:00+00:00",
+    "year": "2013",
+    "excerpt": "ফেসবুকে ফেসবুকে [পর্ব-০১] :: বন্ধুকে ধোঁকা দিয়ে বোকা বানান, “আরে তোমার এই লেখাটি কপি পেস্ট, আসল লেখা এই ঠিকানায়।” ফেসবুকে [পর্ব-০২] :: আবারো ফেসবুকের বুকে নয়া লুক ফেসবুকে [পর্ব-০৩] :: ফেসবুকে যুক্ত করুন রিপ্লাই বাটন। ফেসবুকে [পর্ব-০৪] :: ফেসবুকে পেন্ডিং ফ্রেন্ড রিকোয়েস্ট দেখা...",
+    "author": "সরদার ফেরদৌস",
+    "author_slug": "dokhinabatas",
+    "author_url": "https://www.techtunes.io/tuner/dokhinabatas",
+    "categories": [
+      "ফেসবুক"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/fb-1.webp",
+    "original_url": "https://www.techtunes.io/facebook/tune-id/211011",
+    "markdown_path": "articles/techtunes/bangla/2013/facebook-211011.md"
   },
   {
     "archive_id": "techtunes-208537",
@@ -233293,20 +233407,14 @@
     "published_at": "2012-06-01T09:08:00+00:00",
     "modified_at": "2017-12-29T21:30:00+00:00",
     "year": "2012",
-    "excerpt": "সারা পৃথিবীজুড়ে চলছে গরিবের উপর ধনীদের অত্যাচার, উন্নত বিশ্বগুলো চালাচ্ছে উন্নয়ানশীল দেশগলোর উপর বঞ্চনার স্টিম রোলার। প্লেটের ভাত যারা কেড়ে নিচ্ছে, যারা সন্ত্রাসী ধমনের নাম করে মেরে যাচ্ছে বেসামরিক মানুষ, যারা কেড়ে নিচ্ছে শিশুর ভবিষ্যত তারা আর যাই হোক কারো বন্ধু হতেই পারেনা। বাংলাদেশের মত উন্নয়ানশীল রাষ্ট্রগুলোর কোন ক্ষমতা নেই এই সকল অবিচারের প্রতিবাদ করার, […] Source",
+    "excerpt": "সারা পৃথিবীজুড়ে চলছে গরিবের উপর ধনীদের অত্যাচার, উন্নত বিশ্বগুলো চালাচ্ছে উন্নয়ানশীল দেশগলোর উপর বঞ্চনার স্টিম রোলার। প্লেটের ভাত যারা কেড়ে নিচ্ছে, যারা সন্ত্রাসী ধমনের নাম করে মেরে যাচ্ছে বেসামরিক মানুষ, যারা কেড়ে নিচ্ছে শিশুর ভবিষ্যত তারা আর যাই হোক কারো বন্ধু হতেই পারেনা। ব...",
     "author": "সিএক্স রানা",
     "author_slug": "ranapatwary",
     "author_url": "https://www.techtunes.io/tuner/ranapatwary",
     "categories": [
       "নির্বাচিত"
     ],
-    "tags": [
-      "প্রতিবেদন",
-      "উইকিলিকস",
-      "উইকিলিকসের",
-      "জুলিয়ান অ্যাসাঞ্জ",
-      "সিএক্স রানা"
-    ],
+    "tags": [],
     "featured_image": "https://dnc.techtunes.io/tDrive/tuner/ranapatwary/126074/techtunes_719d4e5c6697692d590858c336c9272d-640x360.jfif",
     "original_url": "https://www.techtunes.io/featured/tune-id/126074",
     "markdown_path": "articles/techtunes/bangla/2012/featured-126074.md"
@@ -234275,6 +234383,29 @@
     "markdown_path": "articles/techtunes/bangla/2011/featured-75607.md"
   },
   {
+    "archive_id": "techtunes-74635",
+    "tune_id": 74635,
+    "title": "সিসিএন এ অভিযান :: নেটওয়ার্কিং এ ক্যারিয়ার করতে আগ্রহী, শুধু তাদের জন্য – নেটওয়ার্ক পরিচিতি [অভিযান-০৩]",
+    "slug": "internet-74635",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2011-06-07T07:35:00+00:00",
+    "modified_at": "2011-06-07T09:59:00+00:00",
+    "year": "2011",
+    "excerpt": "সিসিএনএ অভিযান CCNA অভিযান :: নেটওয়ার্কিং এ ক্যারিয়ার করতে আগ্রহী, শুধু তাদের জন্য – সিসিএনএ পরিচিতি [অভিযান-০১] CCNA অভিযান :: নেটওয়ার্কিং এ ক্যারিয়ার করতে আগ্রহী, শুধু তাদের জন্য – নেটওয়ার্ক পরিচিতি [অভিযান-০২] সিসিএন এ অভিযান :: নেটওয়ার্কিং এ ক্যারিয়ার করতে আগ্রহী, শ...",
+    "author": "তিতাস",
+    "author_slug": "titasce",
+    "author_url": "https://www.techtunes.io/tuner/titasce",
+    "categories": [
+      "ইন্টারনেট"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Cisco_CCNA_Logo512.png",
+    "original_url": "https://www.techtunes.io/internet/tune-id/74635",
+    "markdown_path": "articles/techtunes/bangla/2011/internet-74635.md"
+  },
+  {
     "archive_id": "techtunes-68446",
     "tune_id": 68446,
     "title": "শুধুমাত্র টেকটিউনস বান্ধব ‘নন-অ্যাফিলিয়েট ফাইল হোস্ট’ ও ‘নন-অ্যাফিলিয়েট লিংক ও সর্টলিংক’ ব্যবহার করুন",
@@ -234900,6 +235031,29 @@
     "featured_image": "media/techtunes/techtunes_f7a93cff388c8dbd943c4de37193f0fa-640x360.webp",
     "original_url": "https://www.techtunes.io/featured/tune-id/12689",
     "markdown_path": "articles/techtunes/bangla/2009/featured-12689.md"
+  },
+  {
+    "archive_id": "techtunes-10036",
+    "tune_id": 10036,
+    "title": "নপুংশকদের হিজড়া সম্বন্ধে জানুন আরো কিছু",
+    "slug": "featured-10036",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2009-10-26T05:12:00+00:00",
+    "modified_at": "2017-12-29T18:34:00+00:00",
+    "year": "2009",
+    "excerpt": "গ্রাম অঞ্চলে বা শহরতলীতে কোন বাচ্চার জন্ম হলেই এরা দলে দলে এসে ভিড় করে বলে ওঠে \"দে নারে তোর মনিটারে একটু নাচাই\" এই বলে নবজাতক কোলে করে নাচিয়ে বখশিষ নেয়, কিংবা শহরে মাঝে মাঝেই দেখা যায় এরা দলে দলে এসে বিভিন্ন দোকান থেকে চাঁদা তোলে। সমাজে ওরা খুব অবহেলিত, সভ্য মানুষরা ওদের বলে হ...",
+    "author": "প্রযুক্তি প্রেমী",
+    "author_slug": "sakil13",
+    "author_url": "https://www.techtunes.io/tuner/sakil13",
+    "categories": [
+      "নির্বাচিত"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_57d20814bc3d6831aa654281718ee57c-640x360.webp",
+    "original_url": "https://www.techtunes.io/featured/tune-id/10036",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-10036.md"
   },
   {
     "archive_id": "techtunes-5350",
