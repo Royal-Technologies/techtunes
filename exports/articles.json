@@ -1,5 +1,115 @@
 [
   {
+    "archive_id": "techtunes-1025783",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025783,
+    "title": "ChatGPT আর Google AI-এর উত্তরে আপনার অনলাইন দোকান আসবে কীভাবে: হাতে-কলমে ৭টা কাজ",
+    "slug": "artificial-intelligence-1025783",
+    "language": "bn",
+    "excerpt": "আগে মানুষ কিছু কিনতে চাইলে Google-এ খুঁজে দশটা লিংক থেকে একটা বেছে নিত। এখন অনেকে সরাসরি ChatGPT-কে জিজ্ঞেস করে: \"ঢাকায় আজকের মধ্যে ফুল পাঠাতে পারে এমন দোকান কোনটা?\" আর Google নিজেও অনেক খোঁজের উপরে AI দিয়ে লেখা একটা উত্তর (AI Overview) দেখায়। সেই উত্তরে যে দোকানের নাম আসে,...",
+    "published_at": "2026-11-18T06:44:00+00:00",
+    "modified_at": "2026-11-18T06:44:00+00:00",
+    "original_url": "https://www.techtunes.io/artificial-intelligence/tune-id/1025783",
+    "author": "মোঃ বোরহান উদ্দিন",
+    "author_slug": "radianbd",
+    "categories": [
+      "আর্টিফিশিয়াল ইন্টেলিজেন্স (এআই)"
+    ],
+    "tags": [],
+    "featured_image": "",
+    "markdown_path": "articles/techtunes/bangla/2026/artificial-intelligence-1025783.md",
+    "content_hash": "61dc3c179e8c5fb2e160c3691c7e3b3a6aa298c6ebc40d513b76e5f23238d0eb"
+  },
+  {
+    "archive_id": "techtunes-1025787",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025787,
+    "title": "ফ্রিল্যান্সিং শুরু করার আগে যে ৫টি ভুল তরুণরা সবচেয়ে বেশি করে",
+    "slug": "freelancing-1025787",
+    "language": "bn",
+    "excerpt": "আজকের ডিজিটাল যুগে তরুণদের কাছে ফ্রিল্যান্সিং বা অনলাইন ইনকাম একটি স্বপ্নের নাম। ঘরে বসে কাজ করা, নিজের বস হওয়া এবং বিদেশি মুদ্রা আয়ের লোভনীয় গল্পগুলো এখন চারদিকে ছড়িয়ে পড়েছে। https://wwp.giriutan.com/redirect-zone/edda0510 ইউটিউব থেকে শুরু করে ফেসবুক, সব জায়গায় অনলাইন ইনকামের...",
+    "published_at": "2026-11-18T06:22:00+00:00",
+    "modified_at": "2026-11-18T07:00:00+00:00",
+    "original_url": "https://www.techtunes.io/freelancing/tune-id/1025787",
+    "author": "মোঃ দেলোয়ার হোসেন",
+    "author_slug": "deluayarhossain",
+    "categories": [
+      "ফ্রিল্যান্সিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_56c01ea621e5a2304a2e2c51b524f353-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/freelancing-1025787.md",
+    "content_hash": "1bb286f70cf2685d229fa4fa30a65d6a4b4b0cd33a52a112d01ab97c12b30132"
+  },
+  {
+    "archive_id": "techtunes-1025785",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025785,
+    "title": "Google AI Studio দিয়ে তৈরি করুন চমৎকার একটি এআই চ্যাটবট অ্যাপ",
+    "slug": "android-apps-1025785",
+    "language": "bn",
+    "excerpt": "পর্ব ১: গুগল এআই স্ট ‎পর্ব ১: গুগল এআই স্টুডিও (Google AI Studio) দিয়ে অ্যাপ তৈরির এ-টু-জেড গাইড (প্রাথমিক ধারণা ও সেটআপ) ‎​বর্তমান সময়ে কৃত্রিম বুদ্ধিমত্তা বা এআই (AI) ব্যবহার করে সফটওয়্যার ও মোবাইল অ্যাপ তৈরি করা প্রযুক্তির সবচেয়ে বড় বিপ্লব। আগে যেখানে একটি চ্যাটবট বা স্মার্...",
+    "published_at": "2026-11-18T06:08:00+00:00",
+    "modified_at": "2026-11-18T06:08:00+00:00",
+    "original_url": "https://www.techtunes.io/android-apps/tune-id/1025785",
+    "author": "আয়ান কিং",
+    "author_slug": "ayanbepari",
+    "categories": [
+      "অ্যান্ড্রয়েড Apps"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_f4f3f203c2a0a3cbb9879ffb561b9e24-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/android-apps-1025785.md",
+    "content_hash": "0c30bf292cd3bfd6cce32e0846462cb7c9fdab998805926ce8f61f2268b46582"
+  },
+  {
+    "archive_id": "techtunes-1025784",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025784,
+    "title": "ছোট টাস্ক অ্যাপ থেকে USDT নিতে BEP-20 ওয়ালেট নিরাপদে সেটআপ: সীড ফ্রেজ, নেটওয়ার্ক, আর বাংলাদেশে P2P",
+    "slug": "other-1025784",
+    "language": "bn",
+    "excerpt": "আসসালামু আলাইকুম। আমি Amara Okafor, লাগোস থেকে লিখি। ছোটখাটো অনলাইন আয়ের অ্যাপ ঘাঁটিয়ে দেখি, তারপর সেটাই লিখি যা নিজে দেখেছি বা সাইটে স্পষ্ট লেখা। আমি বাংলাদেশে থাকি না, তাই এখানকার মোবাইল ব্যাংকিংয়ের ভেতরের অভিজ্ঞতা দাবি করব না। লেখাটা তবু এখানকার পাঠকের জন্য: ছোট USDT পেম...",
+    "published_at": "2026-11-18T05:41:00+00:00",
+    "modified_at": "2026-11-18T05:41:00+00:00",
+    "original_url": "https://www.techtunes.io/other/tune-id/1025784",
+    "author": "আমারা ওকাফোর",
+    "author_slug": "amaraearns",
+    "categories": [
+      "অন্যান্য"
+    ],
+    "tags": [],
+    "featured_image": "",
+    "markdown_path": "articles/techtunes/bangla/2026/other-1025784.md",
+    "content_hash": "0feb31af997e133c4982a3be72b92d8fe667a9cce4301df8ac8a163910c79011"
+  },
+  {
+    "archive_id": "techtunes-1025780",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025780,
+    "title": "Marketing Course Bangla – ফ্রিতে শিখুন, ঘরে বসে ইনকাম করুন",
+    "slug": "tech-talk-1025780",
+    "language": "bn",
+    "excerpt": "ফেসবুক শুধু সময় কাটানোর জায়গা না, এটা এখন একটা ইনকামের জায়গা। আমরা প্রতিদিন গড়ে ২-৩ ঘণ্টা ফেসবুকে থাকি। স্ক্রল করি, ভিডিও দেখি, লাইক দিই। কিন্তু এই সময়টাকে যদি একটু বুদ্ধি করে ব্যবহার করা যায়, তাহলে এই ফেসবুক থেকেই মাসে ভালো একটা ইনকাম করা সম্ভব। আমি যখন প্রথম ফেসবুক মার...",
+    "published_at": "2026-11-17T16:24:00+00:00",
+    "modified_at": "2026-11-17T16:28:00+00:00",
+    "original_url": "https://www.techtunes.io/tech-talk/tune-id/1025780",
+    "author": "বই পড়ি",
+    "author_slug": "asoboiporibd",
+    "categories": [
+      "প্রযুক্তি কথন"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_42cf927d04906e5f399ced535d34c711-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/tech-talk-1025780.md",
+    "content_hash": "3290b49854e427b9614b730f173add2750b794efcfd5c1265bdc35b8dab0e750"
+  },
+  {
     "archive_id": "techtunes-1024998",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -4804,7 +4914,7 @@
     "tags": [],
     "featured_image": "media/techtunes/techtunes_3ce05c99e2a43a7cb57f5ea19f2f69aa-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2026/sponsored-tune-1023447.md",
-    "content_hash": "5e649ac3d007557ffe26cbd3d70dd6d4b2740a5300ffbdc945dc84f5bcb42469"
+    "content_hash": "6823c538099f6321e1bfd1244b21a8110dacdf72f8243a70b5acf8362cfe36c5"
   },
   {
     "archive_id": "techtunes-1023443",
@@ -149316,6 +149426,28 @@
     "content_hash": "01bab9a6e947c366d6fb2f12600ee73cbaba16a1c3da3e6621c1e840772c16d0"
   },
   {
+    "archive_id": "techtunes-586568",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 586568,
+    "title": "ওয়ালটন প্রিমো জিএম৩ মেড ইন বাংলাদেশ স্মার্টফোনটির সম্পূর্ণ রিভিউ",
+    "slug": "review-586568",
+    "language": "bn",
+    "excerpt": "১৮ঃ৯ রেসিও ডিসপ্লে এর সাথে ওয়ালটন বাজারে নিয়ে এসেছে তাদের নতুন একটি স্মার্টফোন প্রিমো জিএম৩। অবশ্য বরাবর এর মত এটিও ওয়ালটন এর একটি বাজেট রেঞ্জ স্মার্টফোন; আর এটি বাজারে পাওয়া যাবে ৭১৯৯ তথা ৭২০০ টাকায়। স্মার্টফোনটির ৫.৩৪ ইঞ্চি বিশাল ডিসপ্লে এর সাথে এর আরেকটি প্লাস পয়েন্ট হলও এর...",
+    "published_at": "2018-06-21T05:32:00+00:00",
+    "modified_at": "2018-06-21T05:32:00+00:00",
+    "original_url": "https://www.techtunes.io/review/tune-id/586568",
+    "author": "Touhidur Rahman Mahin",
+    "author_slug": "touhidurrahman",
+    "categories": [
+      "রিভিউ"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_16f165cfa9c57746199279c1512a74c2-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2018/review-586568.md",
+    "content_hash": "6075454ec0c936be22533343d52b059b4243e67870e74cb45828bbdc3ac8bca1"
+  },
+  {
     "archive_id": "techtunes-586530",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -217650,6 +217782,28 @@
     "content_hash": "7cae062f855b1d4a68c17c290278370afacbf52b15f86d1e3a251b218567886f"
   },
   {
+    "archive_id": "techtunes-484703",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 484703,
+    "title": "কে হতে চায় অটোক্যাডার [পর্ব–৩৪] :: Autocad Basic Training (Leader Tools)",
+    "slug": "autodesk-autocad-484703",
+    "language": "bn",
+    "excerpt": "কে হতে চায় অটোক্যাডার কে হতে চায় অটোক্যাডার [পর্ব–০১] :: Autocad Basic Training (Open, Save, Save as Tools) কে হতে চায় অটোক্যাডার [পর্ব–০২] :: Autocad Basic Training (Workspace) কে হতে চায় অটোক্যাডার [পর্ব–০৩] :: Autocad Basic Training (Line & Poly Line Tools) কে হতে চায় অটোক্...",
+    "published_at": "2017-03-16T14:28:00+00:00",
+    "modified_at": "2017-03-19T09:27:00+00:00",
+    "original_url": "https://www.techtunes.io/autodesk-autocad/tune-id/484703",
+    "author": "আশিকুর রহমান",
+    "author_slug": "ashiq99",
+    "categories": [
+      "অটোডেস্ক অটোক্যাড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/autocad-2015-icon.webp",
+    "markdown_path": "articles/techtunes/bangla/2017/autodesk-autocad-484703.md",
+    "content_hash": "eb0690761bda54739d02cb37ab2e45d6803522269ccf53c5fd978803acbffb50"
+  },
+  {
     "archive_id": "techtunes-484463",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -222427,6 +222581,28 @@
     "content_hash": "6ab49158473849675697ef849e84661da71ea5506d1efdf73293fb1e0538d43d"
   },
   {
+    "archive_id": "techtunes-322603",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 322603,
+    "title": "সৃজনশীল মাধ্যমিক Math [পর্ব-১৭] :: ত্রিকোণমিতি কোণের চার্ট + টেকনিক",
+    "slug": "tutorial-322603",
+    "language": "bn",
+    "excerpt": "সৃজনশীল মাধ্যমিক Math সৃজনশীল মাধ্যমিক Math [পর্ব-০১] :: প্রথমিক ধারণা সৃজনশীল মাধ্যমিক Math [পর্ব-০২] :: বাস্তব সংখ্যা অনুশীলনির অঙ্ক সৃজনশীল মাধ্যমিক Math [পর্ব-০৩] :: বাস্তব সংখ্যা অনুশীলনির অঙ্ক সৃজনশীল মাধ্যমিক Math [পর্ব-০৪] :: সেট ও ফাংশনের অনুশীলনের অংক সৃজনশীল মাধ্যমি...",
+    "published_at": "2014-11-22T18:57:00+00:00",
+    "modified_at": "2014-11-23T08:12:00+00:00",
+    "original_url": "https://www.techtunes.io/tutorial/tune-id/322603",
+    "author": "Kabir",
+    "author_slug": "raihan-tomar-baaper-boyoshi",
+    "categories": [
+      "টিউটোরিয়াল"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/vlcsnap-2014-06-12-03h01m22s36.webp",
+    "markdown_path": "articles/techtunes/bangla/2014/tutorial-322603.md",
+    "content_hash": "3c712fe8d30cc35d4ffee0ced7fa1be07758b827175a5fdc06f23dd5a3ed8895"
+  },
+  {
     "archive_id": "techtunes-322289",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -222505,6 +222681,28 @@
     "featured_image": "media/techtunes/1115521-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2014/featured-319544.md",
     "content_hash": "11b77a8c92af393c38a03223b9a8301b1ed0669c2ed3f2310c8003974c40b3a0"
+  },
+  {
+    "archive_id": "techtunes-313666",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 313666,
+    "title": "আসুন শিখি Advanced Microsoft Excel [পর্ব-১০] :: PV, PMT, FV নির্ণয়",
+    "slug": "tutorial-313666",
+    "language": "bn",
+    "excerpt": "আসুন শিখি Adv Microsoft Excel আসুন শিখি Advanced Microsoft Excel [পর্ব-০১] :: Microsoft Excel এর উইন্ডো পরিচিতি ও বেসিক ফর্মুলাসমূহ আসুন শিখি Advanced Microsoft Excel [পর্ব-০২] :: বেসিক ফর্মুলাসমূহ আসুন শিখি Advanced Microsoft Excel [পর্ব-০৩] :: Fill অপশন এর জটিল কিছু ব্যবহার ...",
+    "published_at": "2014-10-03T04:13:00+00:00",
+    "modified_at": "2014-11-12T22:23:00+00:00",
+    "original_url": "https://www.techtunes.io/tutorial/tune-id/313666",
+    "author": "ইব্রাহীম খলিল",
+    "author_slug": "ibrahimgtcl",
+    "categories": [
+      "টিউটোরিয়াল"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/ms-excel-2007.webp",
+    "markdown_path": "articles/techtunes/bangla/2014/tutorial-313666.md",
+    "content_hash": "49afec3802f08b795c01b143d5105812df101ae268e6e86d026741f34fa76045"
   },
   {
     "archive_id": "techtunes-20747",
@@ -224373,6 +224571,28 @@
     "content_hash": "ee1b7f1d4bee472b60735e66192ba45a781cc835a792287c7fbdbc59c69c01da"
   },
   {
+    "archive_id": "techtunes-125437",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 125437,
+    "title": "Google SketchUp পাঠশালা [পর্ব-০১] :: সূচনা",
+    "slug": "tutorial-125437",
+    "language": "bn",
+    "excerpt": "Google SketchUp পাঠশালা Google SketchUp পাঠশালা [পর্ব-০১] :: সূচনা Google SketchUp পাঠশালা [পর্ব-০২] :: ডাউনলোড ও ইন্সটলেশন Google SketchUp এর পাঠশালা [পর্ব-০৩] :: 2D Drawing প্রিয় টেকটিউনবাসি, আশা করি সবাই ভালো আছেন । আপনাদের সবাইকে আমার প্রথম টিউনে স্বাগতম । টেকটিউন পড়ি প্র...",
+    "published_at": "2012-05-29T16:17:00+00:00",
+    "modified_at": "2012-06-01T20:20:00+00:00",
+    "original_url": "https://www.techtunes.io/tutorial/tune-id/125437",
+    "author": "তন্ময়",
+    "author_slug": "tanmoy1971",
+    "categories": [
+      "গুগল"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/home-icon.webp",
+    "markdown_path": "articles/techtunes/bangla/2012/tutorial-125437.md",
+    "content_hash": "ce09c5709be20919e4fa9127adfafb5b5f162af787fda4be49fee0b9c5b08d5b"
+  },
+  {
     "archive_id": "techtunes-125435",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -225882,6 +226102,28 @@
     "content_hash": "6e1f4869c8d99963d985077dd8db3da632136ac2935463859d4929077d520f10"
   },
   {
+    "archive_id": "techtunes-16401",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 16401,
+    "title": "এ মাসের টেকটিউনস সংবাদঃ ডিসেম্বর-২০০৯",
+    "slug": "featured-16401",
+    "language": "bn",
+    "excerpt": "মাসের শুরুতে “ উইন্ডোজের মালিকের নাম পরিবর্তন করে ইনিংস শুরু করেন Md Rakibul Hassan । মাস জুড়ে আলোচনার শীর্ষে ছিলো হাসিবের ফ্রি এস.এম.এস পাঠানো । গুগল ওয়েভ ইনভাইটেশান দিতে এবং নিতে চেয়েও টিউন হয়েছে বেশ কয়েকটি। এ মাসের ৪ তারিখে টেকটিউনস লোডে অনেক সময় লাগে এরকম বিষয় নিয়ে টিউন কর...",
+    "published_at": "2009-12-24T08:59:00+00:00",
+    "modified_at": "2018-04-04T12:42:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/16401",
+    "author": "রনি পারভেজ",
+    "author_slug": "rpbest",
+    "categories": [
+      "খবর"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_88824477ee0c6f0ee9d974d8f3992c25-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-16401.md",
+    "content_hash": "4256f39a32ee86b6a6cf0a8a7de3d63a9cc2bf91f8966a402c96b14224c40515"
+  },
+  {
     "archive_id": "techtunes-15023",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -226045,6 +226287,28 @@
     "content_hash": "cb9cba48e75fa79510ffba265208afd2fe6b6bd010fc3c7cb506f85c570f779c"
   },
   {
+    "archive_id": "techtunes-1176",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1176,
+    "title": "ফক্সট্যাব – মজিলার আরেকটি জোসস্ নতুন অ্যাডঅন",
+    "slug": "featured-1176",
+    "language": "bn",
+    "excerpt": "কি করব বলেন? এত সুন্দর সুন্দর অ্যাডঅনগুলো চোখে পরে যে লেখার লোভ সামলাতে পারি না। তাই আরো একবার আরো একটি নতুন অ্যাডঅন এর গল্প নিয়ে এসেছি আপনাদের সামনে। মজিলা ফায়ারফক্সের নতুন এই অ্যাডঅনটির নাম হল ফক্সট্যাব আমরা যারা মজিলা ইউজার তারা অনেকে হয়ত মাউস পয়েন্টার এর সাহায্যে অথবা ctrl...",
+    "published_at": "2008-09-20T19:48:00+00:00",
+    "modified_at": "2018-01-07T03:55:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/1176",
+    "author": "দুঃসাহসী টিনটিন",
+    "author_slug": "sohanboy",
+    "categories": [
+      "ডাউনলোড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_abe79246f5fb592c5f5d346cfba54c04-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-1176.md",
+    "content_hash": "0eca7a6e9d09b8df6337380005174d40a1fba1cb2bd09debfbd1fe63ca8cf693"
+  },
+  {
     "archive_id": "techtunes-1146",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -226065,6 +226329,28 @@
     "featured_image": "media/techtunes/techtunes_0d30ab3a2c7840ba2f4cdb822d81eed1-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2008/featured-1146.md",
     "content_hash": "becb104a6c623c39435f9482e680a0efe093b549eb24bba0b74924f74ac1c0e4"
+  },
+  {
+    "archive_id": "techtunes-942",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 942,
+    "title": "ডেক্সটপের জন্য গুগল অ্যাপলিকেশন",
+    "slug": "featured-942",
+    "language": "bn",
+    "excerpt": "কোন ব্রাউজার ছাড়াই গুগলের জনপ্রিয় সুবিধাগুলো ব্যবহার করা যাবে, এডোবি এয়ার অ্যাপলিকেশনের সংমিশ্রনে তৈরীকৃত এই সফটওয়্যারটি হচ্ছে জিএমডেক্স। এতে একবার লগইন করে গুগল মেইল (জিমেইল), গুগল ক্যালেন্ডার, গুগল ম্যাপ, গুগল ডকুমেন্টস, গুগল রিডার এবং পিকাসা ওয়েব অ্যালবাম ব্যবহার করা য...",
+    "published_at": "2008-09-04T12:54:00+00:00",
+    "modified_at": "2017-12-08T23:37:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/942",
+    "author": "এস এম মেহেদী আকরাম",
+    "author_slug": "mehdiakram",
+    "categories": [
+      "ইন্টারনেট"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/20122F122F042F8a2Fneedgooglea.bQW_-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-942.md",
+    "content_hash": "d8be936259721306c85d6733367baca294ba10fc50ce13e2ecbfc97e1d926d03"
   },
   {
     "archive_id": "techtunes-885",
@@ -226092,6 +226378,28 @@
     "featured_image": "media/techtunes/maxresdefault-4-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2008/featured-885.md",
     "content_hash": "fa1fcfed121d7deda4291bcff6f8121b5f0e11b40a1ad2f1ad75d5d8454b4c97"
+  },
+  {
+    "archive_id": "techtunes-879",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 879,
+    "title": "MS Word-এ বাংলা লিখুন নিশ্চিন্তে",
+    "slug": "featured-879",
+    "language": "bn",
+    "excerpt": "মাইক্রোসফট ওয়ার্ড একটি বিখ্যাত সফটওয়্যার। প্রতিনিয়তই আমরা কোন না কোন কাজে এই সফটওয়্যারটি ব্যবহার করে থাকি। বিশেষ করে প্রিন্ট এর কাজে ওয়ার্ড খুবই কার্যকরী। বিজয় বাংলা সফটওয়্যারের মাধ্যমে বাংলাদেশে বাংলা লেখার আবির্ভাব হয়। তবে কালের সাথে সাথে এখন ইন্টারনেটেও বাংলা ব্যবহার করা হচ...",
+    "published_at": "2008-08-28T08:04:00+00:00",
+    "modified_at": "2017-12-19T04:00:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/879",
+    "author": "মো. আমিনুল ইসলাম সজীব",
+    "author_slug": "aminul_islam",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/word-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-879.md",
+    "content_hash": "ea65463611c146d564ae5cc58ce636d3752483ef2742cf17466dffe18399e763"
   },
   {
     "archive_id": "techtunes-717",

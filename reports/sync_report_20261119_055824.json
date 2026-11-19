@@ -1,0 +1,16 @@
+[
+  {
+    "source_key": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "mode": "incremental",
+    "status": "success",
+    "posts_created": 14,
+    "posts_updated": 1,
+    "posts_unchanged": 62,
+    "media_downloaded": 74,
+    "errors_count": 0,
+    "error_details": [],
+    "started_at": "2026-11-19T05:58:05.885721+00:00",
+    "finished_at": "2026-11-19T05:58:23.725659+00:00"
+  }
+]
