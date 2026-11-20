@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 900
+    "count": 901
   },
   {
     "id": 139,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 279
+    "count": 280
   },
   {
     "id": 105,
@@ -87,7 +87,7 @@
     "name": "ডাউনলোড",
     "slug": "download",
     "description": "",
-    "count": 196
+    "count": 197
   },
   {
     "id": 115,
@@ -258,7 +258,7 @@
     "name": "কী কেন কীভাবে",
     "slug": "how-to",
     "description": "",
-    "count": 84
+    "count": 85
   },
   {
     "id": 26,
@@ -276,7 +276,7 @@
     "name": "অল্টারিং",
     "slug": "altering",
     "description": "",
-    "count": 69
+    "count": 70
   },
   {
     "id": 40,
@@ -387,20 +387,20 @@
     "count": 33
   },
   {
-    "id": 61,
-    "source": "techtunes",
-    "wordpress_category_id": 565606957,
-    "name": "গুগল ক্রোম Extensions",
-    "slug": "google-chrome-extensions",
-    "description": "",
-    "count": 32
-  },
-  {
     "id": 131,
     "source": "techtunes",
     "wordpress_category_id": 1985177931,
     "name": "লিনাক্স",
     "slug": "linux",
+    "description": "",
+    "count": 33
+  },
+  {
+    "id": 61,
+    "source": "techtunes",
+    "wordpress_category_id": 565606957,
+    "name": "গুগল ক্রোম Extensions",
+    "slug": "google-chrome-extensions",
     "description": "",
     "count": 32
   },
@@ -621,6 +621,15 @@
     "count": 13
   },
   {
+    "id": 15,
+    "source": "techtunes",
+    "wordpress_category_id": 456240242,
+    "name": "আইওএস",
+    "slug": "ios",
+    "description": "",
+    "count": 12
+  },
+  {
     "id": 92,
     "source": "techtunes",
     "wordpress_category_id": 1576583674,
@@ -644,15 +653,6 @@
     "wordpress_category_id": 370577988,
     "name": "অ্যাডবি আফারইফেক্টস",
     "slug": "adobe-aftereffects",
-    "description": "",
-    "count": 11
-  },
-  {
-    "id": 15,
-    "source": "techtunes",
-    "wordpress_category_id": 456240242,
-    "name": "আইওএস",
-    "slug": "ios",
     "description": "",
     "count": 11
   },

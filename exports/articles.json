@@ -1,5 +1,49 @@
 [
   {
+    "archive_id": "techtunes-1025798",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025798,
+    "title": "অনলাইনে প্রতিদিন ১০ ডলার ইনকাম এর স্পেশাল থিওরি",
+    "slug": "tips-and-tricks-1025798",
+    "language": "bn",
+    "excerpt": "‎অনলাইনে প্রতিদিন ১০ ডলার বা তার বেশি আয়ের সেরা ৫টি বাস্তবসম্মত মাধ্যম (পর্ব ১: এআই ডেটা অ্যানোটেশন ও মডেল ট্রেনিং) ‎​বর্তমান ডিজিটাল যুগে ঘরে বসে অনলাইনে অর্থ উপার্জন করা আর কোনো স্বপ্ন নয়, বরং একটি প্রতিষ্ঠিত পেশা। তবে ইন্টারনেটে হাজারো ভুয়া সাইট ও বিভ্রান্তিকর তথ্যের ভিড়ে ন...",
+    "published_at": "2026-11-19T10:53:00+00:00",
+    "modified_at": "2026-11-19T10:53:00+00:00",
+    "original_url": "https://www.techtunes.io/tips-and-tricks/tune-id/1025798",
+    "author": "আয়ান কিং",
+    "author_slug": "ayanbepari",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_68f2b02360c9d5a4b3bc900b0e511a1e-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/tips-and-tricks-1025798.md",
+    "content_hash": "200ab28964847b5b3476522034e7d89b209994ba25b13678803d85340f03a23b"
+  },
+  {
+    "archive_id": "techtunes-1025797",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025797,
+    "title": "কম ডেটায় অনলাইনে বাংলাদেশি এফএম রেডিও শোনার উপায়",
+    "slug": "how-to-1025797",
+    "language": "bn",
+    "excerpt": "বাসার ভেতরে, বাসে, বা নতুন এলাকায় এফএম সিগনাল প্রায়ই দুর্বল হয়ে যায়। তখন মনে হয় স্টেশন বন্ধ হয়ে গেছে। আসলে অনেক সময় সম্প্রচার চলছে, শুধু ফোন পর্যন্ত সিগনাল আসছে না। একই স্টেশন, বা অন্য কোনো বাংলা সংবাদ, গান বা আলোচনার স্টেশন, ব্রাউজারে লাইভ স্ট্রিম হিসেবে শোনা যায়। নতু...",
+    "published_at": "2026-11-18T18:44:00+00:00",
+    "modified_at": "2026-11-18T18:44:00+00:00",
+    "original_url": "https://www.techtunes.io/how-to/tune-id/1025797",
+    "author": "AngryBeat Radio",
+    "author_slug": "angrybeat",
+    "categories": [
+      "কী কেন কীভাবে"
+    ],
+    "tags": [],
+    "featured_image": "",
+    "markdown_path": "articles/techtunes/bangla/2026/how-to-1025797.md",
+    "content_hash": "6a4622f36e462612f0746513e892049699fe758174ce639219891785bbe293eb"
+  },
+  {
     "archive_id": "techtunes-1025783",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -4914,7 +4958,7 @@
     "tags": [],
     "featured_image": "media/techtunes/techtunes_3ce05c99e2a43a7cb57f5ea19f2f69aa-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2026/sponsored-tune-1023447.md",
-    "content_hash": "6823c538099f6321e1bfd1244b21a8110dacdf72f8243a70b5acf8362cfe36c5"
+    "content_hash": "24468e64c45dee469ada6f92b5d43a104992b47fb916d2381a27d5c48f612ab0"
   },
   {
     "archive_id": "techtunes-1023443",
@@ -144868,6 +144912,28 @@
     "content_hash": "512684cbbaf820d4905ac718c75e2a77a3f1d2437e992b9e108d7ebc345d9571"
   },
   {
+    "archive_id": "techtunes-597313",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 597313,
+    "title": "ভার্চুয়ালাইজেশন সিস্টেম  কি বা কেন?",
+    "slug": "linux-597313",
+    "language": "bn",
+    "excerpt": "-বিসমিল্লাহির রাহমানির রাহিম- টিউনের শুরুতে সবাইকে জানাই সালাম ও আন্তরিক শুভেচ্ছা। আমার টিউনে কোন ভুল হলে ক্ষমা করবেন। আপনারা হয়ত টিউনের হেডিং দেখে বুঝে গেছেন কি নিয়ে টিউন হবে। আমি অনেক বেশি জানি না তবে যেটুকু জানি তা সবার কাছে শেয়ার করতে চাই। কথা না বাড়িয়ে আসল টিউনে আসা যাক। ...",
+    "published_at": "2018-09-01T11:52:00+00:00",
+    "modified_at": "2018-09-01T12:29:00+00:00",
+    "original_url": "https://www.techtunes.io/linux/tune-id/597313",
+    "author": "মোনারুল ইসলাম",
+    "author_slug": "online247",
+    "categories": [
+      "লিনাক্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_839fc745191be43c6d99e70202229202-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2018/linux-597313.md",
+    "content_hash": "c2e3141c86ab314b907c1bd89f54eed75651af8b5ca4411db33d0c45f605d450"
+  },
+  {
     "archive_id": "techtunes-592173",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -148759,6 +148825,28 @@
     "featured_image": "media/techtunes/techtunes_8c788aca5c9c2dd3b2d055300e7101f0-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2018/sponsored-tune-589522.md",
     "content_hash": "013794f80001af7d0536128d4defa859d4e250b57e53e74ca432cc9ced71572b"
+  },
+  {
+    "archive_id": "techtunes-589482",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 589482,
+    "title": "আপনার মোবাইল ফোন দিয়ে এবার বানিয়ে নিন Apple Account তাও আবার Credit Card ছাড়া",
+    "slug": "ios-589482",
+    "language": "bn",
+    "excerpt": "বিসমিল্লাহির রাহমানির রাহিম। প্রিয় Tech Tune বাসী সবাই কেমন আছেন? আশা করি ভাল আছেন। আজকে আমি আপনাদের সাথে টপিক নিয়ে কথা বলব সে টি হল কিভাবে আমরা ফ্রিতে অ্যাপল আইডি বানাব। আমরা সবাই জানি Apple ID বানাতে টাকা লাগে। তাও আবার ক্রেডিট কার্ড ছাড়া হয় না। আজকে আমি আপনাদের ফ্রিতে বানিয়...",
+    "published_at": "2018-07-12T03:53:00+00:00",
+    "modified_at": "2018-07-12T03:56:00+00:00",
+    "original_url": "https://www.techtunes.io/ios/tune-id/589482",
+    "author": "আহমেদ কাশেন",
+    "author_slug": "kashemm",
+    "categories": [
+      "আইওএস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_63077cf6be6f4b8d3a8d59f185a87102.webp",
+    "markdown_path": "articles/techtunes/bangla/2018/ios-589482.md",
+    "content_hash": "c47e505e2086ac14706717f72d8a7a86fb618695f43d729c5e2af21446b7789f"
   },
   {
     "archive_id": "techtunes-588601",
@@ -220309,6 +220397,28 @@
     "content_hash": "b32830883d18685fda1763fb846110062ff6de41c85adac0d195feba5fc74434"
   },
   {
+    "archive_id": "techtunes-421802",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 421802,
+    "title": "শিখুন C++ এর A to Z [পর্ব- ০৯] :: do while loop নিয়ে আলোচনা",
+    "slug": "tutorial-421802",
+    "language": "bn",
+    "excerpt": "শিখুন C++ এর A to Z শিখুন C++ এর A to Z [পর্ব-০১] :: বেসিক কোড নিয়ে আলোচনা শিখুন C++ এর A to Z [পর্ব-০২] :: variable এবং বেসিক ক্যালকুলেটর নিয়ে আলোচনা শিখুন C++ এর A to Z [পর্ব- ০৩] :: ইফ স্টেটমেন্ট নিয়ে আলোচনা শিখুন C++ এর A to Z [পর্ব-০৪] :: ইফ-এলছ স্টেটমেন্ট নিয়ে আলোচনা (ভি...",
+    "published_at": "2016-01-25T08:21:00+00:00",
+    "modified_at": "2016-12-11T10:52:00+00:00",
+    "original_url": "https://www.techtunes.io/tutorial/tune-id/421802",
+    "author": "মুসতাকিম বিল্লাহ",
+    "author_slug": "hemel50",
+    "categories": [
+      "টিউটোরিয়াল"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/555772_634557483226173_1494188281_n.webp",
+    "markdown_path": "articles/techtunes/bangla/2016/tutorial-421802.md",
+    "content_hash": "c74d974893d57b0c31ef875d3b627aa887c4336b56bbcbe2d47c8462c9626109"
+  },
+  {
     "archive_id": "techtunes-412079",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -225494,6 +225604,28 @@
     "content_hash": "acb0f76aec1f234fc6fde4f76ec213b4a9a5dc041cb863433ca6b1f8e280e4ee"
   },
   {
+    "archive_id": "techtunes-77171",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 77171,
+    "title": "Protected: হ্যাকিং লার্নিং :: রেটস (সার্ভার পিসি হ্যাক করার উপায়) আপডেটেড [অধ্যায়-১৬]",
+    "slug": "altering-77171",
+    "language": "bn",
+    "excerpt": "এটি 23 পর্বের হ্যাকিং লার্নিং চেইন টিউনের 15 তম পর্ব",
+    "published_at": "2011-06-26T15:06:00+00:00",
+    "modified_at": "2011-06-29T07:29:00+00:00",
+    "original_url": "https://www.techtunes.io/altering/tune-id/77171",
+    "author": "M4H3D1 H454N",
+    "author_slug": "m4h3d1-h454n",
+    "categories": [
+      "অল্টারিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/s.webp",
+    "markdown_path": "articles/techtunes/bangla/2011/altering-77171.md",
+    "content_hash": "8d3c9d0b2fdbc01f197ff5faf4e0f9a3ec88d72939cd33919aaec702d6a37aa6"
+  },
+  {
     "archive_id": "techtunes-75607",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -226005,6 +226137,28 @@
     "featured_image": "media/techtunes/sshot-0001.webp",
     "markdown_path": "articles/techtunes/bangla/2010/tutorial-29846.md",
     "content_hash": "bf643256d601f0cb020d1f8fc35d442e0520278928237cacd853d7ebdaa6c7b9"
+  },
+  {
+    "archive_id": "techtunes-28956",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 28956,
+    "title": "৫ মিনিটে XP SETUP করুন Acronis True Image Home 2010 দিয়ে খুব সহজে স্ক্রিন সর্টসহ বিস্তারিত",
+    "slug": "featured-28956",
+    "language": "bn",
+    "excerpt": "টেকটিউনসার ভাই ও বোনদেরদের আমার সালাম। আজ আমি আপনাদের দারুন কাজের একটি সফটওয়ার দিব যার মাধ্যমে আপনারা খুব সহজেই উইন্ডোজ ইনস্টল করতে পারবেন। আপনারা হয়ত অনেকে জেনেছেন ৫ মিনিটে উইন্ডোজ ইনস্টল করা যায় কিন্তু স্ক্রিন সর্ট সহ বিস্তারিত জানার অভাবে ইনস্টল দিতে ভয় পাচ্ছেন। প্রথম প্রথম...",
+    "published_at": "2010-07-12T06:00:00+00:00",
+    "modified_at": "2018-01-01T05:03:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/28956",
+    "author": "হেরার আলো",
+    "author_slug": "tomal116",
+    "categories": [
+      "ডাউনলোড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_86a2c6e532b8a23b01786db35d7622b0-640x360.gif",
+    "markdown_path": "articles/techtunes/bangla/2010/featured-28956.md",
+    "content_hash": "d2b56d74056d3b6d92b34fba441da4aeab01f0ed9ae156a3878075cfbb575e43"
   },
   {
     "archive_id": "techtunes-24653",
