@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 901
+    "count": 902
   },
   {
     "id": 139,
@@ -42,7 +42,7 @@
     "name": "ইন্টারনেট",
     "slug": "internet",
     "description": "",
-    "count": 310
+    "count": 311
   },
   {
     "id": 13,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 280
+    "count": 281
   },
   {
     "id": 105,
@@ -78,7 +78,7 @@
     "name": "অ্যান্ড্রয়েড",
     "slug": "android",
     "description": "",
-    "count": 241
+    "count": 242
   },
   {
     "id": 93,
@@ -186,7 +186,7 @@
     "name": "ওয়েবওয়্যার",
     "slug": "webware",
     "description": "",
-    "count": 111
+    "count": 112
   },
   {
     "id": 106,
@@ -231,7 +231,7 @@
     "name": "ওয়েব ডেভেলপমেন্ট",
     "slug": "web-development",
     "description": "",
-    "count": 90
+    "count": 91
   },
   {
     "id": 68,
@@ -240,7 +240,7 @@
     "name": "গেমস",
     "slug": "games",
     "description": "",
-    "count": 90
+    "count": 91
   },
   {
     "id": 52,
@@ -504,6 +504,15 @@
     "count": 18
   },
   {
+    "id": 54,
+    "source": "techtunes",
+    "wordpress_category_id": 590598913,
+    "name": "ক্রিপটোকারেন্সি",
+    "slug": "cryptocurrency",
+    "description": "",
+    "count": 18
+  },
+  {
     "id": 11,
     "source": "techtunes",
     "wordpress_category_id": 2075710172,
@@ -518,15 +527,6 @@
     "wordpress_category_id": 1176235201,
     "name": "আইওএস Apps",
     "slug": "ios-apps",
-    "description": "",
-    "count": 17
-  },
-  {
-    "id": 54,
-    "source": "techtunes",
-    "wordpress_category_id": 590598913,
-    "name": "ক্রিপটোকারেন্সি",
-    "slug": "cryptocurrency",
     "description": "",
     "count": 17
   },
