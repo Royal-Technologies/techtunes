@@ -1,5 +1,71 @@
 [
   {
+    "archive_id": "techtunes-1025825",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025825,
+    "title": "ব্রাউজার মাল্টিপ্লেয়ার গেমে ক্লায়েন্টকে বিশ্বাস না করে স্পিড হ্যাক ঠেকানোর উপায়",
+    "slug": "games-1025825",
+    "language": "bn",
+    "excerpt": "আসসালামু আলাইকুম। আমি একা একটি ব্রাউজার গেম বানাচ্ছি: একটি মাল্টিপ্লেয়ার ওপেন-ওয়ার্ল্ড শহর, যা কম্পিউটার আর মোবাইলের ব্রাউজারের একটি ট্যাবেই চলে, কিছু ডাউনলোড করতে হয় না। এই সপ্তাহে আমার এক বন্ধু \"পরীক্ষা\" করার নামে গেমটিতে আক্রমণ চালায়। তাতে আমি বাধ্য হয়ে একটি সমস্যার সম...",
+    "published_at": "2026-11-21T11:07:00+00:00",
+    "modified_at": "2026-11-21T11:07:00+00:00",
+    "original_url": "https://www.techtunes.io/games/tune-id/1025825",
+    "author": "রাফা রোকা",
+    "author_slug": "balakcity",
+    "categories": [
+      "গেমস"
+    ],
+    "tags": [],
+    "featured_image": "",
+    "markdown_path": "articles/techtunes/bangla/2026/games-1025825.md",
+    "content_hash": "66f737b3cc9894031b48e01989b9261a59eaa39192ef96ba22bae88b2bf02d2a"
+  },
+  {
+    "archive_id": "techtunes-1025803",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025803,
+    "title": "সেন্টমার্টিন ট্রাভেল পাস ২০২৬-২৭: আলাদা করে লাগে কি না, কোথায় দেখবেন",
+    "slug": "tips-and-tricks-1025803",
+    "language": "bn",
+    "excerpt": "সেন্টমার্টিনে যাওয়ার আগে এখন সবাই একটা কথাই জিজ্ঞেস করে, ট্রাভেল পাস কীভাবে পাব? আলাদা কোথাও রেজিস্ট্রেশন করতে হবে নাকি? সহজ উত্তর হলো, সাধারণত আলাদা কিছু করতে হয় না। জাহাজের টিকিট কাটলেই জাহাজ কোম্পানি আপনার নামে পাসটা করে দেয়। টিকিটের সাথেই একটা QR কোড থাকে, ওটাই আপনার ট্...",
+    "published_at": "2026-11-21T07:33:00+00:00",
+    "modified_at": "2026-11-21T07:33:00+00:00",
+    "original_url": "https://www.techtunes.io/tips-and-tricks/tune-id/1025803",
+    "author": "এল মারেনা ইকো রিসোর্ট",
+    "author_slug": "elmarena",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_488ba6a60d3b9e816ed6c0bd418815fb-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/tips-and-tricks-1025803.md",
+    "content_hash": "e76edcfce94a068e281f14d9d5eb56f90536304d34b584ba161b382dcb4ce81c"
+  },
+  {
+    "archive_id": "techtunes-1025815",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025815,
+    "title": "প্রোগ্রামিং না জেনেও অ্যাপ ডেভেলপার: আমার ফ্রি Flutter কোর্স আর শেখার রোডম্যাপ ২০২৬",
+    "slug": "programming-1025815",
+    "language": "bn",
+    "excerpt": "আসসালামু আলাইকুম। টেকটিউনস কমিউনিটি, কেমন আছেন সবাই? আশাকরি ভালো আছেন। অ্যাপ ডেভেলপমেন্ট শেখার ইচ্ছা অনেকেরই থাকে, কিন্তু শুরু করতে গিয়ে বেশিরভাগ মানুষ আটকে যান। কোথা থেকে শুরু করবো? আগে কোন ল্যাঙ্গুয়েজ শিখবো? Android আর iOS কি আলাদা আলাদা শিখতে হবে? ইউটিউবে হাজারটা টিউটোরিয...",
+    "published_at": "2026-11-20T20:36:00+00:00",
+    "modified_at": "2026-11-20T20:36:00+00:00",
+    "original_url": "https://www.techtunes.io/programming/tune-id/1025815",
+    "author": "এনামুল হক",
+    "author_slug": "ezatechbd",
+    "categories": [
+      "প্রোগ্রামিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_b6d5566cc92478cc0171f12fb99b7063-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/programming-1025815.md",
+    "content_hash": "6da19348f94f25021877ba084e1a54b059c863b481547d003a84b19ba70dd034"
+  },
+  {
     "archive_id": "techtunes-1025812",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -4980,7 +5046,7 @@
     "tags": [],
     "featured_image": "media/techtunes/techtunes_3ce05c99e2a43a7cb57f5ea19f2f69aa-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2026/sponsored-tune-1023447.md",
-    "content_hash": "77741a26bda6d124974338581c7bb6d1ca2229a8adaae9ceb9473006fef59e8f"
+    "content_hash": "8969c90404de10af59c30c6cbc2d06af28844d6206833fbc3a5588db336c2bf4"
   },
   {
     "archive_id": "techtunes-1023443",
@@ -151401,6 +151467,28 @@
     "content_hash": "f1cfb3dc7f103bb1e30292ceccb3f1d534d3654fc26b4ae916e146b9b01cd7ae"
   },
   {
+    "archive_id": "techtunes-583210",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 583210,
+    "title": "ফেস আনলক ব্যবহার করুন রেডমি ফোনে",
+    "slug": "featured-583210",
+    "language": "bn",
+    "excerpt": "নমস্কার বন্ধুরা বর্তমান সময়ে সমস্ত স্মার্টফোন কোম্পানীদের মধ্যে একটা রেসারেসি শুরু হয়েছে। তারা মার্কেটে নিজেদের আয়ত্তে রাখার জন্য নিত্ত নতুন স্মার্টফোন লঞ্চ করছে। তার মধ্যে কিছু ফোন ফ্লাগশিপ আবার কিছু ফোন মিডরেঞ্জ (৭-১৫ হাজার টাকা)। ফ্লাগশিপ ফোন গুলিতে উন্নত মানের হার্ডওয়্যার,...",
+    "published_at": "2018-05-28T02:36:00+00:00",
+    "modified_at": "2018-05-28T02:39:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/583210",
+    "author": "সুজিত মন্ডল",
+    "author_slug": "msujit71",
+    "categories": [
+      "নির্বাচিত"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_803bc6356bc49702cba33036a5d3e0d5-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2018/featured-583210.md",
+    "content_hash": "dbf52843272cad4c923ac10290f9fa9f84dd780d1985f4d3320d37720b3f0526"
+  },
+  {
     "archive_id": "techtunes-582123",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -153362,6 +153450,28 @@
     "featured_image": "media/techtunes/techtunes_82a2a8855b4ef955b70ed97206795dab-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2018/internet-577937.md",
     "content_hash": "0b4f2822c87697aedea4e5fc7afb2142125cbc2ec5f63d5a421676b93506f2e7"
+  },
+  {
+    "archive_id": "techtunes-577254",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 577254,
+    "title": "ক্রিকেট প্রেমীদের জন্যে অসাধারন একটি অ্যান্ড্রয়েড এপ",
+    "slug": "android-577254",
+    "language": "bn",
+    "excerpt": "যারা ক্রিকেট খেলার ফ্যান, সময় পেলেই ক্রিকেট খেলা দেখেন কিন্তু কাজের ব্যস্ততার কারণে খেলা দেখার সুযোগ পান না কিন্তু সময় পেলেই নেটে ঢুকে স্কোর দেখেন। অথবা আপনি যদি হয়ে থাকেন ক্রিকেট খেলার দেয় হার্ড ফ্যান রাস্তাঘাট অফিস সবখানে বসেই খেলার খবর দেখতে চান সাথে খেলা চলার সাথে সাথে লাই...",
+    "published_at": "2018-04-30T06:37:00+00:00",
+    "modified_at": "2018-04-30T06:38:00+00:00",
+    "original_url": "https://www.techtunes.io/android/tune-id/577254",
+    "author": "এম রহমান",
+    "author_slug": "mrahaman-cse",
+    "categories": [
+      "অ্যান্ড্রয়েড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_ba4c4d16f6c1c185531417059152c344-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2018/android-577254.md",
+    "content_hash": "9de8e1b86d89228f5b031a6774beb5ef272c5dd64639d1268bb24062718dee7d"
   },
   {
     "archive_id": "techtunes-576076",
@@ -219123,6 +219233,28 @@
     "content_hash": "0fb1fcc43f97504802c3cd5881365e34d513560834e4465cee300df64594a0bd"
   },
   {
+    "archive_id": "techtunes-469191",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 469191,
+    "title": "ফটো ম্যানিপুলেশন টিউটোরিয়াল [পর্ব-০৬] :: কী করে আপনার ছবিকে প্রোফেশনাল এডিটরের মত এডিট করবেন এবং ছবিকে দিবেন সৌন্দর্যের এক ভিন্ন মাত্রা।",
+    "slug": "adobe-photoshop-469191",
+    "language": "bn",
+    "excerpt": "ফটো ম্যানিপুলেশন টিউটোরিয়াল ফটো ম্যানিপুলেশন টিউটোরিয়াল [পর্ব-০১] :: একটি ইমেজের ব্যাকগ্রাউন্ড চেঞ্জ করার খুব সহজ পদ্ধতি এবং সাথে আরো অনেক কিছু ফটো ম্যানিপুলেশন টিউটোরিয়াল [পর্ব-০২] :: কীভাবে একটি স্টাইলিশ ফটো তৈরী করতে পারেন সাথে ট্যাটু লাগানো, রিজব্যান্ড লাগানো সহ আরো অনেক ক...",
+    "published_at": "2016-11-08T16:46:00+00:00",
+    "modified_at": "2016-11-09T06:26:00+00:00",
+    "original_url": "https://www.techtunes.io/adobe-photoshop/tune-id/469191",
+    "author": "সাগর মাহতাব",
+    "author_slug": "sagor_mahtab",
+    "categories": [
+      "অ্যাডবি ফটোশপ"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Thumbil-tt.webp",
+    "markdown_path": "articles/techtunes/bangla/2016/adobe-photoshop-469191.md",
+    "content_hash": "ca30b1518bf929373fc9510baada4a8e0db866d310e555f3d81fd0c1f10abd18"
+  },
+  {
     "archive_id": "techtunes-468336",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -220512,6 +220644,28 @@
     "featured_image": "media/techtunes/00.-Featured-Image_e9abec2e.webp",
     "markdown_path": "articles/techtunes/bangla/2015/download-411075.md",
     "content_hash": "fca0964eaf78807d0e1a74c0289a1a7004239d7575e36facff7badb404fd18f8"
+  },
+  {
+    "archive_id": "techtunes-277221",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 277221,
+    "title": "টিউন্টারভিউ : হুমায়ূন আলমগীর – ফাউন্ডার ও ম্যানেজিং ডিরেক্টর, ক্লিকবিডি লিমিটেড",
+    "slug": "tuneterview-277221",
+    "language": "bn",
+    "excerpt": "টিউন্টারভিউ গেস্ট: হুমায়ূন আলমগীর - ফাউন্ডার ও ম্যানেজিং ডিরেক্টর, ক্লিকবিডি লিমিটেড টিউন্টারভিউ হোস্ট: রাকিবুল হাসান, টেকটিউনস টিউন্টারভিউ হোস্ট টিউন্টারভিউ ফটোগ্রাফি: জাকির হোসেন, টেকটিউনস টিউন্টারভিউ ফটোগ্রাফার টিউন্টারভিউ কম্পাইলারঃ ইমরান তপু সরদার সার্বিক সহযোগিতা: আনোয়ার...",
+    "published_at": "2015-12-05T11:59:00+00:00",
+    "modified_at": "2018-08-30T05:09:00+00:00",
+    "original_url": "https://www.techtunes.io/tuneterview/tune-id/277221",
+    "author": "টেকটিউনস",
+    "author_slug": "techtunes",
+    "categories": [
+      "টেকটিউনস টিউন্টারভিউ"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Techtunes-Featured_ClickBD-Tuneterview.webp",
+    "markdown_path": "articles/techtunes/bangla/2015/tuneterview-277221.md",
+    "content_hash": "5af48fe24980817080f87c96c725193cfe8584b0a9ba59e63a6d9b418340c1af"
   },
   {
     "archive_id": "techtunes-408046",
@@ -222929,6 +223083,28 @@
     "content_hash": "9a9c1e1456c444172bb6c24ee254d65c78dddb57a4e0cf3911c5adc9c29e3e24"
   },
   {
+    "archive_id": "techtunes-298299",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 298299,
+    "title": "সফটওয়্যার ডেভেলপমেন্ট ইন C শার্প (C#)- [পর্ব-০৭] :: User defined Type -২",
+    "slug": "programming-298299",
+    "language": "bn",
+    "excerpt": "ডেভেলপমেন্ট ইন C শার্প সফটওয়্যার ডেভেলপমেন্ট ইন C শার্প (C# )- [পর্ব-০১] :: নবীনদের জন্য -১ সফটওয়্যার ডেভেলপমেন্ট ইন C শার্প (C# )- [পর্ব-০২] :: নবীনদের জন্য -২ সফটওয়্যার ডেভেলপমেন্ট ইন C শার্প (C# )- [পর্ব-০৩] :: নবীনদের জন্য-৩ সফটওয়্যার ডেভেলপমেন্ট ইন C শার্প (C# )- [পর্ব-০৪...",
+    "published_at": "2014-08-12T06:49:00+00:00",
+    "modified_at": "2014-08-12T08:44:00+00:00",
+    "original_url": "https://www.techtunes.io/programming/tune-id/298299",
+    "author": "Hasnat Riaz",
+    "author_slug": "hasnat_riaz",
+    "categories": [
+      "প্রোগ্রামিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Microsoft-.Net_.webp",
+    "markdown_path": "articles/techtunes/bangla/2014/programming-298299.md",
+    "content_hash": "878e64af9b5283c691c12070d5718c2dee3fdb0d29d737c90660ff894fdc4218"
+  },
+  {
     "archive_id": "techtunes-291145",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -224503,6 +224679,28 @@
     "featured_image": "media/techtunes/AppInventor-Doc-Diagram.webp",
     "markdown_path": "articles/techtunes/bangla/2012/android-153134.md",
     "content_hash": "e07d624d3fcc2474297dccc4766bf6cc45194bfaa021d79cdd7f8c40004f3250"
+  },
+  {
+    "archive_id": "techtunes-149645",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 149645,
+    "title": "পি এল সি সম্পর্কে জানুন [পর্ব-০৪]",
+    "slug": "electronics-149645",
+    "language": "bn",
+    "excerpt": "পি এল সি সম্পর্কে জানুন পি এল সি সম্পর্কে জানুন [পর্ব-০১] পি এল সি সম্পর্কে জানুন [পর্ব-০২] পি এল সি সম্পর্কে জানুন [পর্ব-০৩] পি এল সি সম্পর্কে জানুন [পর্ব-০৪] পি এল সি সম্পর্কে জানুন [পর্ব-০৫] পি এল সি সম্পর্কে জানুন [পর্ব-০৬] পি এল সি সম্পর্কে জানুন [পর্ব-০৭] পি এল সি সম্পর্...",
+    "published_at": "2012-09-15T09:44:00+00:00",
+    "modified_at": "2012-09-29T17:45:00+00:00",
+    "original_url": "https://www.techtunes.io/electronics/tune-id/149645",
+    "author": "স্বপন",
+    "author_slug": "shopon-walton",
+    "categories": [
+      "ইলেক্ট্রনিক্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/PLC-75x75.webp",
+    "markdown_path": "articles/techtunes/bangla/2012/electronics-149645.md",
+    "content_hash": "79aa346194dade4643edfaa662fbcd3f739722241d54956ddc82a0b1430a4569"
   },
   {
     "archive_id": "techtunes-145575",
@@ -226408,6 +226606,28 @@
     "featured_image": "media/techtunes/techtunes_88824477ee0c6f0ee9d974d8f3992c25-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2009/featured-16401.md",
     "content_hash": "4256f39a32ee86b6a6cf0a8a7de3d63a9cc2bf91f8966a402c96b14224c40515"
+  },
+  {
+    "archive_id": "techtunes-16365",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 16365,
+    "title": "এবার প্রফেশনালদের মত ডায়াগ্রাম করুন অনলাইনে",
+    "slug": "featured-16365",
+    "language": "bn",
+    "excerpt": "সেই সময়টা এখন আর বেশি দূরে নয় যখন ওয়েবওয়্যার গুলোই আমাদের প্রধান হাতিয়ার হয়ে উঠবে। টেকটিউন্সে আজ পর্যন্ত কমবেশি বহু ওয়েবওয়্যার নিয়ে টিউন হয়েছে। আজ আবারও এসেছি আরেকটি ওয়েবওয়্যার নিয়ে। যা দিয়ে আপনি অনলাইনে বসেই প্রফেশনালদের মত ডায়াগ্রাম তৈরী করতে পারবেন। হ্যাঁ, ক্রিয়েটলি হচ্ছে এ...",
+    "published_at": "2009-12-24T05:31:00+00:00",
+    "modified_at": "2010-02-05T05:52:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/16365",
+    "author": "দুঃসাহসী টিনটিন",
+    "author_slug": "sohanboy",
+    "categories": [
+      "ওয়েবওয়্যার"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Creately.webp",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-16365.md",
+    "content_hash": "4a8b266b858afb54cb479c5c9eaa241c578607732252776e375ff9104bf831f8"
   },
   {
     "archive_id": "techtunes-15023",

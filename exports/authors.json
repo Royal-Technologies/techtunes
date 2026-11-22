@@ -96,7 +96,7 @@
     "url": "https://www.techtunes.io/tuner/techtunes",
     "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/4/67568cf4a325d-bpfull.png",
     "description": "",
-    "article_count": 136
+    "article_count": 137
   },
   {
     "id": 5744,
@@ -583,17 +583,6 @@
     "article_count": 17
   },
   {
-    "id": 6455,
-    "source": "techtunes",
-    "wordpress_author_id": 1544612343,
-    "name": "আব্দুল মোমিন",
-    "slug": "abdulmomine63",
-    "url": "https://www.techtunes.io/tuner/abdulmomine63",
-    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/53479/594060a46f69d-bpfull.jpg",
-    "description": "",
-    "article_count": 15
-  },
-  {
     "id": 9038,
     "source": "techtunes",
     "wordpress_author_id": 1485072652,
@@ -601,6 +590,17 @@
     "slug": "sohanboy",
     "url": "https://www.techtunes.io/tuner/sohanboy",
     "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/175/5e20445444073-bpfull.jpg",
+    "description": "",
+    "article_count": 16
+  },
+  {
+    "id": 6455,
+    "source": "techtunes",
+    "wordpress_author_id": 1544612343,
+    "name": "আব্দুল মোমিন",
+    "slug": "abdulmomine63",
+    "url": "https://www.techtunes.io/tuner/abdulmomine63",
+    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/53479/594060a46f69d-bpfull.jpg",
     "description": "",
     "article_count": 15
   },
@@ -4521,6 +4521,17 @@
     "article_count": 2
   },
   {
+    "id": 5665,
+    "source": "techtunes",
+    "wordpress_author_id": 1294944450,
+    "name": "এম রহমান",
+    "slug": "mrahaman-cse",
+    "url": "https://www.techtunes.io/tuner/mrahaman-cse",
+    "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
+    "description": "",
+    "article_count": 2
+  },
+  {
     "id": 606,
     "source": "techtunes",
     "wordpress_author_id": 908010039,
@@ -4528,6 +4539,17 @@
     "slug": "mj-ashik",
     "url": "https://www.techtunes.io/tuner/mj-ashik",
     "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
+    "description": "",
+    "article_count": 2
+  },
+  {
+    "id": 9,
+    "source": "techtunes",
+    "wordpress_author_id": 377654587,
+    "name": "এল মারেনা ইকো রিসোর্ট",
+    "slug": "elmarena",
+    "url": "https://www.techtunes.io/tuner/elmarena",
+    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/113580/6ae31749ac11d-bpfull.png",
     "description": "",
     "article_count": 2
   },
@@ -6332,6 +6354,17 @@
     "slug": "hmsharif",
     "url": "https://www.techtunes.io/tuner/hmsharif",
     "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/80944/5a1e1a3358127-bpfull.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
+    "id": 9767,
+    "source": "techtunes",
+    "wordpress_author_id": 315463366,
+    "name": "Hasnat Riaz",
+    "slug": "hasnat_riaz",
+    "url": "https://www.techtunes.io/tuner/hasnat_riaz",
+    "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
     "description": "",
     "article_count": 1
   },
@@ -8569,6 +8602,17 @@
     "article_count": 1
   },
   {
+    "id": 9719,
+    "source": "techtunes",
+    "wordpress_author_id": 1604639658,
+    "name": "এনামুল হক",
+    "slug": "ezatechbd",
+    "url": "https://www.techtunes.io/tuner/ezatechbd",
+    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/109676/6b00b0b03b900-bpfull.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
     "id": 2204,
     "source": "techtunes",
     "wordpress_author_id": 1858214467,
@@ -8602,17 +8646,6 @@
     "article_count": 1
   },
   {
-    "id": 5665,
-    "source": "techtunes",
-    "wordpress_author_id": 1294944450,
-    "name": "এম রহমান",
-    "slug": "mrahaman-cse",
-    "url": "https://www.techtunes.io/tuner/mrahaman-cse",
-    "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
-    "description": "",
-    "article_count": 1
-  },
-  {
     "id": 8942,
     "source": "techtunes",
     "wordpress_author_id": 1553796730,
@@ -8620,17 +8653,6 @@
     "slug": "emran.imam",
     "url": "https://www.techtunes.io/tuner/emran.imam",
     "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
-    "description": "",
-    "article_count": 1
-  },
-  {
-    "id": 9,
-    "source": "techtunes",
-    "wordpress_author_id": 377654587,
-    "name": "এল মারেনা ইকো রিসোর্ট",
-    "slug": "elmarena",
-    "url": "https://www.techtunes.io/tuner/elmarena",
-    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/113580/6ae31749ac11d-bpfull.png",
     "description": "",
     "article_count": 1
   },
@@ -12573,6 +12595,17 @@
     "article_count": 1
   },
   {
+    "id": 9720,
+    "source": "techtunes",
+    "wordpress_author_id": 1773429934,
+    "name": "রাফা রোকা",
+    "slug": "balakcity",
+    "url": "https://www.techtunes.io/tuner/balakcity",
+    "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
     "id": 8847,
     "source": "techtunes",
     "wordpress_author_id": 1071827533,
@@ -13442,6 +13475,17 @@
     "article_count": 1
   },
   {
+    "id": 9765,
+    "source": "techtunes",
+    "wordpress_author_id": 486860023,
+    "name": "সাগর মাহতাব",
+    "slug": "sagor_mahtab",
+    "url": "https://www.techtunes.io/tuner/sagor_mahtab",
+    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/72789/0cbe23d03539e343b5567db8d2e9f3dc-bpfull.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
     "id": 3938,
     "source": "techtunes",
     "wordpress_author_id": 1252148579,
@@ -13706,6 +13750,17 @@
     "article_count": 1
   },
   {
+    "id": 9761,
+    "source": "techtunes",
+    "wordpress_author_id": 1447716222,
+    "name": "সুজিত মন্ডল",
+    "slug": "msujit71",
+    "url": "https://www.techtunes.io/tuner/msujit71",
+    "avatar_url": "https://dnc.techtunes.io/tDrive/tuner/avatars/87541/5b27b64e3f291-bpfull.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
     "id": 5517,
     "source": "techtunes",
     "wordpress_author_id": 1994868238,
@@ -13899,6 +13954,17 @@
     "name": "স্বকৃত শিশির",
     "slug": "asmshishir",
     "url": "https://www.techtunes.io/tuner/asmshishir",
+    "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
+    "description": "",
+    "article_count": 1
+  },
+  {
+    "id": 9769,
+    "source": "techtunes",
+    "wordpress_author_id": 412197333,
+    "name": "স্বপন",
+    "slug": "shopon-walton",
+    "url": "https://www.techtunes.io/tuner/shopon-walton",
     "avatar_url": "https://dnc.techtunes.io/wp-content/plugins/buddypress/bp-core/images/mystery-man.jpg",
     "description": "",
     "article_count": 1

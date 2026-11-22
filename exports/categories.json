@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 902
+    "count": 903
   },
   {
     "id": 139,
@@ -78,7 +78,7 @@
     "name": "অ্যান্ড্রয়েড",
     "slug": "android",
     "description": "",
-    "count": 242
+    "count": 243
   },
   {
     "id": 93,
@@ -159,7 +159,7 @@
     "name": "নির্বাচিত",
     "slug": "featured",
     "description": "",
-    "count": 121
+    "count": 122
   },
   {
     "id": 8,
@@ -168,7 +168,7 @@
     "name": "অ্যাডবি ফটোশপ",
     "slug": "adobe-photoshop",
     "description": "",
-    "count": 119
+    "count": 120
   },
   {
     "id": 29,
@@ -186,7 +186,7 @@
     "name": "ওয়েবওয়্যার",
     "slug": "webware",
     "description": "",
-    "count": 112
+    "count": 113
   },
   {
     "id": 106,
@@ -195,7 +195,7 @@
     "name": "প্রোগ্রামিং",
     "slug": "programming",
     "description": "",
-    "count": 110
+    "count": 112
   },
   {
     "id": 55,
@@ -216,6 +216,15 @@
     "count": 106
   },
   {
+    "id": 68,
+    "source": "techtunes",
+    "wordpress_category_id": 459343157,
+    "name": "গেমস",
+    "slug": "games",
+    "description": "",
+    "count": 92
+  },
+  {
     "id": 104,
     "source": "techtunes",
     "wordpress_category_id": 1235585996,
@@ -230,15 +239,6 @@
     "wordpress_category_id": 1579133967,
     "name": "ওয়েব ডেভেলপমেন্ট",
     "slug": "web-development",
-    "description": "",
-    "count": 91
-  },
-  {
-    "id": 68,
-    "source": "techtunes",
-    "wordpress_category_id": 459343157,
-    "name": "গেমস",
-    "slug": "games",
     "description": "",
     "count": 91
   },
@@ -267,7 +267,7 @@
     "name": "ইলেক্ট্রনিক্স",
     "slug": "electronics",
     "description": "",
-    "count": 72
+    "count": 73
   },
   {
     "id": 4,
@@ -756,6 +756,15 @@
     "count": 7
   },
   {
+    "id": 86,
+    "source": "techtunes",
+    "wordpress_category_id": 1603648765,
+    "name": "টেকটিউনস টিউন্টারভিউ",
+    "slug": "tuneterview",
+    "description": "",
+    "count": 7
+  },
+  {
     "id": 141,
     "source": "techtunes",
     "wordpress_category_id": 490798843,
@@ -797,15 +806,6 @@
     "wordpress_category_id": 2022408572,
     "name": "জাভাস্ক্রিট",
     "slug": "javascript",
-    "description": "",
-    "count": 6
-  },
-  {
-    "id": 86,
-    "source": "techtunes",
-    "wordpress_category_id": 1603648765,
-    "name": "টেকটিউনস টিউন্টারভিউ",
-    "slug": "tuneterview",
     "description": "",
     "count": 6
   },
