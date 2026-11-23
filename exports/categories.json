@@ -33,7 +33,7 @@
     "name": "অন্যান্য",
     "slug": "other",
     "description": "",
-    "count": 539
+    "count": 540
   },
   {
     "id": 25,
@@ -60,7 +60,7 @@
     "name": "টিউটোরিয়াল",
     "slug": "tutorial",
     "description": "",
-    "count": 281
+    "count": 282
   },
   {
     "id": 105,
@@ -114,7 +114,7 @@
     "name": "মোবাইলীয়",
     "slug": "mobileo",
     "description": "",
-    "count": 163
+    "count": 164
   },
   {
     "id": 69,
@@ -177,7 +177,7 @@
     "name": "উইন্ডোস",
     "slug": "windows",
     "description": "",
-    "count": 118
+    "count": 119
   },
   {
     "id": 50,
@@ -222,7 +222,7 @@
     "name": "গেমস",
     "slug": "games",
     "description": "",
-    "count": 92
+    "count": 93
   },
   {
     "id": 104,
@@ -267,7 +267,7 @@
     "name": "ইলেক্ট্রনিক্স",
     "slug": "electronics",
     "description": "",
-    "count": 73
+    "count": 74
   },
   {
     "id": 4,
@@ -375,7 +375,7 @@
     "name": "অটোডেস্ক অটোক্যাড",
     "slug": "autodesk-autocad",
     "description": "",
-    "count": 34
+    "count": 35
   },
   {
     "id": 20,
@@ -792,6 +792,15 @@
     "count": 6
   },
   {
+    "id": 66,
+    "source": "techtunes",
+    "wordpress_category_id": 1291489629,
+    "name": "গুগল মেইল",
+    "slug": "google-mail",
+    "description": "",
+    "count": 6
+  },
+  {
     "id": 67,
     "source": "techtunes",
     "wordpress_category_id": 1525822896,
@@ -835,15 +844,6 @@
     "slug": "setelite-tv",
     "description": "",
     "count": 6
-  },
-  {
-    "id": 66,
-    "source": "techtunes",
-    "wordpress_category_id": 1291489629,
-    "name": "গুগল মেইল",
-    "slug": "google-mail",
-    "description": "",
-    "count": 5
   },
   {
     "id": 78,
