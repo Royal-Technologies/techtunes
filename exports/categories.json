@@ -15,7 +15,7 @@
     "name": "টিপস এন্ড ট্রিকস",
     "slug": "tips-and-tricks",
     "description": "",
-    "count": 903
+    "count": 904
   },
   {
     "id": 139,
@@ -150,7 +150,7 @@
     "name": "রিভিউ",
     "slug": "review",
     "description": "",
-    "count": 130
+    "count": 131
   },
   {
     "id": 97,
@@ -159,7 +159,7 @@
     "name": "নির্বাচিত",
     "slug": "featured",
     "description": "",
-    "count": 122
+    "count": 123
   },
   {
     "id": 8,
@@ -195,7 +195,7 @@
     "name": "প্রোগ্রামিং",
     "slug": "programming",
     "description": "",
-    "count": 112
+    "count": 113
   },
   {
     "id": 55,
@@ -225,6 +225,15 @@
     "count": 93
   },
   {
+    "id": 49,
+    "source": "techtunes",
+    "wordpress_category_id": 1579133967,
+    "name": "ওয়েব ডেভেলপমেন্ট",
+    "slug": "web-development",
+    "description": "",
+    "count": 92
+  },
+  {
     "id": 104,
     "source": "techtunes",
     "wordpress_category_id": 1235585996,
@@ -232,15 +241,6 @@
     "slug": "reports",
     "description": "",
     "count": 92
-  },
-  {
-    "id": 49,
-    "source": "techtunes",
-    "wordpress_category_id": 1579133967,
-    "name": "ওয়েব ডেভেলপমেন্ট",
-    "slug": "web-development",
-    "description": "",
-    "count": 91
   },
   {
     "id": 52,
@@ -267,7 +267,7 @@
     "name": "ইলেক্ট্রনিক্স",
     "slug": "electronics",
     "description": "",
-    "count": 74
+    "count": 75
   },
   {
     "id": 4,
@@ -288,6 +288,15 @@
     "count": 69
   },
   {
+    "id": 21,
+    "source": "techtunes",
+    "wordpress_category_id": 787721116,
+    "name": "আউটসোর্সিং",
+    "slug": "outsourcing",
+    "description": "",
+    "count": 68
+  },
+  {
     "id": 94,
     "source": "techtunes",
     "wordpress_category_id": 665481037,
@@ -295,15 +304,6 @@
     "slug": "digital-marketing",
     "description": "",
     "count": 68
-  },
-  {
-    "id": 21,
-    "source": "techtunes",
-    "wordpress_category_id": 787721116,
-    "name": "আউটসোর্সিং",
-    "slug": "outsourcing",
-    "description": "",
-    "count": 67
   },
   {
     "id": 38,
@@ -537,7 +537,7 @@
     "name": "চিকিৎসা বিজ্ঞান",
     "slug": "medical-science",
     "description": "",
-    "count": 16
+    "count": 17
   },
   {
     "id": 124,
