@@ -1,5 +1,27 @@
 [
   {
+    "archive_id": "techtunes-1025832",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025832,
+    "title": "আমার ইবাদাত: Quran and Namaz ও EmrazTV Desktop – আমার তৈরি দুটি ফ্রি অ্যাপ ও সফটওয়্যার",
+    "slug": "android-apps-1025832",
+    "language": "bn",
+    "excerpt": "আমার তৈরি দুটি ভিন্নধর্মী অ্যাপ — আমার ইবাদাত: Quran and Namaz ও EmrazTV Desktop | একটি ইবাদাতের জন্য, অন্যটি বিনোদনের জন্য! আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু। প্রযুক্তিকে কাজে লাগিয়ে মানুষের দৈনন্দিন জীবনের কিছু প্রয়োজন সহজ করার চেষ্টা থেকেই আমার দুটি ব্যক্ত...",
+    "published_at": "2026-11-25T17:27:00+00:00",
+    "modified_at": "2026-11-25T18:11:00+00:00",
+    "original_url": "https://www.techtunes.io/android-apps/tune-id/1025832",
+    "author": "ইমরাজ হোসেন",
+    "author_slug": "matir-manus",
+    "categories": [
+      "অ্যান্ড্রয়েড Apps"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_221f3749def799edfcd9d489b3f0fe81-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/android-apps-1025832.md",
+    "content_hash": "1fd1429b5175faa63eecc6637d5719cd1d3164dce244a4137937ff04cdfcf0fa"
+  },
+  {
     "archive_id": "techtunes-1025826",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -5068,7 +5090,7 @@
     "tags": [],
     "featured_image": "media/techtunes/techtunes_3ce05c99e2a43a7cb57f5ea19f2f69aa-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2026/sponsored-tune-1023447.md",
-    "content_hash": "5d7c4bc4a740cfab8f590db362ee72c585ebcd10c8e3f1c1a949952a13359426"
+    "content_hash": "77741a26bda6d124974338581c7bb6d1ca2229a8adaae9ceb9473006fef59e8f"
   },
   {
     "archive_id": "techtunes-1023443",
@@ -218385,6 +218407,28 @@
     "content_hash": "89e90cf8fd251a62259b7c015d3fa88c54be86d4d45bd735ee4064c10737e28e"
   },
   {
+    "archive_id": "techtunes-481594",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 481594,
+    "title": "ইলেকট্রনিক্স প্রজেক্ট [পর্ব-১১] :: নিজের হাতে তৈরি করুন BLOWER মেসিন মাত্র 150 থেকে 200 টাকা দিয়ে।",
+    "slug": "electronics-481594",
+    "language": "bn",
+    "excerpt": "ইলেক্ট্রনিক্স প্রোজেক্ট ইলেকট্রনিক্স প্রজেক্ট [পর্ব-9] :: এখন থেকে আপনার মোবাইল ফোন চার্জ করুন নিজের হাতে তৈরী করা বিদ্যুৎ দিয়ে। বাংলাদেশ সরকারের 220V বিদ্যুৎ এর প্রয়োজন হবেনা DC বেটারি 12V অথবা পেনসিল বেটারি অথবা পাওয়ার ব্যাংক কিছুই লাগবে না। ইলেকট্রনিক্স প্রজেক্ট [পর্ব-০...",
+    "published_at": "2017-02-14T06:30:00+00:00",
+    "modified_at": "2017-08-07T07:26:00+00:00",
+    "original_url": "https://www.techtunes.io/electronics/tune-id/481594",
+    "author": "শান্ত খান",
+    "author_slug": "santo-khan",
+    "categories": [
+      "ইলেক্ট্রনিক্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/3_41b2f555.webp",
+    "markdown_path": "articles/techtunes/bangla/2017/electronics-481594.md",
+    "content_hash": "412225d0329c63947181274740b6f53b7bed5c148ee6413b88995a7fe53ccc74"
+  },
+  {
     "archive_id": "techtunes-481550",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -222991,6 +223035,28 @@
     "content_hash": "3182a942d7bcd331a73eb55abba3524d58ab59d9a194005fa770937e6f2d1526"
   },
   {
+    "archive_id": "techtunes-330742",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 330742,
+    "title": "ভিডিও দেখুন, সি শার্প শিখুন [পর্ব-৪] ::  সি শার্প বেসিক-৪ (ভিডিও টিউন)",
+    "slug": "programming-330742",
+    "language": "bn",
+    "excerpt": "ভিডিও দেখুন, সি শার্প শিখুন ভিডিও দেখুন, সি শার্প শিখুন [পর্ব-১] :: সি শার্প বেসিক-১ (ভিডিও টিউন) ভিডিও দেখুন, সি শার্প শিখুন [পর্ব-২] :: সি শার্প বেসিক-২ (ভিডিও টিউন) ভিডিও দেখুন, সি শার্প শিখুন [পর্ব-৩] :: সি শার্প বেসিক-৩ (ভিডিও টিউন) ভিডিও দেখুন, সি শার্প শিখুন [পর্ব-৪] ::...",
+    "published_at": "2015-01-22T17:43:00+00:00",
+    "modified_at": "2015-02-18T09:55:00+00:00",
+    "original_url": "https://www.techtunes.io/programming/tune-id/330742",
+    "author": "অসীম কুমার পাল",
+    "author_slug": "ashim",
+    "categories": [
+      "প্রোগ্রামিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/csharp.webp",
+    "markdown_path": "articles/techtunes/bangla/2015/programming-330742.md",
+    "content_hash": "9d9a12299b8980e9d739a3d6b21a78d41eb30e85daa6bc592ce700e995caf498"
+  },
+  {
     "archive_id": "techtunes-330192",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -223237,6 +223303,28 @@
     "content_hash": "8892fca7e7f6e0e28f54c0a7b3ce78a817f2701efc858fd080f2d689446494dd"
   },
   {
+    "archive_id": "techtunes-309496",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 309496,
+    "title": "ফেসবুকের পোকা [পর্ব ১৬] :: এক ক্লিকে রিমুভ করে ফেলুন আপনার ফেসবুকের ইনঅ্যাক্টিভ ফ্রেন্ড গুলোকে।",
+    "slug": "facebook-309496",
+    "language": "bn",
+    "excerpt": "ফেসবুকের পোকা ফেসবুকের পোকা [পর্ব ০১] :: আপনার ফেসবুকের কভার পিকচার হয়ে যাবে আয়না, চরম টাইমলাইন কভার। ফেসবুকের পোকা [পর্ব ০২] :: ফেসবুকের জন্য জটিল একটি টাইমলাইন/কভার ফটো (Timeline/Cover Photo) না পারলে আমি বানিয়ে দেবো [সহজ ভিডিও Tutorial] ফেসবুকের পোকা [পর্ব ০৩] :: শিখে নিন ...",
+    "published_at": "2014-09-18T13:38:00+00:00",
+    "modified_at": "2014-12-22T19:07:00+00:00",
+    "original_url": "https://www.techtunes.io/facebook/tune-id/309496",
+    "author": "সোহাগ মিয়া",
+    "author_slug": "mad-singer-sohag",
+    "categories": [
+      "ফেসবুক"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/unfriend.webp",
+    "markdown_path": "articles/techtunes/bangla/2014/facebook-309496.md",
+    "content_hash": "21763ab910d603322169e8754637051b8fca78bfcb3674eeafa4e960c61ae644"
+  },
+  {
     "archive_id": "techtunes-308624",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -223323,6 +223411,28 @@
     "featured_image": "media/techtunes/Microsoft-.Net_.webp",
     "markdown_path": "articles/techtunes/bangla/2014/programming-298299.md",
     "content_hash": "878e64af9b5283c691c12070d5718c2dee3fdb0d29d737c90660ff894fdc4218"
+  },
+  {
+    "archive_id": "techtunes-297051",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 297051,
+    "title": "আফটার ইফেক্টস টিউটোরিয়াল [পর্ব-১২] :: এক্সপ্রেসন",
+    "slug": "adobe-aftereffects-297051",
+    "language": "bn",
+    "excerpt": "আফটার ইফেক্টস টিউটোরিয়াল আফটার ইফেক্টস টিউটোরিয়াল [পর্ব-০১] :: রিয়েলিস্টিক ফায়ার এবং স্মোক আফটার ইফেক্টস টিউটোরিয়াল [পর্ব-০২] :: লোগো অ্যানিমেশন আফটার ইফেক্টস টিউটোরিয়াল [পর্ব-০৩] :: থ্রিডি ফায়ার টেক্সট আফটার ইফেক্টস টিউটোরিয়াল [পর্ব-০৪] :: দুটি লোগো অ্যানিমেশন আফটার ইফেক্টস ট...",
+    "published_at": "2014-08-02T07:18:00+00:00",
+    "modified_at": "2014-08-02T08:02:00+00:00",
+    "original_url": "https://www.techtunes.io/adobe-aftereffects/tune-id/297051",
+    "author": "জাবেদ ভূঁইয়া",
+    "author_slug": "jaddaadda",
+    "categories": [
+      "অ্যাডবি আফারইফেক্টস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/ex.webp",
+    "markdown_path": "articles/techtunes/bangla/2014/adobe-aftereffects-297051.md",
+    "content_hash": "a7d2a5ac3d58ef80bf309c0ed650881634fc94b8d64ce4c61d1c39df29b2f2a9"
   },
   {
     "archive_id": "techtunes-292630",
@@ -224792,6 +224902,28 @@
     "featured_image": "media/techtunes/SC3.webp",
     "markdown_path": "articles/techtunes/bangla/2013/tech-talk-189836.md",
     "content_hash": "13f9db7037a5eaa073b2fd58cff925d9b812bebe6c4c60743a98b09f61975d51"
+  },
+  {
+    "archive_id": "techtunes-188926",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 188926,
+    "title": "গেমস জোন [পর্ব-৩১] :: রেসিডেন্ট ইভিল ৬  – Resident Evil 6 – バイオハザード 6  (2012-2013)",
+    "slug": "games-188926",
+    "language": "bn",
+    "excerpt": "গেমস জোন গেমস জোন [পর্ব-৮১] :: Chernobyl Commando (মিলিটারী শুটার/২০১৩) গেমস জোন [পর্ব-২৭৯] :: এসো PSP গেমসগুলো এবার পিসি এবং স্মার্টফোনে খেলি! গেমস জোন [পর্ব-৭৪] :: টাইমশিফট (২০০৭/FPS/পেন্টিয়াম ৪) গেমস জোন [পর্ব-৫৬] :: The Witcher II: Assassins of Kings (2011) গেমস জোন [পর্ব...",
+    "published_at": "2013-02-25T08:40:00+00:00",
+    "modified_at": "2013-03-21T17:51:00+00:00",
+    "original_url": "https://www.techtunes.io/games/tune-id/188926",
+    "author": "ফাহাদ হোসেন",
+    "author_slug": "little-jimmy",
+    "categories": [
+      "গেমস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/RC-CV.webp",
+    "markdown_path": "articles/techtunes/bangla/2013/games-188926.md",
+    "content_hash": "654e3c88645255e8d295af2f993996c83a50ecadaf67f1d23aa84740488dfb38"
   },
   {
     "archive_id": "techtunes-188311",
@@ -227114,6 +227246,28 @@
     "content_hash": "3425e1da9e28bb0b58c44c210c9296342c82cb4846241722a546004b72f7ad2c"
   },
   {
+    "archive_id": "techtunes-12506",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 12506,
+    "title": "অভিনব সব ওয়ালপেপার স্ক্রীণসেভার আর ডেস্কটপ উইগেট তৈরি করুন ফটোজয় দিয়ে",
+    "slug": "featured-12506",
+    "language": "bn",
+    "excerpt": "ছবি আমাদের জীবনের বিশেষ মূহুর্ত গুলোকে ধরে রাখে। ধরে রাখে আমাদের স্মৃতি। আমাদের এই প্রিয় ছবি গুলোকে আমরা বিভিন্ন ধরণের সফটওয়্যার দিয়ে নানান রূপ দিয়ে সৌন্দর্য বাড়িয়ে তুলতে পারি আরও এক ধাপ। আপনার প্রিয় ছবি বা ইমেজ দিয়ে আপনি তৈরি করতে পারেন অভিনব সব ওয়ালপেপার, স্ক্রীণসেভার, উইগেট...",
+    "published_at": "2009-11-06T15:38:00+00:00",
+    "modified_at": "2017-12-24T11:05:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/12506",
+    "author": "ইয়াসিন আরাফাত",
+    "author_slug": "yeasin-arafat",
+    "categories": [
+      "ডাউনলোড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/MG_3335-1140x450-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2009/featured-12506.md",
+    "content_hash": "bf049599b11d36f5f6f0f480dabcbdca6d811bcefe0815598f21ad73976841a8"
+  },
+  {
     "archive_id": "techtunes-10036",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -227227,6 +227381,28 @@
     "featured_image": "media/techtunes/techtunes_9ea0495a18717fcb5e9621f92d50e07b-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2008/featured-2001.md",
     "content_hash": "d21eeb1bd362b33920782a0949b59178568b40b8b4cd348cae691b6c9b76a686"
+  },
+  {
+    "archive_id": "techtunes-1335",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1335,
+    "title": "মিউজিক প্রেমিদের জন্যে সুখবর",
+    "slug": "featured-1335",
+    "language": "bn",
+    "excerpt": "আমরা অনেকেই মিউজিককে পাগলের মত ভালোবাসি এবং উরাধুরা ডাউনলো করে পিসি কে জ্যাম করে ফেলি। আমার এক বন্ধুর হার্ড রক মেটালের হেভী ফ্যান। তার ২৫৬গিগা হার্ডডিস্কের ১৫০গিগাই মনে হয় মেটালে পরিপূর্ণ। এখন সে ইদানিং হার্ডডিস্কের স্পেস বাড়াতে গিয়ে তার সাধের ডাউনলোড করা মেটাল গানগুলোকে নিয়ে ...",
+    "published_at": "2008-10-09T16:08:00+00:00",
+    "modified_at": "2018-03-21T12:10:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/1335",
+    "author": "দুঃসাহসী টিনটিন",
+    "author_slug": "sohanboy",
+    "categories": [
+      "ওয়েবওয়্যার"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_8f686c2c665af377f28d9ecc024ca304-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-1335.md",
+    "content_hash": "d6737f3be36af1551de1ad7fed75142b40529e8ffc2ea37dcb293de948812286"
   },
   {
     "archive_id": "techtunes-1415",
@@ -227487,6 +227663,28 @@
     "featured_image": "media/techtunes/resize-content-frame-figure-2-rework-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2008/featured-810.md",
     "content_hash": "6178ca89276528aa98ba9f6915f39db622609dd349f6870b23d7c73d7c51f783"
+  },
+  {
+    "archive_id": "techtunes-721",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 721,
+    "title": "ডিভাইস ড্রাইভার-১",
+    "slug": "featured-721",
+    "language": "bn",
+    "excerpt": "এখানে ডিভাইস ড্রাইভার সর্ম্পকে জানবো এবং দেখবো কিভাবে এটি নিয়ে আমরা কাজ করতে পারি আসনু প্রথমে জেনে নেওয়া যাক ভিভাইস কি? কম্পিউটারে যন্ত্রাংশ কে ডিভাইস বলা হয়। যেসন, সাউন্ড কাড, ল্যান কাড। এটি আলাদা ভাবে থাকতে পারে, আবার আপনার মাদারবোর্ড এর সাথে ইন্টিগ্রেড অবস্থায়ও থাকতে পারে। ...",
+    "published_at": "2008-08-11T18:07:00+00:00",
+    "modified_at": "2018-01-21T05:53:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/721",
+    "author": "মাইক্রোকাতার",
+    "author_slug": "microqatar",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_a43683d33b40f413228d54e3c6ed4a2f-640x360_b9933f7b.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-721.md",
+    "content_hash": "03fc57ee27116abca2e6886ef03312307a2bdea6f1fae7d71fc998eff21aba93"
   },
   {
     "archive_id": "techtunes-714",
