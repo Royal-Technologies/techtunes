@@ -17,13 +17,9 @@ author: বেসিস BASIS
 author_url: https://www.techtunes.io/tuner/basis
 categories:
 - আউটসোর্সিং
-tags:
-- নির্বাচিত
-- BASIS Outsourcing Award 2014
-- অ্যাওয়ার্ড
-- বেসিস
-content_hash: cb28b13ca99e62b5dfa3a69dab264bc8873d7458c6e0c9230a9c329ae2412411
-archived_at: '2026-11-12T12:58:17.489879+00:00'
+tags: []
+content_hash: 8648f1095beab8f4bf822a61a9010bd206975a0c492d3ec70329b065b79caff2
+archived_at: '2026-11-27T06:49:27.233332+00:00'
 ---
 
 বেসিস [BASIS (বাংলাদেশ এসোসিয়েশন অফ সফটওয়্যার এন্ড ইন্ফরমেশন সার্ভিসেস)](http://basis.org.bd) দেশের আউটসোর্সিং ও ফ্রিল্যান্সিংকে স্বীকৃতি ও উৎসাহ দিতে ২০১১ সাল থেকে আয়োজন করে আসছে BASIS Outsourcing Award. বিশাল পরিসরে দারুন জাঁকজমক অনুষ্ঠানের মাধ্যমে দেশের সফল আইটসোর্সার ও ফ্রিল্যাংন্সাদের পুরষ্কার প্রদান করে আসছে বেসিস।
@@ -80,4 +76,4 @@ archived_at: '2026-11-12T12:58:17.489879+00:00'
 - **খন্দকার পাভেল**
 - Cell: 01557778129(10:00 AM - 8:00 PM)
 
-- Email: [[email protected]](/cdn-cgi/l/email-protection#68071d1c1b071d1a0b01060f091f091a0c280a091b011b46071a0f460a0c)
+- Email: [[email protected]](/cdn-cgi/l/email-protection#f39c8687809c8681909a9d949284928197b39192809a80dd9c8194dd9197)

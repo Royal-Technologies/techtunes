@@ -1,5 +1,49 @@
 [
   {
+    "archive_id": "techtunes-1025841",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025841,
+    "title": "একই iPhone, দামের পার্থক্য ১০ হাজার টাকা! ফোন-ল্যাপটপ কেনার আগে ২২টি দোকানের দাম এক পাতায় দেখুন",
+    "slug": "ecommerce-1025841",
+    "language": "bn",
+    "excerpt": "আসসালামু আলাইকুম। কেমন আছেন সবাই? একটা প্রশ্ন দিয়ে শুরু করি: শেষবার ফোন বা ল্যাপটপ কেনার আগে কয়টা ওয়েবসাইট খুলেছিলেন? Star Tech, Ryans, Pickaboo, Apple Gadgets… এক ট্যাব থেকে আরেক ট্যাবে গিয়ে দাম মুখস্থ রাখা, তারপর আবার প্রথম ট্যাবে ফিরে যাওয়া। আমরা প্রায় সবাই এটা করি। এ...",
+    "published_at": "2026-11-26T20:57:00+00:00",
+    "modified_at": "2026-11-26T20:57:00+00:00",
+    "original_url": "https://www.techtunes.io/ecommerce/tune-id/1025841",
+    "author": "Md Iftekhar Hossain",
+    "author_slug": "mdifte",
+    "categories": [
+      "ইকমার্স"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_a350aa8a36cbefb07f13474049effc22-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/ecommerce-1025841.md",
+    "content_hash": "5fe6e1fe0a01e9246efde3b55f11a1c4dc68ee1e6182e86417f71ac3b3f940ee"
+  },
+  {
+    "archive_id": "techtunes-1025839",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 1025839,
+    "title": "Google AI Studio দিয়ে ২০ বা তার বেশি আয়ের মাস্টার প্লেন",
+    "slug": "tips-and-tricks-1025839",
+    "language": "bn",
+    "excerpt": "‎Google AI Studio দিয়ে অ্যাপ বানিয়ে Codester-এ সোর্স কোড বিক্রি করে আয়ের সম্পূর্ণ গাইড (পর্ব ১: পরিকল্পনা, মার্কেটপ্লেস পরিচিতি ও প্রজেক্ট সেটআপ) ‎​বর্তমান সময়ে সফটওয়্যার বা মোবাইল অ্যাপ তৈরি করে অনলাইনে প্যাসিভ ইনকাম করার ধারণাটি সম্পূর্ণ বদলে গেছে। আগে একটি পূর্ণাঙ্গ অ্যান্ড...",
+    "published_at": "2026-11-26T17:23:00+00:00",
+    "modified_at": "2026-11-26T17:23:00+00:00",
+    "original_url": "https://www.techtunes.io/tips-and-tricks/tune-id/1025839",
+    "author": "আয়ান কিং",
+    "author_slug": "ayanbepari",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_73da81b122ce1bf3c0cf56a52268ce7b-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2026/tips-and-tricks-1025839.md",
+    "content_hash": "bcdde31cc905dfe68d400f756aac52a63e7c109083cfdf9c11f8237a2ff942ad"
+  },
+  {
     "archive_id": "techtunes-1025832",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -5090,7 +5134,7 @@
     "tags": [],
     "featured_image": "media/techtunes/techtunes_3ce05c99e2a43a7cb57f5ea19f2f69aa-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2026/sponsored-tune-1023447.md",
-    "content_hash": "77741a26bda6d124974338581c7bb6d1ca2229a8adaae9ceb9473006fef59e8f"
+    "content_hash": "13ec65ed823e1239bac503a65394138e028200a2a54c7fd9b0841d7fda28e893"
   },
   {
     "archive_id": "techtunes-1023443",
@@ -223109,6 +223153,28 @@
     "content_hash": "db438e8158f6a7e4c145ec035bcff6e7c942ed9d26d72b8e3a6654430eaeeba4"
   },
   {
+    "archive_id": "techtunes-328061",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 328061,
+    "title": "ওয়ার্ডপ্রেস ওস্তাদ [পর্ব-০৬] :: ওয়ার্ডপ্রেস থিমে এডভান্সড পেজিনেশন যুক্ত করার পদ্ধতি",
+    "slug": "wordpress-328061",
+    "language": "bn",
+    "excerpt": "ওয়ার্ডপ্রেস ওস্তাদ ওয়ার্ডপ্রেস ওস্তাদ [পর্ব-০১] :: HTML টেমপ্লেট কে ওয়ার্ডপ্রেস থিমে রূপান্তরের জন্য প্রাথমিক করণীয় ওয়ার্ডপ্রেস ওস্তাদ [পর্ব-০২] :: HTML টেমপ্লেট কে ওয়ার্ডপ্রেস থিমে রূপান্তরের জন্য প্রাথমিক করণীয় ওয়ার্ডপ্রেস ওস্তাদ [পর্ব-০৩] :: ওয়ার্ডপ্রেস টেমপ্লেট-হায়ারআর্কি ...",
+    "published_at": "2015-01-07T03:48:00+00:00",
+    "modified_at": "2015-02-18T09:29:00+00:00",
+    "original_url": "https://www.techtunes.io/wordpress/tune-id/328061",
+    "author": "অসীম কুমার পাল",
+    "author_slug": "ashim",
+    "categories": [
+      "ওয়ার্ডপ্রেস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/1111.webp",
+    "markdown_path": "articles/techtunes/bangla/2015/wordpress-328061.md",
+    "content_hash": "60cf2b1020cd3028202128506a7c82bbde35b2bb6abc2b4c6e92a363b95e2fcb"
+  },
+  {
     "archive_id": "techtunes-325084",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -223634,7 +223700,7 @@
     "title": "বেসিস আউটসোর্সিং অ্যাওয়ার্ড ২০১৪। ৪ ক্যাটাগরিতে ১০০ টি আউটসোর্সিং অ্যাওয়ার্ড। ৬৪ জেলার প্রতি জেলায় ১টি করে আউটসোর্সিং/ফ্রিল্যান্সার অ্যাওয়ার্ড সহ নারী ফ্রিল্যান্সার অ্যাওয়ার্ড। রেজিস্ট্রেশন এর শেষ তারিখ ২৫ ফেব্রুয়ারী ২০১৪। দেশের যে জেলাতেই থাকুন না কেন রেজিস্ট্রেশন করুন এই মুহূর্তে!!",
     "slug": "featured-274836",
     "language": "bn",
-    "excerpt": "বেসিস BASIS (বাংলাদেশ এসোসিয়েশন অফ সফটওয়্যার এন্ড ইন্ফরমেশন সার্ভিসেস) দেশের আউটসোর্সিং ও ফ্রিল্যান্সিংকে স্বীকৃতি ও উৎসাহ দিতে ২০১১ সাল থেকে আয়োজন করে আসছে BASIS Outsourcing Award. বিশাল পরিসরে দারুন জাঁকজমক অনুষ্ঠানের মাধ্যমে দেশের সফল আইটসোর্সার ও ফ্রিল্যাংন্সাদের পুরষ্কার প্রদান করে আসছে বেসিস। সেই ধারাবাহাকতায় এই বছর ২০১৪ সালে বেসিস BASIS (বাংলাদেশ এসোসিয়েশন অফ সফটওয়্যার এন্ড […] Source",
+    "excerpt": "বেসিস BASIS (বাংলাদেশ এসোসিয়েশন অফ সফটওয়্যার এন্ড ইন্ফরমেশন সার্ভিসেস) দেশের আউটসোর্সিং ও ফ্রিল্যান্সিংকে স্বীকৃতি ও উৎসাহ দিতে ২০১১ সাল থেকে আয়োজন করে আসছে BASIS Outsourcing Award. বিশাল পরিসরে দারুন জাঁকজমক অনুষ্ঠানের মাধ্যমে দেশের সফল আইটসোর্সার ও ফ্রিল্যাংন্সাদের পুরষ্কার ...",
     "published_at": "2014-02-20T22:22:00+00:00",
     "modified_at": "2017-12-19T03:32:00+00:00",
     "original_url": "https://www.techtunes.io/featured/tune-id/274836",
@@ -223643,15 +223709,10 @@
     "categories": [
       "আউটসোর্সিং"
     ],
-    "tags": [
-      "BASIS Outsourcing Award 2014",
-      "অ্যাওয়ার্ড",
-      "নির্বাচিত",
-      "বেসিস"
-    ],
+    "tags": [],
     "featured_image": "media/techtunes/Award-Night-BASIS-Outsourcing-Award-140-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2014/featured-274836.md",
-    "content_hash": "cb28b13ca99e62b5dfa3a69dab264bc8873d7458c6e0c9230a9c329ae2412411"
+    "content_hash": "8648f1095beab8f4bf822a61a9010bd206975a0c492d3ec70329b065b79caff2"
   },
   {
     "archive_id": "techtunes-272749",
@@ -224953,6 +225014,28 @@
     "content_hash": "a591b105b3e191d1819fca36721feb5ebb4b9beaf2ebe98255ee12c5962be013"
   },
   {
+    "archive_id": "techtunes-187863",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 187863,
+    "title": "Microsoft Small Basic প্রোগ্রামিং [পর্ব-০৪] :: লুপ ও ব্রাঞ্চিং",
+    "slug": "programming-187863",
+    "language": "bn",
+    "excerpt": "Microsoft Small Basic প্রোগ্রামিং Microsoft Small Basic প্রোগ্রামিং [পর্ব-০১] :: প্রাথমিক আলোচনা Microsoft Small Basic প্রোগ্রামিং [পর্ব-০২] :: আরও একটু এডভান্স Microsoft Small Basic প্রোগ্রামিং [পর্ব-০৩] :: কন্ডিশনাল স্টেটমেন্ট Microsoft Small Basic প্রোগ্রামিং [পর্ব-০৪] :: ল...",
+    "published_at": "2013-02-20T17:21:00+00:00",
+    "modified_at": "2013-02-22T20:19:00+00:00",
+    "original_url": "https://www.techtunes.io/programming/tune-id/187863",
+    "author": "সাকিব",
+    "author_slug": "sakib2010",
+    "categories": [
+      "প্রোগ্রামিং"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/algo-loop.webp",
+    "markdown_path": "articles/techtunes/bangla/2013/programming-187863.md",
+    "content_hash": "d8e2445bdff2f25293ff98e783620fb672822b15edd86bb72539e73beb13a7c8"
+  },
+  {
     "archive_id": "techtunes-187468",
     "source": "techtunes",
     "source_name": "টেকটিউনস (Techtunes)",
@@ -225315,6 +225398,28 @@
     "featured_image": "media/techtunes/techtunes_ee6b953dd38ed7d28ba2c4bc8da12508-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2012/featured-134934.md",
     "content_hash": "8a1143c9a6aec44a1cf74a3bbe052ae222031b785cab12246ec33d996a1e62f9"
+  },
+  {
+    "archive_id": "techtunes-136178",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 136178,
+    "title": "গেমস জোন [পর্ব-৫] :: HALO 2 (2004) (2GB Direct Link)",
+    "slug": "games-136178",
+    "language": "bn",
+    "excerpt": "গেমস জোন গেমস জোন [পর্ব-৮১] :: Chernobyl Commando (মিলিটারী শুটার/২০১৩) গেমস জোন [পর্ব-২৭৯] :: এসো PSP গেমসগুলো এবার পিসি এবং স্মার্টফোনে খেলি! গেমস জোন [পর্ব-৭৪] :: টাইমশিফট (২০০৭/FPS/পেন্টিয়াম ৪) গেমস জোন [পর্ব-৫৬] :: The Witcher II: Assassins of Kings (2011) গেমস জোন [পর্ব...",
+    "published_at": "2012-07-10T11:31:00+00:00",
+    "modified_at": "2013-03-21T15:07:00+00:00",
+    "original_url": "https://www.techtunes.io/games/tune-id/136178",
+    "author": "ফাহাদ হোসেন",
+    "author_slug": "little-jimmy",
+    "categories": [
+      "গেমস"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/Wallpaper.webp",
+    "markdown_path": "articles/techtunes/bangla/2012/games-136178.md",
+    "content_hash": "50e04279e6b2bec16a23bce8f1aef164cc9d5102f1b9b56bbeb53e58dc18683d"
   },
   {
     "archive_id": "techtunes-132929",
@@ -227800,6 +227905,28 @@
     "featured_image": "media/techtunes/techtunes_911af7aa209e00b49f3d6fd2afa92564-640x360.webp",
     "markdown_path": "articles/techtunes/bangla/2008/featured-510.md",
     "content_hash": "73b176e158dfaef5bcb95dc978109d25d304b7e1bd0e5e1050edc40b8dd030f8"
+  },
+  {
+    "archive_id": "techtunes-499",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "wordpress_id": 499,
+    "title": "মজিলা ফায়ারফক্সকে বানিয়ে নিন আপনার ড্রয়িং টুল",
+    "slug": "featured-499",
+    "language": "bn",
+    "excerpt": "মজিলা ফায়ারফক্স 3 নিয়ে কিছুদিন আগেই লিখেছি। এখন কথা বলব মজিলা ফায়ারফক্স 3 এর নতুন রিলিজ হওয়া একটি অ্যাড অন নিয়ে। মজিলা ফায়ারফক্সের ইউজারদের নতুন করে অ্যাডঅনের সাথে পরিচয় করিয়ে দেয়ার দরকার নেই। এই অ্যাড অনগুলোকেই আমার বেশী ভালো লাগে। আমার মতে এটি মজিলা ফায়ারফক্সের এমন একটি বৈশি...",
+    "published_at": "2008-07-05T16:22:00+00:00",
+    "modified_at": "2018-01-15T05:00:00+00:00",
+    "original_url": "https://www.techtunes.io/featured/tune-id/499",
+    "author": "দুঃসাহসী টিনটিন",
+    "author_slug": "sohanboy",
+    "categories": [
+      "ডাউনলোড"
+    ],
+    "tags": [],
+    "featured_image": "media/techtunes/techtunes_e15946ed72bc6caaf36a070805109d7d-640x360.webp",
+    "markdown_path": "articles/techtunes/bangla/2008/featured-499.md",
+    "content_hash": "84f40e18c3b5c12412a9469caf9f55d87b0c91f6272e1c2fd3837bd9c7a7cc13"
   },
   {
     "archive_id": "techtunes-421",
