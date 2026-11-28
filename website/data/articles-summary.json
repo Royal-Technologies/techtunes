@@ -1,5 +1,28 @@
 [
   {
+    "archive_id": "techtunes-1025846",
+    "tune_id": 1025846,
+    "title": "শিশুর অতিরিক্ত মোবাইল স্ক্রিন-টাইম কমানোর আধুনিক মন্টেসরি পদ্ধতি",
+    "slug": "tips-and-tricks-1025846",
+    "source": "techtunes",
+    "source_name": "টেকটিউনস (Techtunes)",
+    "language": "bn",
+    "published_at": "2026-11-27T11:21:00+00:00",
+    "modified_at": "2026-11-27T11:21:00+00:00",
+    "year": "2026",
+    "excerpt": "বর্তমান ডিজিটাল যুগে অভিভাবকদের জন্য সবচেয়ে বড় দুশ্চিন্তার বিষয় হলো শিশুর অতিরিক্ত মোবাইল ও টিভি স্ক্রিনে আসক্তি। খাওয়ানোর সময় বা কান্না থামাতে গিয়ে অনেকেই শিশুর হাতে স্মার্টফোন তুলে দেন, যা ধীরে ধীরে অভ্যাসে পরিণত হয়। অতিরিক্ত স্ক্রিন-টাইম শিশুর মনোযোগের ক্ষমতা কমিয়ে দেয়, ঘুম...",
+    "author": "মোঃ রাসেল",
+    "author_slug": "edutoyzone_bd",
+    "author_url": "https://www.techtunes.io/tuner/edutoyzone_bd",
+    "categories": [
+      "টিপস এন্ড ট্রিকস"
+    ],
+    "tags": [],
+    "featured_image": "",
+    "original_url": "https://www.techtunes.io/tips-and-tricks/tune-id/1025846",
+    "markdown_path": "articles/techtunes/bangla/2026/tips-and-tricks-1025846.md"
+  },
+  {
     "archive_id": "techtunes-1025841",
     "tune_id": 1025841,
     "title": "একই iPhone, দামের পার্থক্য ১০ হাজার টাকা! ফোন-ল্যাপটপ কেনার আগে ২২টি দোকানের দাম এক পাতায় দেখুন",
@@ -8,7 +31,7 @@
     "source_name": "টেকটিউনস (Techtunes)",
     "language": "bn",
     "published_at": "2026-11-26T20:57:00+00:00",
-    "modified_at": "2026-11-26T20:57:00+00:00",
+    "modified_at": "2026-11-26T21:08:00+00:00",
     "year": "2026",
     "excerpt": "আসসালামু আলাইকুম। কেমন আছেন সবাই? একটা প্রশ্ন দিয়ে শুরু করি: শেষবার ফোন বা ল্যাপটপ কেনার আগে কয়টা ওয়েবসাইট খুলেছিলেন? Star Tech, Ryans, Pickaboo, Apple Gadgets… এক ট্যাব থেকে আরেক ট্যাবে গিয়ে দাম মুখস্থ রাখা, তারপর আবার প্রথম ট্যাবে ফিরে যাওয়া। আমরা প্রায় সবাই এটা করি। এ...",
     "author": "Md Iftekhar Hossain",
